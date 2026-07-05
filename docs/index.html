@@ -44,7 +44,11 @@
     <div class="updated" id="updated"></div>
   </header>
   <div id="content"></div>
-  <div style="text-align:center"><button class="refresh" onclick="load()">↻ Actualitzar</button></div>
+  <div style="text-align:center;display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+    <button class="refresh" onclick="load()">↻ Actualitzar</button>
+    <button class="refresh" id="notifBtn" onclick="activarNotificacions()">🔔 Activar notificacions</button>
+  </div>
+  <p id="subOut" style="display:none;font-size:12px;color:var(--muted);background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:12px;margin-top:14px;word-break:break-all;white-space:pre-wrap"></p>
   <footer>Generat automàticament amb IA · pot contenir errors</footer>
 </div>
 <script>
@@ -68,6 +72,56 @@ async function load(){
   }catch(e){document.getElementById("content").innerHTML='<div class="empty">No s\'ha pogut carregar el resum.</div>';}
 }
 load();
+
+// ── Notificacions push (Web Push) ─────────────────────────────
+const VAPID_PUBLIC_KEY = "BEbDKJ2DDUlVNlLusNQUZY7dX9QBij5Nb21PPFsfFLKtduYj-B8GAlzH1w3s78byS2tKAwaJh9ruOKCMYqW3ueI";
+
+function urlBase64ToUint8Array(base64String){
+  const padding = "=".repeat((4 - base64String.length % 4) % 4);
+  const base64 = (base64String + padding).replace(/-/g, "+").replace(/_/g, "/");
+  const raw = atob(base64);
+  const out = new Uint8Array(raw.length);
+  for(let i=0;i<raw.length;i++) out[i] = raw.charCodeAt(i);
+  return out;
+}
+
+async function activarNotificacions(){
+  const btn = document.getElementById("notifBtn");
+  const out = document.getElementById("subOut");
+  if(!("serviceWorker" in navigator) || !("PushManager" in window)){
+    out.style.display = "block";
+    out.textContent = "⚠️ Aquest navegador no admet notificacions push. A l'iPhone, obre l'app des de la icona de la pantalla d'inici (no des de Safari).";
+    return;
+  }
+  try{
+    btn.disabled = true;
+    const permis = await Notification.requestPermission();
+    if(permis !== "granted"){
+      out.style.display = "block";
+      out.textContent = "⚠️ Permís denegat. No es podran enviar notificacions.";
+      btn.disabled = false;
+      return;
+    }
+    const reg = await navigator.serviceWorker.ready;
+    let sub = await reg.pushManager.getSubscription();
+    if(!sub){
+      sub = await reg.pushManager.subscribe({
+        userVisibleOnly: true,
+        applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY)
+      });
+    }
+    const json = JSON.stringify(sub.toJSON());
+    out.style.display = "block";
+    out.textContent = "✅ Subscripció creada. Copia aquest text al secret PUSH_SUBSCRIPTION:\n\n" + json;
+    try{ await navigator.clipboard.writeText(json); out.textContent += "\n\n(Copiat al porta-retalls)"; }catch(_){}
+    btn.textContent = "🔔 Notificacions actives";
+  }catch(e){
+    out.style.display = "block";
+    out.textContent = "⚠️ Error en activar les notificacions: " + (e && e.message ? e.message : e);
+    btn.disabled = false;
+  }
+}
+
 if("serviceWorker" in navigator){navigator.serviceWorker.register("./sw.js");}
 </script>
 </body>

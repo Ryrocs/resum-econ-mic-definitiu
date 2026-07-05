@@ -16,9 +16,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Instal·lar web-push
+        run: npm install web-push
       - name: Generar el resum
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PUSH_SUBSCRIPTION: ${{ secrets.PUSH_SUBSCRIPTION }}
+          VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
         run: node summary.js
       - name: Publicar a la web
         run: |

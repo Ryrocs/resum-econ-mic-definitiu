@@ -63,6 +63,29 @@ async function main() {
   fs.mkdirSync("docs", { recursive: true });
   fs.writeFileSync("docs/data.json", JSON.stringify(out, null, 2), "utf8");
   console.log("Escrit docs/data.json ✅");
+
+  await enviarNotificacio(out);
+}
+
+async function enviarNotificacio(out) {
+  const { PUSH_SUBSCRIPTION, VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY } = process.env;
+  if (!PUSH_SUBSCRIPTION || !VAPID_PUBLIC_KEY || !VAPID_PRIVATE_KEY) {
+    console.log("ℹ️ Notificació push omesa: falten variables (PUSH_SUBSCRIPTION / VAPID_PUBLIC_KEY / VAPID_PRIVATE_KEY).");
+    return;
+  }
+  try {
+    const webpush = require("web-push");
+    const subscription = JSON.parse(PUSH_SUBSCRIPTION);
+    webpush.setVapidDetails("mailto:xavigo2006@gmail.com", VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY);
+    const payload = JSON.stringify({
+      title: "📈 Nou resum econòmic",
+      body: out.intro || "Ja tens el resum d'aquesta setmana.",
+    });
+    await webpush.sendNotification(subscription, payload);
+    console.log("Notificació push enviada ✅");
+  } catch (e) {
+    console.log("⚠️ No s'ha pogut enviar la notificació push:", e && e.message ? e.message : e);
+  }
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
