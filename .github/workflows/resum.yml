@@ -1,0 +1,29 @@
+name: Resum econòmic setmanal
+
+on:
+  schedule:
+    - cron: "30 7 * * 5"   # divendres ~9:30 (Barcelona)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generar-resum:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generar el resum
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node summary.js
+      - name: Publicar a la web
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/data.json
+          git commit -m "Actualitza resum" || echo "Sense canvis"
+          git push
