@@ -332,12 +332,15 @@
           applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY)
         });
       }
-      const json = JSON.stringify(sub.toJSON());
-      out.classList.add('show');
-      out.textContent = "✅ Subscripció creada. Copia aquest text al secret PUSH_SUBSCRIPTION:\n\n" + json;
+      const json = JSON.stringify(sub);
       let copiat = false;
       try{ await navigator.clipboard.writeText(json); copiat = true; }catch(_){}
-      if(copiat) out.textContent += "\n\n(Copiat al porta-retalls)";
+
+      out.classList.add('show');
+      out.textContent = "✅ Subscripció creada. Copia aquest text al secret PUSH_SUBSCRIPTION:\n\n" + json + (copiat ? "\n\n(Copiat al porta-retalls)" : "");
+
+      // Mostra el JSON en un prompt() perquè es pugui seleccionar i copiar a mà
+      window.prompt("Copia el JSON de la subscripció (secret PUSH_SUBSCRIPTION):", json);
 
       notifBtn.classList.add('on');
       document.getElementById('notif-ico').textContent = '✓';
