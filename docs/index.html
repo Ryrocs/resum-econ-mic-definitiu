@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Resum Econòmic</title>
+<link rel="manifest" href="./manifest.json" />
+<meta name="theme-color" content="#0d1117" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="Resum Eco" />
+<link rel="apple-touch-icon" href="./icon-192.png" />
+<style>
+  :root{--bg:#0d1117;--surface:#161b22;--border:#232a33;--text:#e6edf3;--muted:#8b949e;--accent:#4ade80}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.6;padding:env(safe-area-inset-top) 0 40px}
+  .wrap{max-width:620px;margin:0 auto;padding:24px 20px}
+  header{margin:8px 0 28px}
+  .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:600}
+  h1{font-size:26px;line-height:1.25;margin:6px 0 4px;font-weight:700}
+  .updated{font-size:13px;color:var(--muted)}
+  .intro{font-size:17px;color:#c9d4e0;margin:22px 0 8px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:18px 18px 6px;margin:16px 0}
+  .card h2{font-size:17px;margin:0 0 12px;display:flex;align-items:center;gap:10px}
+  .chip{width:34px;height:34px;flex:0 0 34px;border-radius:10px;background:#0d1117;border:1px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:18px}
+  .item{padding:10px 0 14px;border-top:1px solid var(--border)}
+  .item:first-of-type{border-top:0}
+  .item .h{font-weight:650;margin:0 0 3px}
+  .item .d{color:#c9d4e0;font-size:15px;margin:0}
+  .takeaways{background:linear-gradient(180deg,#132018,#0f1712);border-color:#1f3d2b}
+  .takeaways h2 .chip{border-color:#1f3d2b}
+  .takeaways ul{margin:4px 0 12px;padding-left:20px}
+  .takeaways li{margin:6px 0;color:#d7e4d9}
+  .refresh{display:inline-flex;gap:8px;align-items:center;margin-top:8px;background:var(--surface);border:1px solid var(--border);color:var(--muted);border-radius:999px;padding:8px 14px;font-size:14px;cursor:pointer}
+  .empty{color:var(--muted);text-align:center;padding:60px 0}
+  footer{color:var(--muted);font-size:12px;text-align:center;margin-top:30px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">📈 Resum econòmic</div>
+    <h1 id="date">Carregant…</h1>
+    <div class="updated" id="updated"></div>
+  </header>
+  <div id="content"></div>
+  <div style="text-align:center"><button class="refresh" onclick="load()">↻ Actualitzar</button></div>
+  <footer>Generat automàticament amb IA · pot contenir errors</footer>
+</div>
+<script>
+function faTemps(iso){if(!iso)return"";const d=Math.floor((Date.now()-new Date(iso))/86400000);if(d<=0)return"actualitzat avui";if(d===1)return"actualitzat ahir";return"actualitzat fa "+d+" dies";}
+function esc(s){return String(s).replace(/[&<>]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[m]));}
+async function load(){
+  try{
+    const r=await fetch("./data.json?t="+Date.now());const d=await r.json();
+    document.getElementById("date").textContent=d.date||"Resum";
+    document.getElementById("updated").textContent=faTemps(d.generatedAt);
+    const c=document.getElementById("content");
+    if(!d.sections||d.sections.length===0){c.innerHTML='<div class="empty">'+esc(d.intro||"Encara no hi ha cap resum.")+'</div>';return;}
+    let h=d.intro?'<p class="intro">'+esc(d.intro)+'</p>':'';
+    for(const s of d.sections){
+      h+='<div class="card"><h2><span class="chip">'+(s.emoji||"•")+'</span>'+esc(s.title||"")+'</h2>';
+      for(const it of (s.items||[]))h+='<div class="item">'+(it.headline?'<p class="h">'+esc(it.headline)+'</p>':'')+'<p class="d">'+esc(it.detail||"")+'</p></div>';
+      h+='</div>';
+    }
+    if(d.takeaways&&d.takeaways.length){h+='<div class="card takeaways"><h2><span class="chip">💡</span>Per tenir present</h2><ul>';for(const t of d.takeaways)h+='<li>'+esc(t)+'</li>';h+='</ul></div>';}
+    c.innerHTML=h;
+  }catch(e){document.getElementById("content").innerHTML='<div class="empty">No s\'ha pogut carregar el resum.</div>';}
+}
+load();
+if("serviceWorker" in navigator){navigator.serviceWorker.register("./sw.js");}
+</script>
+</body>
+</html>
