@@ -1,7 +1,132 @@
 {
-  "date": "Encara sense resum",
-  "generatedAt": "",
-  "intro": "Executa el workflow un cop per generar el primer resum.",
-  "sections": [],
-  "takeaways": []
+  "date": "5 de juliol del 2026",
+  "generatedAt": "2026-07-05T11:01:20.207Z",
+  "intro": "La setmana ha estat marcada per una moderació de la inflació a l'Eurozona i Espanya, mentre que el mercat laboral dels EUA mostra signes de refredament i el Bitcoin experimenta una important caiguda, tot això en un context d'incertesa geopolítica.",
+  "sections": [
+    {
+      "emoji": "📊",
+      "title": "Macroeconomia",
+      "items": [
+        {
+          "headline": "La inflació espanyola es manté estable, però amb previsions de repunt",
+          "detail": "L'Índex de Preus de Consum (IPC) anual a Espanya es va mantenir en el 3,2% al juny de 2026 per tercer mes consecutiu, amb la inflació subjacent disminuint una dècima fins al 2,9%. No obstant això, BBVA Research estima un possible repunt de la inflació general al 3,6%-3,7% al juny."
+        },
+        {
+          "headline": "La inflació de la Eurozona cau més del previst",
+          "detail": "La inflació interanual de la Eurozona va caure al 2,8% al juny de 2026, situant-se per sota del 3% estimat pels analistes. La inflació subjacent també es va moderar fins al 2,4%."
+        },
+        {
+          "headline": "El BCE apuja tipus d'interès i sopesa una pausa futura",
+          "detail": "El Banc Central Europeu (BCE) va apujar els tipus d'interès en 25 punts bàsics l'11 de juny de 2026, portant el tipus de dipòsit al 2,25%, en resposta a les pressions inflacionistes i la guerra a l'Iran. Tot i això, els analistes de Morningstar creuen que la pujada ja estava 'descomptada' i els mercats estan sopesant una possible pausa en les properes reunions de juliol i setembre."
+        },
+        {
+          "headline": "El mercat laboral dels EUA es refreda notablement",
+          "detail": "El mercat laboral dels Estats Units va sorprendre al juny de 2026 amb la creació de només 57.000 nous llocs de feina, molt per sota dels 110.000 esperats, mentre que la taxa d'atur va baixar lleugerament al 4,2%. La participació laboral, però, es va desplomar a mínims de cinc anys, cosa que suggereix un refredament més pronunciat del que indiquen les xifres d'ocupació."
+        }
+      ]
+    },
+    {
+      "emoji": "🇪🇸",
+      "title": "Espanya",
+      "items": [
+        {
+          "headline": "El Govern revisa a l'alça la previsió de creixement del PIB",
+          "detail": "El govern espanyol ha elevat la seva previsió de creixement del Producte Interior Brut (PIB) per al 2026 fins al 2,6%, quatre dècimes més del que s'havia previst anteriorment, malgrat el conflicte a l'Orient Mitjà."
+        },
+        {
+          "headline": "Els indicadors d'activitat econòmica mostren signes positius",
+          "detail": "Els indicadors d'activitat de l'economia espanyola han mostrat una tendència a l'alça en la setmana del 26 de juny al 3 de juliol."
+        },
+        {
+          "headline": "La taxa d'estalvi de les llars es modera",
+          "detail": "La taxa d'estalvi de les llars espanyoles es va reduir fins a l'11,3% de la renda bruta disponible en el primer trimestre de 2026, tot i mantenir-se per sobre de la mitjana prepandèmia."
+        }
+      ]
+    },
+    {
+      "emoji": "🇪🇺",
+      "title": "Europa",
+      "items": [
+        {
+          "headline": "El sentiment econòmic a la zona euro millora lleugerament",
+          "detail": "L'índex de sentiment econòmic elaborat per la Comissió Europea va créixer 1,3 punts al juny, arribant a 95, indicant una millora en les expectatives."
+        },
+        {
+          "headline": "La UE busca consolidar un mercat únic real",
+          "detail": "La Unió Europea s'esforça per consolidar un veritable mercat únic per tal de competir amb altres potències globals, amb la Comissió identificant '10 obstacles terribles' que fragmenten el mercat interior."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "title": "Món",
+      "items": [
+        {
+          "headline": "L'economia mundial s'enfronta a la seva pitjor desacceleració des de la pandèmia",
+          "detail": "L'economia global s'encamina al seu pitjor acompliment des de la crisi de la COVID-19, afectada pel conflicte a l'Orient Mitjà, l'encariment de l'energia i l'augment dels costos financers. El Banc Mundial preveu un creixement mundial del 2,5% el 2026."
+        },
+        {
+          "headline": "Àsia emergeix amb impuls contrari a la desacceleració occidental",
+          "detail": "Contràriament a l'alentiment observat a Occident, economies asiàtiques com la Xina i el Japó mostren signes d'un fort impuls, amb els productors recuperant poder de fixació de preus i la confiança corporativa al Japó aconseguint màxims de dècades."
+        }
+      ]
+    },
+    {
+      "emoji": "💹",
+      "title": "Mercats i inversions",
+      "items": [
+        {
+          "headline": "Les borses europees es recuperen, impulsades per la tecnologia",
+          "detail": "Les borses europees han recuperat la major part del perdut després del conflicte a l'Orient Mitjà. El S&P 500 (+1,8%), Euro Stoxx 50 (+2,2%) i IBEX 35 (+1,3%) van registrar rendiments positius en la setmana del 26 de juny al 3 de juliol. El Nasdaq 100 va superar els 30.000 punts al maig, impulsat per la intel·ligència artificial."
+        },
+        {
+          "headline": "Rendiments heterogenis en la renda fixa",
+          "detail": "El juny de 2026 va mostrar un acompliment heterogeni en els mercats de renda fixa. Els actius post-fixats van continuar beneficiant-se dels elevats tipus d'interès, mentre que els títols prefixats van tenir resultats mixtos i els indexats a l'IPCA van patir pèrdues, especialment en els venciments més llargs."
+        },
+        {
+          "headline": "El dòlar capitula davant dades d'ocupació, l'euro es manté",
+          "detail": "El dòlar nord-americà va perdre terreny la primera setmana de juliol després de les dades d'ocupació dels EUA. La paritat euro/dòlar es manté al voltant d'1,14, amb previsions de rang d'1,15/1,20 per a finals de 2026."
+        },
+        {
+          "headline": "El preu del petroli retrocedeix amb l'acord entre EUA i Iran",
+          "detail": "Els preus del petroli Brent van retrocedir de 82 a 73 dòlars per barril després de l'anunci d'un acord preliminar entre els Estats Units i l'Iran sobre el conflicte a l'Orient Mitjà."
+        }
+      ]
+    },
+    {
+      "emoji": "₿",
+      "title": "Cripto",
+      "items": [
+        {
+          "headline": "El Bitcoin experimenta la seva pitjor caiguda mensual des de FTX",
+          "detail": "El Bitcoin va patir la seva pitjor caiguda mensual des del col·lapse de FTX al juny de 2026, amb una pèrdua del 20% i cedint el nivell dels 60.000 dòlars. Aquesta caiguda s'atribueix a les sortides rècord dels fons cotitzats (ETF) i la feblesa de la demanda institucional, a més del repunt de la inflació als EUA."
+        },
+        {
+          "headline": "Augment dels hackeos en el sector cripto",
+          "detail": "El sector de les criptomonedes va registrar 40 hackeos significatius al juny de 2026, amb pèrdues totals de 75,87 milions de dòlars. El Protocol Humanity va patir la bretxa més gran, perdent 31 milions de dòlars."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "title": "Curiositats",
+      "items": [
+        {
+          "headline": "Desdolarització: els bancs centrals planen reduir reserves en dòlars",
+          "detail": "Per primera vegada en tretze edicions de l'enquesta de l'OMFIF, més bancs centrals planegen reduir les seves reserves en dòlars durant la pròxima dècada que augmentar-les, un senyal de canvi en l'arquitectura financera global."
+        },
+        {
+          "headline": "El ien japonès perd la meitat del seu poder adquisitiu internacional en 40 anys",
+          "detail": "L'Índex de Tipus de Canvi Efectiu Real del Banc del Japó mostra que el poder adquisitiu internacional del ien es va reduir a menys de la meitat en quaranta anys, passant de 141,77 punts el desembre de 1986 a 65,93 el maig de 2026."
+        }
+      ]
+    }
+  ],
+  "takeaways": [
+    "La moderació de la inflació a Europa proporciona un respir als bancs centrals, tot i la incertesa sobre futures decisions de tipus.",
+    "El refredament del mercat laboral dels EUA i l'alentiment del creixement global plantegen dubtes sobre la fortalesa de l'economia mundial.",
+    "Espanya mostra signes de resiliència amb una revisió a l'alça del creixement del PIB, malgrat el context geopolític.",
+    "El mercat cripto ha experimentat una forta correcció, amb el Bitcoin patint una caiguda significativa i un augment dels hackeos.",
+    "Els mercats financers reequilibren el seu focus del risc geopolític a la política monetària, amb el dòlar sota pressió i els mercats de renda fixa mostrant heterogeneïtat."
+  ]
 }
