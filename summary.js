@@ -31,23 +31,44 @@ Respon NOMÉS amb un objecte JSON vàlid, sense cap text abans ni després i sen
 
 Escriu-ho tot en català. Emojis per secció: 📊 Macroeconomia, 🇪🇸 Espanya, 🇪🇺 Europa, 🌍 Món, 💹 Mercats i inversions, ₿ Cripto, 💡 Curiositats.`;
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 async function generar() {
-  const res = await fetch(
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent",
-    {
-      method: "POST",
-      headers: { "content-type": "application/json", "x-goog-api-key": GEMINI_API_KEY },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        tools: [{ google_search: {} }],
-      }),
+  const MAX_INTENTS = 5;
+  const ESPERES = [5000, 10000, 20000, 40000, 80000]; // 5s, 10s, 20s, 40s, 80s
+  let ultimError;
+
+  for (let intent = 1; intent <= MAX_INTENTS; intent++) {
+    try {
+      const res = await fetch(
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent",
+        {
+          method: "POST",
+          headers: { "content-type": "application/json", "x-goog-api-key": GEMINI_API_KEY },
+          body: JSON.stringify({
+            contents: [{ parts: [{ text: prompt }] }],
+            tools: [{ google_search: {} }],
+          }),
+        }
+      );
+      if (res.status === 503 || res.status === 429) {
+        throw new Error(`Error de Gemini (${res.status}): ${await res.text()}`);
+      }
+      if (!res.ok) throw new Error(`Error de Gemini (${res.status}): ${await res.text()}`);
+      const data = await res.json();
+      const parts = data.candidates?.[0]?.content?.parts || [];
+      let text = parts.filter((p) => p.text).map((p) => p.text).join("\n").trim();
+      return text.replace(/^```json/i, "").replace(/^```/, "").replace(/```$/, "").trim();
+    } catch (e) {
+      ultimError = e;
+      const esTemporal = /\(503\)|\(429\)/.test(e.message) || e.name === "TypeError" || e.name === "FetchError";
+      if (!esTemporal || intent === MAX_INTENTS) throw e;
+      const espera = ESPERES[intent - 1];
+      console.log(`Intent ${intent}/${MAX_INTENTS} fallit (${e.message}). Reintentant en ${espera / 1000}s...`);
+      await sleep(espera);
     }
-  );
-  if (!res.ok) throw new Error(`Error de Gemini (${res.status}): ${await res.text()}`);
-  const data = await res.json();
-  const parts = data.candidates?.[0]?.content?.parts || [];
-  let text = parts.filter((p) => p.text).map((p) => p.text).join("\n").trim();
-  return text.replace(/^```json/i, "").replace(/^```/, "").replace(/```$/, "").trim();
+  }
+  throw ultimError;
 }
 
 async function main() {
