@@ -1,23 +1,27 @@
 {
-  "date": "10 de juliol del 2026",
-  "generatedAt": "2026-07-10T10:32:12.449Z",
-  "intro": "La setmana ha estat marcada per una moderació de la inflació a la zona euro, mentre Espanya manté un diferencial a l'alça. A nivell global, les tensions geopolítiques han topat amb l'impuls de la Intel·ligència Artificial, generant volatilitat als mercats i al preu del petroli, amb un mercat laboral nord-americà mostrant signes de desacceleració i l'espanyol amb rècords d'ocupació gràcies, en part, a la regularització de migrants.",
+  "date": "17 de juliol del 2026",
+  "generatedAt": "2026-07-17T09:25:17.815Z",
+  "intro": "La setmana econòmica ha estat marcada per una inflació persistent a la zona euro i una preocupació creixent per l'estagflació a Europa, mentre que Espanya mostra signes de solidesa. Les tensions geopolítiques a l'Orient Mitjà continuen impulsant els preus del petroli i impactant els mercats.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació de l'eurozona es modera fins al 2,8% al juny",
-          "detail": "La inflació anual a la zona euro va caure a un 2,8% al juny, trencant una ratxa de quatre mesos d'augments i superant les expectatives dels analistes, la qual cosa dona marge al Banc Central Europeu per mantenir els tipus d'interès estables."
+          "headline": "La inflació de la Zona Euro es modera, però Espanya manté un ritme més alt",
+          "detail": "La inflació anual a la Zona Euro va caure al 2,8% el juny de 2026, des del 3,2% de maig, per sota de les expectatives. No obstant això, a Espanya, la inflació es va mantenir en el 3,6%. La inflació subjacent també va disminuir lleugerament."
         },
         {
-          "headline": "El Fons Monetari Internacional rebaixa la previsió de creixement global per al 2026",
-          "detail": "El FMI ha retallat la seva projecció de creixement de l'economia mundial a un 3% per al 2026, una dècima menys del previst a l'abril, citant l'impacte de la guerra a l'Orient Mitjà, però anticipa una acceleració al 3,4% el 2027 impulsada per la intel·ligència artificial."
+          "headline": "El BCE va pujar els tipus d'interès al juny; la pròxima reunió és imminent",
+          "detail": "El Banc Central Europeu va augmentar els seus tres tipus d'interès oficials en 25 punts bàsics el juny de 2026, situant la facilitat de dipòsit en el 2,25%. La pròxima reunió del Consell de Govern per decidir sobre els tipus d'interès és el 23 de juliol de 2026."
         },
         {
-          "headline": "El mercat laboral dels EUA es desaccelera amb menys creació d'ocupació",
-          "detail": "L'economia nord-americana va afegir només 57.000 nous llocs de feina al juny, per sota de les expectatives, i la taxa d'atur es va mantenir en el 4,2%, indicant una pèrdua de força en la recuperació laboral."
+          "headline": "El PIB global creix, però amb perspectives desiguals",
+          "detail": "El Fons Monetari Internacional (FMI) projecta un creixement global del 3,0% per al 2026 i del 3,4% per al 2027, sense grans canvis respecte a les previsions d'abril, amb una perspectiva desigual a causa de la guerra a l'Orient Mitjà i la demanda impulsada per la IA."
+        },
+        {
+          "headline": "Rècord d'afiliats a la Seguretat Social a Espanya",
+          "detail": "Espanya va tancar el maig de 2026 amb un nou rècord històric de 22,3 milions d'afiliats a la Seguretat Social i va reduir l'atur a 2,32 milions de persones, el nivell més baix per a un mes de maig des de 2007."
         }
       ]
     },
@@ -26,16 +30,16 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "La inflació es manté en el 3,2% al juny, augmentant el diferencial amb Europa",
-          "detail": "L'índex de preus al consum (IPC) a Espanya es va mantenir en el 3,2% per tercer mes consecutiu al juny, malgrat la moderació a la zona euro, elevant el diferencial d'inflació."
+          "headline": "Estiu rècord per al turisme espanyol impulsat pel Mundial",
+          "detail": "S'espera que Espanya rebi 100 milions de turistes internacionals el 2026 per primera vegada, amb 43 milions de visitants estrangers entre juny i setembre, impulsant el turisme i l'hostaleria."
         },
         {
-          "headline": "Catalunya supera els 4 milions d'ocupats per primera vegada en la història",
-          "detail": "El mercat laboral català va registrar un rècord històric de més de 4 milions de persones ocupades al juny, impulsat en part per la regularització extraordinària de migrants, amb una baixada de l'atur a Catalunya i al País Valencià."
+          "headline": "Creixement del PIB espanyol el doble que la Zona Euro",
+          "detail": "Esade preveu que l'economia espanyola creixi entre un 2,2% i un 2,3% el 2026, gairebé el doble que la Zona Euro (al voltant de l'1,1%), gràcies al dinamisme de l'ocupació i el consum."
         },
         {
-          "headline": "El FMI manté Espanya com l'economia amb major creixement a l'eurozona",
-          "detail": "El Fons Monetari Internacional ha confirmat que Espanya creixerà un 2,1% el 2026, més del doble que la mitjana de l'eurozona (0,9%), sent un dels països amb millor evolució entre les principals economies del bloc."
+          "headline": "El deute privat espanyol es manté sanejat",
+          "detail": "A Espanya, el deute de les empreses sense consolidar es va situar en el 81,8% del PIB i el deute de les llars en el 42,5% del PIB el primer trimestre de 2026, molt per sota de la mitjana de la zona euro."
         }
       ]
     },
@@ -44,12 +48,12 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "El BCE podria no apujar més els tipus d'interès a la seva pròxima reunió",
-          "detail": "La moderació de la inflació a la zona euro al juny fins al 2,8% augmenta les possibilitats que el Banc Central Europeu mantingui els tipus d'interès sense canvis a la seva reunió del 23 de juliol, després de la pujada de juny."
+          "headline": "Risc d'estagflació a l'economia europea",
+          "detail": "L'economia europea s'enfronta a la possibilitat d'estagflació a causa de la crisi a l'estret d'Ormuz i les expectatives d'inflació per sobre del 3% en els pròxims mesos."
         },
         {
-          "headline": "El Parlament Europeu avança cap a l'euro digital",
-          "detail": "El Parlament Europeu ha fet progressos en l'establiment d'un marc legal per a l'euro digital, amb l'objectiu de tenir-lo llest a finals d'any."
+          "headline": "La Comissió Europea revisa a l'alça les previsions d'inflació",
+          "detail": "La Comissió Europea preveu una inflació a la UE del +3,1% el 2026 i del +2,4% el 2027, amb xifres similars per a la Zona Euro."
         }
       ]
     },
@@ -58,12 +62,12 @@
       "title": "Món",
       "items": [
         {
-          "headline": "La tensió a l'Orient Mitjà impulsa la volatilitat dels preus del petroli",
-          "detail": "Les declaracions del president Donald Trump donant per acabat l'alto el foc amb l'Iran han provocat un repunt dràstic en els preus del petroli, amb el Brent assolint gairebé els 80 dòlars per barril, tot i la reobertura de l'estret d'Ormuz."
+          "headline": "Tensió a l'Orient Mitjà continua impactant els mercats",
+          "detail": "L'escalada del conflicte entre els Estats Units i l'Iran ha reactivat el bloqueig naval i ha generat nous atacs, provocant un augment del preu del petroli i una rebaixa de les expectatives de negoci de la indústria exportadora espanyola."
         },
         {
-          "headline": "El FMI destaca la IA com a motor clau del creixement global",
-          "detail": "L'FMI subratlla el paper de la Intel·ligència Artificial com un dels principals motors de creixement econòmic mundial, compensant en part els efectes negatius del conflicte a l'Orient Mitjà."
+          "headline": "L'FMI destaca la guerra i la tecnologia com a factors clau en l'economia global",
+          "detail": "L'FMI subratlla que la guerra a l'Orient Mitjà i els avenços tecnològics són els dos pilars principals que defineixen les perspectives econòmiques mundials."
         }
       ]
     },
@@ -72,16 +76,16 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "El preu del petroli Brent fluctua al voltant dels 75-76 dòlars",
-          "detail": "Després de pujades significatives la setmana passada per les tensions a l'Orient Mitjà, el preu del barril de Brent ha tancat el 10 de juliol a 75,93 dòlars, amb volatilitat després de les notícies geopolítiques."
+          "headline": "El preu del petroli Brent supera els 85 dòlars a causa del conflicte a l'Orient Mitjà",
+          "detail": "El preu del barril de petroli Brent va arribar als 84,92 USD el 16 de juliol de 2026, després de superar els 85 dòlars, impulsat per la intensificació del conflicte entre els Estats Units i l'Iran."
         },
         {
-          "headline": "Volatilitat a les borses europees i americanes",
-          "detail": "Les borses europees mostren dubtes per tancar la setmana, mentre que Wall Street ha tingut un impuls tecnològic en alguns moments, però l'Ibex 35 va registrar una 'sessió negra' el 8 de juliol per les notícies de l'Orient Mitjà."
+          "headline": "L'Euro/Dòlar es manté relativament estable",
+          "detail": "El tipus de canvi entre l'euro i el dòlar es va situar en 1,1438 el 17 de juliol de 2026, mantenint-se relativament estable durant la setmana amb fluctuacions menors."
         },
         {
-          "headline": "L'Euríbor a 12 mesos continua pujant i arriba al 2,695%",
-          "detail": "L'Euríbor, principal referència per a les hipoteques variables a Espanya, va situar-se en el 2,695% el 7 de juliol, mantenint la pressió sobre les quotes hipotecàries."
+          "headline": "Recomanacions en renda fixa per superar el CDI",
+          "detail": "Especialistes en inversió recomanen per al juliol de 2026 actius de renda fixa com el Tesouro IPCA+ per obtenir rendibilitats superiors al CDI."
         }
       ]
     },
@@ -90,12 +94,16 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Bitcoin i Ethereum amb tensió per declaracions de Trump i vendes de Strategy",
-          "detail": "El Bitcoin (BTC) va caure al voltant d'un 2% l'8 de juliol, posant en perill els 62.000 dòlars, i Ethereum (ETH) es va allunyar dels 1.800 dòlars, després de les declaracions de Donald Trump i les continuades vendes de Bitcoin per part de la companyia Strategy, tot i que posteriorment va mostrar signes de recuperació."
+          "headline": "La nova regulació MiCA europea consolida el mercat cripto",
+          "detail": "El Reglament de Mercats de Criptoactius (MiCA) de la Unió Europea va entrar en vigor l'1 de juliol de 2026, reduint dràsticament el nombre d'empreses de criptomonedes amb autorització completa a l'EEE de 3.000 a 280."
         },
         {
-          "headline": "Les stablecoins assoleixen un volum rècord malgrat la caiguda del Bitcoin",
-          "detail": "Al juny de 2026, el volum de transaccions ajustat de stablecoins va assolir un nou màxim històric d'1,79 bilions de dòlars, un 63% més que al maig, demostrant la seva consolidació com a infraestructura clau per a pagaments, fins i tot amb la caiguda del Bitcoin."
+          "headline": "Algunes altcoins registren guanys significatius",
+          "detail": "DeXe (DEXE), Zcash (ZEC) i Uniswap (UNI) van ser les altcoins més destacades a la tercera setmana de juliol de 2026, amb guanys setmanals de dos dígits."
+        },
+        {
+          "headline": "Celestia (TIA) es desploma a mínims de mesos",
+          "detail": "La criptomoneda Celestia (TIA) va registrar una caiguda abrupta del 9% el 17 de juliol de 2026, assolint mínims de diversos mesos i mostrant un sentiment baixista extrem."
         }
       ]
     },
@@ -104,19 +112,21 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "La paradoxa espanyola: bonança macroeconòmica vs. preocupació de les llars",
-          "detail": "Malgrat que Espanya projecta un dels creixements de PIB més sòlids d'Europa, la percepció de la situació econòmica entre els ciutadans és majoritàriament negativa, amb l'habitatge i la inflació com a principals motius de preocupació."
+          "headline": "La Intel·ligència Artificial impulsa economies lligades a la tecnologia",
+          "detail": "L'FMI ha destacat com la demanda impulsada per la intel·ligència artificial està beneficiant els països integrats en la cadena de valor tecnològica global."
         },
         {
-          "headline": "L'IRPF, l'impost que puja sense anunciar-se a Espanya",
-          "detail": "A diferència d'altres països europeus, a Espanya l'IRPF no es deflacta, és a dir, els trams no s'adeqüen a la inflació, provocant un augment de la càrrega fiscal per als ciutadans a mesura que els seus ingressos creixen nominalment."
+          "headline": "La Comissió Europea obliga a compartir dades a un popular cercador",
+          "detail": "La Comissió Europea obligarà l'empresa del popular cercador a compartir dades amb altres motors de cerca digital, segons una notícia del 16 de juliol de 2026."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació a la zona euro dona un respir al BCE, però persisteix a Espanya.",
-    "Les tensions geopolítiques a l'Orient Mitjà continuen sent un factor clau de volatilitat global, especialment per al petroli.",
-    "La Intel·ligència Artificial emergeix com un motor de creixement econòmic global, mentre el mercat laboral dels EUA mostra senyals de refredament i Espanya assoleix rècords d'ocupació."
+    "Les tensions geopolítiques a l'Orient Mitjà continuen sent un factor determinant per als preus de l'energia i la inflació global.",
+    "La inflació a la Zona Euro mostra signes de moderació, però el risc d'estagflació a Europa persisteix.",
+    "Espanya destaca per la seva resiliència econòmica, amb un fort creixement del PIB i un rècord d'ocupació, tot i el repte de millorar la productivitat.",
+    "La nova regulació MiCA ha provocat una consolidació significativa en el mercat de criptomonedes europeu.",
+    "La Intel·ligència Artificial emergeix com un motor de creixement econòmic per a les economies amb una forta integració tecnològica."
   ]
 }
