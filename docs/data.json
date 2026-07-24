@@ -1,27 +1,27 @@
 {
-  "date": "17 de juliol del 2026",
-  "generatedAt": "2026-07-17T09:25:17.815Z",
-  "intro": "La setmana econòmica ha estat marcada per una inflació persistent a la zona euro i una preocupació creixent per l'estagflació a Europa, mentre que Espanya mostra signes de solidesa. Les tensions geopolítiques a l'Orient Mitjà continuen impulsant els preus del petroli i impactant els mercats.",
+  "date": "24 de juliol del 2026",
+  "generatedAt": "2026-07-24T09:41:37.435Z",
+  "intro": "Una setmana marcada per la cautela dels bancs centrals davant la inflació i les tensions geopolítiques, mentre el mercat cripto mostra signes de recuperació.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació de la Zona Euro es modera, però Espanya manté un ritme més alt",
-          "detail": "La inflació anual a la Zona Euro va caure al 2,8% el juny de 2026, des del 3,2% de maig, per sota de les expectatives. No obstant això, a Espanya, la inflació es va mantenir en el 3,6%. La inflació subjacent també va disminuir lleugerament."
+          "headline": "El BCE manté els tipus d'interès estables",
+          "detail": "El Banc Central Europeu va decidir el 23 de juliol mantenir els tres tipus d'interès oficials sense canvis, amb la facilitat de dipòsit en el 2,25%, després d'una pujada al juny, a causa de la incertesa generada pel conflicte a l'Orient Mitjà i el seu impacte potencial en els preus de l'energia i la inflació."
         },
         {
-          "headline": "El BCE va pujar els tipus d'interès al juny; la pròxima reunió és imminent",
-          "detail": "El Banc Central Europeu va augmentar els seus tres tipus d'interès oficials en 25 punts bàsics el juny de 2026, situant la facilitat de dipòsit en el 2,25%. La pròxima reunió del Consell de Govern per decidir sobre els tipus d'interès és el 23 de juliol de 2026."
+          "headline": "Previsions de PIB i inflació a Espanya i nivell mundial",
+          "detail": "Funcas va revisar a l'alça la previsió de creixement del PIB per a Espanya el 2026 fins al 2,3% (informe del 13 de juliol). L'FMI, per la seva banda, va rebaixar la seva previsió de creixement mundial per al 2026 al 3% (informe del 8 de juliol) per l'impacte del conflicte a l'Orient Mitjà, i va revisar a l'alça la inflació global fins al 4,7% per al mateix any."
         },
         {
-          "headline": "El PIB global creix, però amb perspectives desiguals",
-          "detail": "El Fons Monetari Internacional (FMI) projecta un creixement global del 3,0% per al 2026 i del 3,4% per al 2027, sense grans canvis respecte a les previsions d'abril, amb una perspectiva desigual a causa de la guerra a l'Orient Mitjà i la demanda impulsada per la IA."
+          "headline": "Inflació estable a Espanya i caiguda als EUA",
+          "detail": "La inflació espanyola es va mantenir estable al juny malgrat la retirada de les mesures aplicades a l'electricitat i el gas. Als Estats Units, la inflació general va caure al 3,5% al juny, gràcies al retrocés de l'energia, els serveis i l'habitatge."
         },
         {
-          "headline": "Rècord d'afiliats a la Seguretat Social a Espanya",
-          "detail": "Espanya va tancar el maig de 2026 amb un nou rècord històric de 22,3 milions d'afiliats a la Seguretat Social i va reduir l'atur a 2,32 milions de persones, el nivell més baix per a un mes de maig des de 2007."
+          "headline": "Desafiaments en l'ocupació espanyola",
+          "detail": "KPMG ha advertit que l'absentisme laboral s'ha convertit en un dels principals desafiaments per a la competitivitat de l'economia espanyola (informe del 21 de juliol). El Govern va aprovar 25 milions d'euros per a programes d'ocupació i formació de joves estrangers tutelats."
         }
       ]
     },
@@ -30,16 +30,20 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "Estiu rècord per al turisme espanyol impulsat pel Mundial",
-          "detail": "S'espera que Espanya rebi 100 milions de turistes internacionals el 2026 per primera vegada, amb 43 milions de visitants estrangers entre juny i setembre, impulsant el turisme i l'hostaleria."
+          "headline": "Milloren les expectatives econòmiques i baixa la preocupació pels preus",
+          "detail": "Les expectatives econòmiques a Espanya van millorar lleument al juny, i la preocupació per un alça dels preus va disminuir, segons l'informe GfK NIM Euro Clima de Consum (21 de juliol)."
         },
         {
-          "headline": "Creixement del PIB espanyol el doble que la Zona Euro",
-          "detail": "Esade preveu que l'economia espanyola creixi entre un 2,2% i un 2,3% el 2026, gairebé el doble que la Zona Euro (al voltant de l'1,1%), gràcies al dinamisme de l'ocupació i el consum."
+          "headline": "El Govern re-aprova el sostre de despesa",
+          "detail": "El Consell de Ministres va aprovar, per segona vegada aquest mes (el 21 de juliol), el límit de despesa no financer ('techo de gasto') i la senda d'estabilitat per a les administracions públiques 2027-2029, després del rebuig per part del Congrés la setmana anterior."
         },
         {
-          "headline": "El deute privat espanyol es manté sanejat",
-          "detail": "A Espanya, el deute de les empreses sense consolidar es va situar en el 81,8% del PIB i el deute de les llars en el 42,5% del PIB el primer trimestre de 2026, molt per sota de la mitjana de la zona euro."
+          "headline": "Estiu rècord per al turisme",
+          "detail": "Espanya s'encamina cap a un estiu històric el 2026, amb la previsió de rebre 100 milions de turistes internacionals per primera vegada, impulsant amb força l'hostaleria i el comerç (informe del 15 de juliol)."
+        },
+        {
+          "headline": "Retrocedeixen les compravendes d'habitatge",
+          "detail": "Les compravendes d'habitatge a Espanya van caure al maig per cinquè mes consecutiu, un 7,3% interanual, la caiguda més alta en dos anys, tot i que la demanda continua mostrant una notable resiliència (dades del 17 de juliol)."
         }
       ]
     },
@@ -48,12 +52,16 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "Risc d'estagflació a l'economia europea",
-          "detail": "L'economia europea s'enfronta a la possibilitat d'estagflació a causa de la crisi a l'estret d'Ormuz i les expectatives d'inflació per sobre del 3% en els pròxims mesos."
+          "headline": "Pausa en la política monetària del BCE",
+          "detail": "El Banc Central Europeu (BCE) va decidir el 23 de juliol no modificar els tipus d'interès oficials, optant per la prudència després de la pujada de juny i davant la incertesa generada pel conflicte a l'Orient Mitjà i el seu possible impacte en la inflació."
         },
         {
-          "headline": "La Comissió Europea revisa a l'alça les previsions d'inflació",
-          "detail": "La Comissió Europea preveu una inflació a la UE del +3,1% el 2026 i del +2,4% el 2027, amb xifres similars per a la Zona Euro."
+          "headline": "Moderació de la inflació a la zona euro",
+          "detail": "La inflació de la zona euro es va moderar quatre dècimes al juny, fins al 2,9%, fet que allana el camí del BCE per complir el seu objectiu d'inflació."
+        },
+        {
+          "headline": "Revisió a la baixa del creixement per a la zona euro",
+          "detail": "L'FMI va reduir la seva previsió de creixement per a la zona de l'euro el 2026 al 0,9% (informe del 8 de juliol), des de l'1,1% estimat a l'abril."
         }
       ]
     },
@@ -62,12 +70,16 @@
       "title": "Món",
       "items": [
         {
-          "headline": "Tensió a l'Orient Mitjà continua impactant els mercats",
-          "detail": "L'escalada del conflicte entre els Estats Units i l'Iran ha reactivat el bloqueig naval i ha generat nous atacs, provocant un augment del preu del petroli i una rebaixa de les expectatives de negoci de la indústria exportadora espanyola."
+          "headline": "L'FMI rebaixa la previsió de creixement global per al 2026",
+          "detail": "El Fons Monetari Internacional (FMI) va reduir la seva previsió de creixement econòmic mundial per al 2026 fins al 3% (informe del 8 de juliol), una dècima menys que a l'abril, a causa de l'impacte de la guerra a l'Orient Mitjà, tot i que l'economia global ha resistit millor del que s'esperava."
         },
         {
-          "headline": "L'FMI destaca la guerra i la tecnologia com a factors clau en l'economia global",
-          "detail": "L'FMI subratlla que la guerra a l'Orient Mitjà i els avenços tecnològics són els dos pilars principals que defineixen les perspectives econòmiques mundials."
+          "headline": "Augment de la inflació global projectada",
+          "detail": "La inflació general global es va revisar a l'alça fins al 4,7% el 2026 (informe del 8 de juliol), en comparació amb el 4,4% previst a l'abril, abans de baixar al 3,9% el 2027."
+        },
+        {
+          "headline": "Caiguda del preu del petroli alleuja tensions",
+          "detail": "La recuperació de l'activitat a l'estret d'Ormuz ha contribuït a la caiguda del preu del petroli, alleujant els riscos sobre el subministrament energètic i la inflació (juliol 2026). La disminució del cru ha ajudat a disminuir els temors d'una segona onada inflacionista."
         }
       ]
     },
@@ -76,16 +88,16 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "El preu del petroli Brent supera els 85 dòlars a causa del conflicte a l'Orient Mitjà",
-          "detail": "El preu del barril de petroli Brent va arribar als 84,92 USD el 16 de juliol de 2026, després de superar els 85 dòlars, impulsat per la intensificació del conflicte entre els Estats Units i l'Iran."
+          "headline": "Rebot de l'Ibex-35 i l'euro",
+          "detail": "L'Ibex-35 va començar la sessió del 21 de juliol amb una pujada del 0,23%, consolidant-se per sobre dels 19.200 punts, en un context de mercat marcat per la caiguda dels preus del cru. En el mercat de divises, l'euro va mostrar un comportament positiu en el seu encreuament amb el dòlar."
         },
         {
-          "headline": "L'Euro/Dòlar es manté relativament estable",
-          "detail": "El tipus de canvi entre l'euro i el dòlar es va situar en 1,1438 el 17 de juliol de 2026, mantenint-se relativament estable durant la setmana amb fluctuacions menors."
+          "headline": "Lleuger increment en la renda fixa espanyola",
+          "detail": "El rendiment del bo espanyol amb venciment a 10 anys va registrar una lleugera pujada fins al 3,608% el 21 de juliol, fet que reflecteix les expectatives dels inversors sobre l'evolució futura dels tipus d'interès i la inflació."
         },
         {
-          "headline": "Recomanacions en renda fixa per superar el CDI",
-          "detail": "Especialistes en inversió recomanen per al juliol de 2026 actius de renda fixa com el Tesouro IPCA+ per obtenir rendibilitats superiors al CDI."
+          "headline": "Disminució dels preus de les matèries primeres clau",
+          "detail": "La disminució dels preus del petroli cru ha contribuït a desvaneixer els temors d'una segona onada inflacionista, un factor important per als mercats (notícia del 21 de juliol)."
         }
       ]
     },
@@ -94,16 +106,12 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "La nova regulació MiCA europea consolida el mercat cripto",
-          "detail": "El Reglament de Mercats de Criptoactius (MiCA) de la Unió Europea va entrar en vigor l'1 de juliol de 2026, reduint dràsticament el nombre d'empreses de criptomonedes amb autorització completa a l'EEE de 3.000 a 280."
+          "headline": "El mercat cripto rebota amb força",
+          "detail": "El mercat de criptomonedes va rebotar, amb Bitcoin superant de nou els 66.000 $ i Ethereum trencant els 1.900 $ el 21 de juliol, gràcies a la relaxació de les pors a la inflació i les entrades en ETFs."
         },
         {
-          "headline": "Algunes altcoins registren guanys significatius",
-          "detail": "DeXe (DEXE), Zcash (ZEC) i Uniswap (UNI) van ser les altcoins més destacades a la tercera setmana de juliol de 2026, amb guanys setmanals de dos dígits."
-        },
-        {
-          "headline": "Celestia (TIA) es desploma a mínims de mesos",
-          "detail": "La criptomoneda Celestia (TIA) va registrar una caiguda abrupta del 9% el 17 de juliol de 2026, assolint mínims de diversos mesos i mostrant un sentiment baixista extrem."
+          "headline": "Ethereum lidera les pujades",
+          "detail": "Ethereum ha experimentat un augment significatiu, amb una pujada aproximada de l'11% en els últims set dies (fins al 17 de juliol), superant Bitcoin. Aquest impuls es deu a compres tècniques, l'activitat de staking i la demanda de la nova Robinhood Chain."
         }
       ]
     },
@@ -112,21 +120,15 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "La Intel·ligència Artificial impulsa economies lligades a la tecnologia",
-          "detail": "L'FMI ha destacat com la demanda impulsada per la intel·ligència artificial està beneficiant els països integrats en la cadena de valor tecnològica global."
-        },
-        {
-          "headline": "La Comissió Europea obliga a compartir dades a un popular cercador",
-          "detail": "La Comissió Europea obligarà l'empresa del popular cercador a compartir dades amb altres motors de cerca digital, segons una notícia del 16 de juliol de 2026."
+          "headline": "La IA com a contrapès econòmic global",
+          "detail": "L'FMI destaca que l'impuls accelerat de la demanda en el cicle tecnològic global, gràcies als avenços en intel·ligència artificial (IA), està contrarestant parcialment els efectes negatius del conflicte a l'Orient Mitjà en el creixement mundial (informe del 8 de juliol)."
         }
       ]
     }
   ],
   "takeaways": [
-    "Les tensions geopolítiques a l'Orient Mitjà continuen sent un factor determinant per als preus de l'energia i la inflació global.",
-    "La inflació a la Zona Euro mostra signes de moderació, però el risc d'estagflació a Europa persisteix.",
-    "Espanya destaca per la seva resiliència econòmica, amb un fort creixement del PIB i un rècord d'ocupació, tot i el repte de millorar la productivitat.",
-    "La nova regulació MiCA ha provocat una consolidació significativa en el mercat de criptomonedes europeu.",
-    "La Intel·ligència Artificial emergeix com un motor de creixement econòmic per a les economies amb una forta integració tecnològica."
+    "Els bancs centrals mantenen una postura de cautela, amb el BCE optant per una pausa en la pujada de tipus d'interès mentre monitoren la inflació i les tensions geopolítiques.",
+    "L'economia espanyola mostra resiliència, amb millores en les expectatives dels consumidors i un fort impuls del turisme, tot i que l'absentisme laboral i el retrocés en la compravenda d'habitatges continuen sent reptes.",
+    "El mercat de criptomonedes ha experimentat un notable rebot, amb Ethereum liderant les pujades, impulsat per la disminució de les pors inflacionistes i l'interès institucional."
   ]
 }
