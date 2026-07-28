@@ -1,74 +1,362 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
 <title>Resum Econòmic</title>
-<link rel="manifest" href="./manifest.json" />
-<meta name="theme-color" content="#0d1117" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<meta name="apple-mobile-web-app-title" content="Resum Eco" />
-<link rel="apple-touch-icon" href="./icon-192.png" />
+
+<!-- ===== PWA / iOS install ===== -->
+<link rel="manifest" href="./manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Resum Eco">
+<meta name="theme-color" content="#0d0e12">
+<link rel="apple-touch-icon" href="./icon-192.png">
+
 <style>
-  :root{--bg:#0d1117;--surface:#161b22;--border:#232a33;--text:#e6edf3;--muted:#8b949e;--accent:#4ade80}
-  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.6;padding:env(safe-area-inset-top) 0 40px}
-  .wrap{max-width:620px;margin:0 auto;padding:24px 20px}
-  header{margin:8px 0 28px}
-  .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:600}
-  h1{font-size:26px;line-height:1.25;margin:6px 0 4px;font-weight:700}
-  .updated{font-size:13px;color:var(--muted)}
-  .intro{font-size:17px;color:#c9d4e0;margin:22px 0 8px}
-  .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:18px 18px 6px;margin:16px 0}
-  .card h2{font-size:17px;margin:0 0 12px;display:flex;align-items:center;gap:10px}
-  .chip{width:34px;height:34px;flex:0 0 34px;border-radius:10px;background:#0d1117;border:1px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:18px}
-  .item{padding:10px 0 14px;border-top:1px solid var(--border)}
-  .item:first-of-type{border-top:0}
-  .item .h{font-weight:650;margin:0 0 3px}
-  .item .d{color:#c9d4e0;font-size:15px;margin:0}
-  .takeaways{background:linear-gradient(180deg,#132018,#0f1712);border-color:#1f3d2b}
-  .takeaways h2 .chip{border-color:#1f3d2b}
-  .takeaways ul{margin:4px 0 12px;padding-left:20px}
-  .takeaways li{margin:6px 0;color:#d7e4d9}
-  .refresh{display:inline-flex;gap:8px;align-items:center;margin-top:8px;background:var(--surface);border:1px solid var(--border);color:var(--muted);border-radius:999px;padding:8px 14px;font-size:14px;cursor:pointer}
-  .empty{color:var(--muted);text-align:center;padding:60px 0}
-  footer{color:var(--muted);font-size:12px;text-align:center;margin-top:30px}
+  :root{
+    --bg:#101116;
+    --bg-2:#15161d;
+    --card:rgba(255,255,255,0.035);
+    --line:rgba(255,255,255,0.07);
+    --accent:#8aa6d6;
+    --accent-soft:rgba(138,166,214,0.12);
+    --ink:#f4f5f8;
+    --ink-2:#c8ccd8;
+    --ink-3:#b6bac6;
+    --muted:#8d919e;
+    --muted-2:#787c88;
+    --faint:#5d616d;
+    --font:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+  html,body{background:var(--bg);}
+  body{
+    font-family:var(--font);
+    color:var(--ink);
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+    line-height:1.5;
+    overflow-x:hidden;
+  }
+  ::-webkit-scrollbar{width:0;height:0;}
+  ::selection{background:var(--accent-soft);}
+
+  .app{
+    max-width:480px;
+    margin:0 auto;
+    min-height:100vh;
+    min-height:100dvh;
+    background:
+      radial-gradient(130% 60% at 50% -10%, #1a1c26 0%, rgba(26,28,38,0) 55%),
+      var(--bg);
+    padding:
+      calc(env(safe-area-inset-top,0px) + 22px)
+      24px
+      calc(env(safe-area-inset-bottom,0px) + 40px);
+  }
+
+  /* ---------- header ---------- */
+  .kicker{
+    font-size:12px;font-weight:600;letter-spacing:.04em;
+    color:var(--accent);margin-bottom:18px;
+  }
+  h1.date{
+    font-weight:300;font-size:30px;line-height:1.2;letter-spacing:-.01em;color:var(--ink);
+  }
+  h1.date b{font-weight:600;}
+  .updated{
+    display:flex;align-items:center;gap:8px;
+    margin-top:14px;color:var(--muted-2);font-size:13px;
+  }
+  .dot{
+    width:7px;height:7px;border-radius:50%;background:var(--accent);
+    box-shadow:0 0 9px var(--accent);
+    animation:pulse 2.6s ease-in-out infinite;
+  }
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.4;}}
+  .intro{
+    font-size:16px;line-height:1.68;color:var(--ink-3);margin-top:24px;font-weight:400;
+  }
+
+  /* ---------- sections ---------- */
+  .section{margin-top:38px;}
+  .section-head{
+    display:flex;align-items:center;gap:10px;margin-bottom:18px;
+  }
+  .section-head .emoji{font-size:17px;line-height:1;}
+  .section-head h2{
+    font-size:15px;font-weight:700;letter-spacing:.01em;color:#e4e6ee;
+  }
+  .section-head .rule{
+    flex:1;height:1px;background:var(--line);
+  }
+  .story{margin-bottom:22px;}
+  .story:last-child{margin-bottom:0;}
+  .story .headline{
+    font-size:16.5px;font-weight:600;line-height:1.38;letter-spacing:-.005em;color:#eceef4;
+  }
+  .story .body{
+    font-size:14.5px;line-height:1.68;color:var(--muted);margin-top:7px;font-weight:400;
+  }
+
+  /* ---------- key points ---------- */
+  .keys{
+    margin-top:40px;
+    background:linear-gradient(165deg,rgba(138,166,214,0.12),rgba(138,166,214,0.045));
+    border:1px solid rgba(138,166,214,0.22);
+    border-radius:22px;padding:24px 22px;
+  }
+  .keys h2{
+    font-size:17px;font-weight:700;color:#a9c0e6;margin-bottom:6px;
+    display:flex;align-items:center;gap:8px;
+  }
+  .keys .item{display:flex;gap:13px;align-items:flex-start;margin-top:15px;}
+  .keys .item .bullet{
+    width:6px;height:6px;border-radius:50%;background:var(--accent);
+    margin-top:8px;flex-shrink:0;
+  }
+  .keys .item p{font-size:14.5px;line-height:1.6;color:var(--ink-2);}
+
+  /* ---------- empty / error ---------- */
+  .empty{
+    margin-top:40px;text-align:center;color:var(--muted);font-size:15px;
+    line-height:1.6;padding:36px 10px;
+    border:1px dashed var(--line);border-radius:20px;
+  }
+
+  /* ---------- actions ---------- */
+  .actions{display:flex;gap:11px;margin-top:30px;}
+  button{
+    flex:1;height:52px;border-radius:16px;font-family:var(--font);
+    font-size:15px;cursor:pointer;transition:background .18s,transform .1s,opacity .18s;
+    display:flex;align-items:center;justify-content:center;gap:8px;
+  }
+  button:active{transform:scale(.97);}
+  button:disabled{opacity:.55;cursor:default;}
+  .btn-primary{border:none;background:var(--accent);color:#0a0f18;font-weight:600;}
+  .btn-primary:hover{background:#9db6e0;}
+  .btn-ghost{
+    border:1px solid rgba(138,166,214,0.3);background:transparent;color:#a9c0e6;font-weight:500;
+  }
+  .btn-ghost:hover{background:rgba(138,166,214,0.1);}
+  .btn-ghost.on{background:var(--accent);color:#0a0f18;border-color:var(--accent);font-weight:600;}
+  .refresh-ico{display:inline-block;transition:transform .7s cubic-bezier(.4,0,.2,1);}
+  .spin{transform:rotate(360deg);}
+
+  /* ---------- subscription output ---------- */
+  .suboutput{
+    display:none;margin-top:16px;
+    background:var(--bg-2);border:1px solid var(--line);border-radius:16px;
+    padding:16px;font-size:12px;line-height:1.55;color:var(--ink-2);
+    word-break:break-all;white-space:pre-wrap;
+    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  }
+  .suboutput.show{display:block;}
+
+  .foot{
+    text-align:center;font-size:11.5px;color:var(--faint);margin-top:24px;line-height:1.5;
+  }
+
+  /* ---------- toast ---------- */
+  .toast{
+    position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom,0px) + 26px);
+    transform:translateX(-50%) translateY(24px);
+    background:#22242e;color:var(--ink);border:1px solid var(--line);
+    padding:11px 18px;border-radius:13px;font-size:13.5px;font-weight:500;
+    box-shadow:0 16px 40px -12px rgba(0,0,0,.6);
+    opacity:0;pointer-events:none;transition:opacity .28s,transform .28s;z-index:50;
+    display:flex;align-items:center;gap:8px;max-width:calc(100% - 40px);
+  }
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+  .toast .tdot{width:7px;height:7px;border-radius:50%;background:var(--accent);flex-shrink:0;}
+
+  /* ---------- entrance ---------- */
+  .reveal{opacity:0;transform:translateY(10px);animation:rise .55s ease forwards;}
+  @keyframes rise{to{opacity:1;transform:none;}}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <div class="kicker">📈 Resum econòmic</div>
-    <h1 id="date">Carregant…</h1>
-    <div class="updated" id="updated"></div>
-  </header>
-  <div id="content"></div>
-  <div style="text-align:center"><button class="refresh" onclick="load()">↻ Actualitzar</button></div>
-  <footer>Generat automàticament amb IA · pot contenir errors</footer>
-</div>
+  <main class="app">
+    <div class="reveal" style="animation-delay:.02s">
+      <div class="kicker">📈 Resum econòmic</div>
+      <h1 class="date" id="date">Carregant…</h1>
+      <div class="updated" id="updated-row"><span class="dot"></span><span id="updated-label"></span></div>
+      <p class="intro" id="intro"></p>
+    </div>
+
+    <div id="sections"></div>
+
+    <div class="keys reveal" id="keys-box" style="display:none">
+      <h2>💡 Per tenir present</h2>
+      <div id="keys"></div>
+    </div>
+
+    <div class="actions reveal">
+      <button class="btn-primary" id="refresh"><span class="refresh-ico" id="refresh-ico">↻</span> Actualitzar</button>
+      <button class="btn-ghost" id="notif"><span id="notif-ico">🔔</span> <span id="notif-label">Activar notificacions</span></button>
+    </div>
+
+    <div class="suboutput" id="suboutput"></div>
+
+    <div class="foot reveal">Generat automàticament amb IA · pot contenir errors</div>
+  </main>
+
+  <div class="toast" id="toast"><span class="tdot"></span><span id="toast-msg"></span></div>
+
 <script>
-function faTemps(iso){if(!iso)return"";const d=Math.floor((Date.now()-new Date(iso))/86400000);if(d<=0)return"actualitzat avui";if(d===1)return"actualitzat ahir";return"actualitzat fa "+d+" dies";}
-function esc(s){return String(s).replace(/[&<>]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[m]));}
-async function load(){
-  try{
-    const r=await fetch("./data.json?t="+Date.now());const d=await r.json();
-    document.getElementById("date").textContent=d.date||"Resum";
-    document.getElementById("updated").textContent=faTemps(d.generatedAt);
-    const c=document.getElementById("content");
-    if(!d.sections||d.sections.length===0){c.innerHTML='<div class="empty">'+esc(d.intro||"Encara no hi ha cap resum.")+'</div>';return;}
-    let h=d.intro?'<p class="intro">'+esc(d.intro)+'</p>':'';
-    for(const s of d.sections){
-      h+='<div class="card"><h2><span class="chip">'+(s.emoji||"•")+'</span>'+esc(s.title||"")+'</h2>';
-      for(const it of (s.items||[]))h+='<div class="item">'+(it.headline?'<p class="h">'+esc(it.headline)+'</p>':'')+'<p class="d">'+esc(it.detail||"")+'</p></div>';
-      h+='</div>';
+  // ---------- helpers ----------
+  const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  function faTemps(iso){
+    if(!iso) return "";
+    const d = Math.floor((Date.now() - new Date(iso)) / 86400000);
+    if(d<=0) return "actualitzat avui";
+    if(d===1) return "actualitzat ahir";
+    return "actualitzat fa " + d + " dies";
+  }
+
+  // ---------- toast ----------
+  let toastTimer;
+  function toast(msg){
+    const t = document.getElementById('toast');
+    document.getElementById('toast-msg').textContent = msg;
+    t.classList.add('show');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(()=>t.classList.remove('show'), 2600);
+  }
+
+  // ---------- render data.json ----------
+  async function load(){
+    const secWrap = document.getElementById('sections');
+    const keysBox = document.getElementById('keys-box');
+    const keysEl  = document.getElementById('keys');
+    try{
+      const r = await fetch("./data.json?t=" + Date.now());
+      const d = await r.json();
+
+      document.getElementById('date').textContent = d.date || "Resum";
+      const label = faTemps(d.generatedAt);
+      document.getElementById('updated-label').textContent = label;
+      document.getElementById('updated-row').style.display = label ? "flex" : "none";
+      document.getElementById('intro').textContent = d.intro || "";
+
+      secWrap.innerHTML = "";
+      const sections = d.sections || [];
+
+      if(sections.length === 0){
+        keysBox.style.display = "none";
+        const empty = document.createElement('div');
+        empty.className = 'empty reveal';
+        empty.textContent = "Encara no hi ha cap resum aquesta setmana.";
+        secWrap.appendChild(empty);
+        return;
+      }
+
+      sections.forEach((sec, i) => {
+        const el = document.createElement('div');
+        el.className = 'section reveal';
+        el.style.animationDelay = (0.06 + i*0.04) + 's';
+        const items = sec.items || [];
+        el.innerHTML =
+          '<div class="section-head"><span class="emoji">'+(sec.emoji||"•")+'</span><h2>'+esc(sec.title||"")+'</h2><span class="rule"></span></div>' +
+          items.map(it =>
+            '<div class="story">' +
+              (it.headline ? '<div class="headline">'+esc(it.headline)+'</div>' : '') +
+              '<div class="body">'+esc(it.detail||"")+'</div>' +
+            '</div>'
+          ).join('');
+        secWrap.appendChild(el);
+      });
+
+      const takeaways = d.takeaways || [];
+      if(takeaways.length){
+        keysEl.innerHTML = takeaways.map(k =>
+          '<div class="item"><span class="bullet"></span><p>'+esc(k)+'</p></div>'
+        ).join('');
+        keysBox.style.display = "block";
+      } else {
+        keysBox.style.display = "none";
+      }
+    }catch(e){
+      secWrap.innerHTML = '<div class="empty reveal">No s\'ha pogut carregar el resum.</div>';
+      keysBox.style.display = "none";
     }
-    if(d.takeaways&&d.takeaways.length){h+='<div class="card takeaways"><h2><span class="chip">💡</span>Per tenir present</h2><ul>';for(const t of d.takeaways)h+='<li>'+esc(t)+'</li>';h+='</ul></div>';}
-    c.innerHTML=h;
-  }catch(e){document.getElementById("content").innerHTML='<div class="empty">No s\'ha pogut carregar el resum.</div>';}
-}
-load();
-if("serviceWorker" in navigator){navigator.serviceWorker.register("./sw.js");}
+  }
+  load();
+
+  // ---------- refresh ----------
+  document.getElementById('refresh').addEventListener('click', async ()=>{
+    const ico = document.getElementById('refresh-ico');
+    ico.classList.remove('spin'); void ico.offsetWidth; ico.classList.add('spin');
+    await load();
+    toast('Resum actualitzat');
+  });
+
+  // ---------- notificacions push (Web Push) ----------
+  const VAPID_PUBLIC_KEY = "BEbDKJ2DDUlVNlLusNQUZY7dX9QBij5Nb21PPFsfFLKtduYj-B8GAlzH1w3s78byS2tKAwaJh9ruOKCMYqW3ueI";
+
+  function urlBase64ToUint8Array(base64String){
+    const padding = "=".repeat((4 - base64String.length % 4) % 4);
+    const base64 = (base64String + padding).replace(/-/g, "+").replace(/_/g, "/");
+    const raw = atob(base64);
+    const out = new Uint8Array(raw.length);
+    for(let i=0;i<raw.length;i++) out[i] = raw.charCodeAt(i);
+    return out;
+  }
+
+  const notifBtn = document.getElementById('notif');
+  notifBtn.addEventListener('click', async ()=>{
+    const out = document.getElementById('suboutput');
+    if(!("serviceWorker" in navigator) || !("PushManager" in window)){
+      out.classList.add('show');
+      out.textContent = "⚠️ Aquest navegador no admet notificacions push. A l'iPhone, obre l'app des de la icona de la pantalla d'inici (no des de Safari).";
+      toast('Push no compatible aquí');
+      return;
+    }
+    try{
+      notifBtn.disabled = true;
+      const permis = await Notification.requestPermission();
+      if(permis !== "granted"){
+        out.classList.add('show');
+        out.textContent = "⚠️ Permís denegat. No es podran enviar notificacions.";
+        toast('Permís denegat');
+        notifBtn.disabled = false;
+        return;
+      }
+      const reg = await navigator.serviceWorker.ready;
+      let sub = await reg.pushManager.getSubscription();
+      if(!sub){
+        sub = await reg.pushManager.subscribe({
+          userVisibleOnly: true,
+          applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY)
+        });
+      }
+      const json = JSON.stringify(sub);
+      let copiat = false;
+      try{ await navigator.clipboard.writeText(json); copiat = true; }catch(_){}
+
+      out.classList.add('show');
+      out.textContent = "✅ Subscripció creada. Copia aquest text al secret PUSH_SUBSCRIPTION:\n\n" + json + (copiat ? "\n\n(Copiat al porta-retalls)" : "");
+
+      // Mostra el JSON en un prompt() perquè es pugui seleccionar i copiar a mà
+      window.prompt("Copia el JSON de la subscripció (secret PUSH_SUBSCRIPTION):", json);
+
+      notifBtn.classList.add('on');
+      document.getElementById('notif-ico').textContent = '✓';
+      document.getElementById('notif-label').textContent = 'Notificacions actives';
+      toast(copiat ? 'Subscripció copiada' : 'Subscripció creada');
+    }catch(e){
+      const out = document.getElementById('suboutput');
+      out.classList.add('show');
+      out.textContent = "⚠️ Error en activar les notificacions: " + (e && e.message ? e.message : e);
+      toast('Error activant notificacions');
+      notifBtn.disabled = false;
+    }
+  });
+
+  // ---------- service worker ----------
+  if("serviceWorker" in navigator){ navigator.serviceWorker.register("./sw.js"); }
 </script>
 </body>
 </html>
