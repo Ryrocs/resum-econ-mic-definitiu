@@ -1,27 +1,27 @@
 {
-  "date": "24 de juliol del 2026",
-  "generatedAt": "2026-07-24T09:41:37.435Z",
-  "intro": "Una setmana marcada per la cautela dels bancs centrals davant la inflació i les tensions geopolítiques, mentre el mercat cripto mostra signes de recuperació.",
+  "date": "31 de juliol del 2026",
+  "generatedAt": "2026-07-31T10:03:30.989Z",
+  "intro": "La setmana econòmica ha estat marcada per la persistència de tensions inflacionistes a Espanya, la moderació a la zona euro i una economia mundial amb un creixement resistent però desigual, mentre els mercats s'adapten a les noves realitats geopolítiques i energètiques.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "El BCE manté els tipus d'interès estables",
-          "detail": "El Banc Central Europeu va decidir el 23 de juliol mantenir els tres tipus d'interès oficials sense canvis, amb la facilitat de dipòsit en el 2,25%, després d'una pujada al juny, a causa de la incertesa generada pel conflicte a l'Orient Mitjà i el seu impacte potencial en els preus de l'energia i la inflació."
+          "headline": "La inflació repunta a Espanya, es modera a Europa",
+          "detail": "La inflació espanyola va repuntar al 3,5% al juliol, impulsada pels preus dels combustibles i l'electricitat. En canvi, la inflació a la zona euro es va moderar fins al 2,8% al juny, amb la subjacent també alentint-se al 2,4%."
         },
         {
-          "headline": "Previsions de PIB i inflació a Espanya i nivell mundial",
-          "detail": "Funcas va revisar a l'alça la previsió de creixement del PIB per a Espanya el 2026 fins al 2,3% (informe del 13 de juliol). L'FMI, per la seva banda, va rebaixar la seva previsió de creixement mundial per al 2026 al 3% (informe del 8 de juliol) per l'impacte del conflicte a l'Orient Mitjà, i va revisar a l'alça la inflació global fins al 4,7% per al mateix any."
+          "headline": "Tipus d'interès en pausa amb vigilància",
+          "detail": "El Banc Central Europeu va mantenir els tipus sense canvis, però els mercats anticipen fins a dues pujades addicionals en els propers 12 mesos per riscos geopolítics i energètics. La Reserva Federal dels EUA també manté una postura de pausa però vigilant."
         },
         {
-          "headline": "Inflació estable a Espanya i caiguda als EUA",
-          "detail": "La inflació espanyola es va mantenir estable al juny malgrat la retirada de les mesures aplicades a l'electricitat i el gas. Als Estats Units, la inflació general va caure al 3,5% al juny, gràcies al retrocés de l'energia, els serveis i l'habitatge."
+          "headline": "Creixement del PIB global resistent però desigual",
+          "detail": "El creixement mundial es projecta en un 3,0% el 2026, resistent però amb desigualtats a causa dels xocs de la guerra i els avenços de la IA."
         },
         {
-          "headline": "Desafiaments en l'ocupació espanyola",
-          "detail": "KPMG ha advertit que l'absentisme laboral s'ha convertit en un dels principals desafiaments per a la competitivitat de l'economia espanyola (informe del 21 de juliol). El Govern va aprovar 25 milions d'euros per a programes d'ocupació i formació de joves estrangers tutelats."
+          "headline": "Mercat laboral espanyol manté el ritme",
+          "detail": "El mercat laboral espanyol ha mantingut el ritme de creació d'ocupació al juliol, amb una tendència similar a la del mes de juny."
         }
       ]
     },
@@ -30,20 +30,16 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "Milloren les expectatives econòmiques i baixa la preocupació pels preus",
-          "detail": "Les expectatives econòmiques a Espanya van millorar lleument al juny, i la preocupació per un alça dels preus va disminuir, segons l'informe GfK NIM Euro Clima de Consum (21 de juliol)."
+          "headline": "El PIB espanyol accelera, però la percepció ciutadana és negativa",
+          "detail": "L'economia espanyola accelera el ritme d'avanç del PIB, amb Catalunya creixent un 3% interanual en el segon trimestre. No obstant això, només el 35,7% dels ciutadans valoren la situació econòmica com a bona o molt bona, sent l'habitatge i els problemes econòmics les principals preocupacions."
         },
         {
-          "headline": "El Govern re-aprova el sostre de despesa",
-          "detail": "El Consell de Ministres va aprovar, per segona vegada aquest mes (el 21 de juliol), el límit de despesa no financer ('techo de gasto') i la senda d'estabilitat per a les administracions públiques 2027-2029, després del rebuig per part del Congrés la setmana anterior."
+          "headline": "Augment significatiu dels preus dels combustibles",
+          "detail": "La gasolina s'ha encarit un 2,5% en una setmana i acumula un increment del 15% respecte a fa un mes."
         },
         {
-          "headline": "Estiu rècord per al turisme",
-          "detail": "Espanya s'encamina cap a un estiu històric el 2026, amb la previsió de rebre 100 milions de turistes internacionals per primera vegada, impulsant amb força l'hostaleria i el comerç (informe del 15 de juliol)."
-        },
-        {
-          "headline": "Retrocedeixen les compravendes d'habitatge",
-          "detail": "Les compravendes d'habitatge a Espanya van caure al maig per cinquè mes consecutiu, un 7,3% interanual, la caiguda més alta en dos anys, tot i que la demanda continua mostrant una notable resiliència (dades del 17 de juliol)."
+          "headline": "Les compravendes d'habitatge retrocedeixen",
+          "detail": "Les compravendes d'habitatge a Espanya van baixar al maig per cinquè mes consecutiu, tot i que la demanda es manté resilient."
         }
       ]
     },
@@ -52,16 +48,12 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "Pausa en la política monetària del BCE",
-          "detail": "El Banc Central Europeu (BCE) va decidir el 23 de juliol no modificar els tipus d'interès oficials, optant per la prudència després de la pujada de juny i davant la incertesa generada pel conflicte a l'Orient Mitjà i el seu possible impacte en la inflació."
+          "headline": "Inflació a la zona euro s'alenteix",
+          "detail": "L'augment dels preus al consum a la zona euro es va alentir quatre dècimes al juny, fins al 2,8%, situant-se per sota de les expectatives dels analistes."
         },
         {
-          "headline": "Moderació de la inflació a la zona euro",
-          "detail": "La inflació de la zona euro es va moderar quatre dècimes al juny, fins al 2,9%, fet que allana el camí del BCE per complir el seu objectiu d'inflació."
-        },
-        {
-          "headline": "Revisió a la baixa del creixement per a la zona euro",
-          "detail": "L'FMI va reduir la seva previsió de creixement per a la zona de l'euro el 2026 al 0,9% (informe del 8 de juliol), des de l'1,1% estimat a l'abril."
+          "headline": "Mercats europeus amb un inici de mes positiu",
+          "detail": "Les places europees van registrar un inici de sessió positiu en l'última jornada de juliol, impulsades pels resultats empresarials."
         }
       ]
     },
@@ -70,16 +62,12 @@
       "title": "Món",
       "items": [
         {
-          "headline": "L'FMI rebaixa la previsió de creixement global per al 2026",
-          "detail": "El Fons Monetari Internacional (FMI) va reduir la seva previsió de creixement econòmic mundial per al 2026 fins al 3% (informe del 8 de juliol), una dècima menys que a l'abril, a causa de l'impacte de la guerra a l'Orient Mitjà, tot i que l'economia global ha resistit millor del que s'esperava."
+          "headline": "Tensions geopolítiques afecten els preus de l'energia",
+          "detail": "Les renovades tensions a l'estret d'Ormuz han mantingut els preus del cru Brent prop dels 85-100 dòlars per barril, impulsant les expectatives d'inflació."
         },
         {
-          "headline": "Augment de la inflació global projectada",
-          "detail": "La inflació general global es va revisar a l'alça fins al 4,7% el 2026 (informe del 8 de juliol), en comparació amb el 4,4% previst a l'abril, abans de baixar al 3,9% el 2027."
-        },
-        {
-          "headline": "Caiguda del preu del petroli alleuja tensions",
-          "detail": "La recuperació de l'activitat a l'estret d'Ormuz ha contribuït a la caiguda del preu del petroli, alleujant els riscos sobre el subministrament energètic i la inflació (juliol 2026). La disminució del cru ha ajudat a disminuir els temors d'una segona onada inflacionista."
+          "headline": "Crisi diplomàtica entre Brasil i Argentina",
+          "detail": "Una crisi diplomàtica ha esclatat entre Brasil i Argentina a causa de les declaracions del president Javier Milei, posant en risc la seva associació històrica."
         }
       ]
     },
@@ -88,16 +76,16 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Rebot de l'Ibex-35 i l'euro",
-          "detail": "L'Ibex-35 va començar la sessió del 21 de juliol amb una pujada del 0,23%, consolidant-se per sobre dels 19.200 punts, en un context de mercat marcat per la caiguda dels preus del cru. En el mercat de divises, l'euro va mostrar un comportament positiu en el seu encreuament amb el dòlar."
+          "headline": "Borses europees a l'alça; Ibex 35 tanca en positiu",
+          "detail": "Les borses europees van continuar les pujades en una jornada marcada pels resultats empresarials, amb l'Ibex 35 tancant en positiu, impulsat per companyies com Naturgy i Iberdrola."
         },
         {
-          "headline": "Lleuger increment en la renda fixa espanyola",
-          "detail": "El rendiment del bo espanyol amb venciment a 10 anys va registrar una lleugera pujada fins al 3,608% el 21 de juliol, fet que reflecteix les expectatives dels inversors sobre l'evolució futura dels tipus d'interès i la inflació."
+          "headline": "Dòlar fort i rendiments a la baixa als EUA",
+          "detail": "El dòlar nord-americà es va enfortir, assolint màxims de 4 dècades davant el ien japonès i cotitzant al voltant d'1,14 EUR/USD. Els rendiments dels bons del Tresor dels EUA van disminuir després de dades d'ocupació més febles de l'esperat."
         },
         {
-          "headline": "Disminució dels preus de les matèries primeres clau",
-          "detail": "La disminució dels preus del petroli cru ha contribuït a desvaneixer els temors d'una segona onada inflacionista, un factor important per als mercats (notícia del 21 de juliol)."
+          "headline": "Matèries primeres recolzen dividends a Llatinoamèrica",
+          "detail": "Les previsions apunten a un creixement del 29% en els guanys per acció de l'índex MSCI Amèrica Llatina el 2026, la qual cosa proporciona una base sòlida per a l'augment continu dels dividends, sostingut per les matèries primeres."
         }
       ]
     },
@@ -106,12 +94,12 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "El mercat cripto rebota amb força",
-          "detail": "El mercat de criptomonedes va rebotar, amb Bitcoin superant de nou els 66.000 $ i Ethereum trencant els 1.900 $ el 21 de juliol, gràcies a la relaxació de les pors a la inflació i les entrades en ETFs."
+          "headline": "Bitcoin es manté per sobre dels 64.000 USD",
+          "detail": "Bitcoin es va aferrar als 64.000 USD, superant les mitjanes mòbils de 30 i 50 dies, tot i que els baixistes posen a prova la convicció alcista en un context de dades macro mixtes."
         },
         {
-          "headline": "Ethereum lidera les pujades",
-          "detail": "Ethereum ha experimentat un augment significatiu, amb una pujada aproximada de l'11% en els últims set dies (fins al 17 de juliol), superant Bitcoin. Aquest impuls es deu a compres tècniques, l'activitat de staking i la demanda de la nova Robinhood Chain."
+          "headline": "Ethereum tanca al voltant dels 1.943 USD",
+          "detail": "Ethereum va tancar la setmana al voltant dels 1.943 USD, amb una lleugera caiguda del 0,6%."
         }
       ]
     },
@@ -120,15 +108,19 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "La IA com a contrapès econòmic global",
-          "detail": "L'FMI destaca que l'impuls accelerat de la demanda en el cicle tecnològic global, gràcies als avenços en intel·ligència artificial (IA), està contrarestant parcialment els efectes negatius del conflicte a l'Orient Mitjà en el creixement mundial (informe del 8 de juliol)."
+          "headline": "El cost de les vacances s'encareix dràsticament",
+          "detail": "Les vacances costen cada cop més a les famílies, amb una despesa mitjana familiar per anar a la platja que augmenta a 1.502 euros aquest estiu, a causa de l'increment dels preus dels hotels i la restauració."
+        },
+        {
+          "headline": "Desconnexió entre macroeconomia i benestar percebut",
+          "detail": "Malgrat el fort creixement macroeconòmic d'Espanya, el 56,6% dels ciutadans perceben la situació econòmica com a dolenta o molt dolenta, evidenciant una desconnexió amb variables com el cost de l'habitatge i la inflació acumulada."
         }
       ]
     }
   ],
   "takeaways": [
-    "Els bancs centrals mantenen una postura de cautela, amb el BCE optant per una pausa en la pujada de tipus d'interès mentre monitoren la inflació i les tensions geopolítiques.",
-    "L'economia espanyola mostra resiliència, amb millores en les expectatives dels consumidors i un fort impuls del turisme, tot i que l'absentisme laboral i el retrocés en la compravenda d'habitatges continuen sent reptes.",
-    "El mercat de criptomonedes ha experimentat un notable rebot, amb Ethereum liderant les pujades, impulsat per la disminució de les pors inflacionistes i l'interès institucional."
+    "La inflació continua sent una preocupació clau a Espanya, contrastant amb una moderació a la zona euro, impulsada per la volatilitat dels preus energètics.",
+    "El creixement econòmic global es manté, però la seva distribució és desigual, amb la geopolítica i la IA configurant les perspectives futures.",
+    "Els mercats financers mostren cautela amb les decisions dels bancs centrals, mentre les tensions internacionals continuen influint en les matèries primeres i les divises."
   ]
 }
