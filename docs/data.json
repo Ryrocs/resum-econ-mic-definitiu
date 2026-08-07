@@ -1,27 +1,31 @@
 {
-  "date": "31 de juliol del 2026",
-  "generatedAt": "2026-07-31T10:03:30.989Z",
-  "intro": "La setmana econòmica ha estat marcada per la persistència de tensions inflacionistes a Espanya, la moderació a la zona euro i una economia mundial amb un creixement resistent però desigual, mentre els mercats s'adapten a les noves realitats geopolítiques i energètiques.",
+  "date": "7 d’agost del 2026",
+  "generatedAt": "2026-08-07T08:33:28.857Z",
+  "intro": "Una setmana marcada per la persistència de les pressions inflacionistes a escala global, especialment a l'eurozona, mentre que algunes economies com l'espanyola mostren creixement malgrat els reptes per a les llars.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació repunta a Espanya, es modera a Europa",
-          "detail": "La inflació espanyola va repuntar al 3,5% al juliol, impulsada pels preus dels combustibles i l'electricitat. En canvi, la inflació a la zona euro es va moderar fins al 2,8% al juny, amb la subjacent també alentint-se al 2,4%."
+          "headline": "La inflació es manté elevada a l'eurozona",
+          "detail": "La inflació a la zona euro es va situar en el 2,9% al juliol, una dada superior a les previsions que aviva la possibilitat d'una pujada de tipus del BCE al setembre. El Banc Central Europeu adverteix que la inflació no ha assolit el seu pic i es mantindrà “elevada” durant la resta de l'any, en part pels efectes de la “pertorbació energètica” ocasionada per la guerra a l'Iran."
         },
         {
-          "headline": "Tipus d'interès en pausa amb vigilància",
-          "detail": "El Banc Central Europeu va mantenir els tipus sense canvis, però els mercats anticipen fins a dues pujades addicionals en els propers 12 mesos per riscos geopolítics i energètics. La Reserva Federal dels EUA també manté una postura de pausa però vigilant."
+          "headline": "Caiguda històrica de la inflació a Hongria",
+          "detail": "Hongria va registrar la inflació més baixa dels últims deu anys al juliol, amb un 1,2% interanual, molt per sota de les expectatives. A més, els preus dels aliments sense incloure la restauració van experimentar una caiguda rècord del 4,4%."
         },
         {
-          "headline": "Creixement del PIB global resistent però desigual",
-          "detail": "El creixement mundial es projecta en un 3,0% el 2026, resistent però amb desigualtats a causa dels xocs de la guerra i els avenços de la IA."
+          "headline": "BCE i Fed mantenen els tipus d'interès, pendent de Jackson Hole",
+          "detail": "Ni la Reserva Federal dels EUA ni el Banc Central Europeu tenen reunions de política monetària programades per a l'agost de 2026. L'atenció es centra ara en el Symposium de Jackson Hole (27-29 d'agost), on es podrien anticipar pistes sobre possibles moviments de tipus d'interès al setembre, especialment per part de la Fed."
         },
         {
-          "headline": "Mercat laboral espanyol manté el ritme",
-          "detail": "El mercat laboral espanyol ha mantingut el ritme de creació d'ocupació al juliol, amb una tendència similar a la del mes de juny."
+          "headline": "El PIB dels EUA creix menys del previst",
+          "detail": "El producte interior brut (PIB) real dels Estats Units va augmentar a una taxa anual de l'1,5% en el segon trimestre de 2026 (abril, maig i juny), inferior al 2,1% registrat en el primer trimestre."
+        },
+        {
+          "headline": "Previsions de creixement global sota incertesa",
+          "detail": "El creixement mundial es projecta que es desacceleri al 2,7% el 2026, amb les perspectives ensombrades per tensions comercials i incertesa persistent. S&P Global, no obstant, ha millorat les seves previsions gràcies a la baixada dels preus de les matèries primeres, però el conflicte a l'Orient Mitjà continua sent un risc."
         }
       ]
     },
@@ -30,16 +34,24 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "El PIB espanyol accelera, però la percepció ciutadana és negativa",
-          "detail": "L'economia espanyola accelera el ritme d'avanç del PIB, amb Catalunya creixent un 3% interanual en el segon trimestre. No obstant això, només el 35,7% dels ciutadans valoren la situació econòmica com a bona o molt bona, sent l'habitatge i els problemes econòmics les principals preocupacions."
+          "headline": "Caiguda dels ingressos reals de les llars espanyoles",
+          "detail": "Els ingressos reals per càpita de les llars espanyoles van registrar una caiguda del 0,4% en el primer trimestre de 2026, la més gran des de 2023, atribuïda principalment a l'augment de les cotitzacions a la Seguretat Social."
         },
         {
-          "headline": "Augment significatiu dels preus dels combustibles",
-          "detail": "La gasolina s'ha encarit un 2,5% en una setmana i acumula un increment del 15% respecte a fa un mes."
+          "headline": "La compra de vivendes reactiva el creixement",
+          "detail": "La compra de vivendes al juny va posar fi a cinc mesos consecutius de caigudes, amb un augment de l'1,6%, consolidant el 2026 com el segon exercici amb major volum de transaccions de l'última dècada en aquest punt de l'any."
         },
         {
-          "headline": "Les compravendes d'habitatge retrocedeixen",
-          "detail": "Les compravendes d'habitatge a Espanya van baixar al maig per cinquè mes consecutiu, tot i que la demanda es manté resilient."
+          "headline": "L'economia espanyola manté el creixement amb inflació a l'alça",
+          "detail": "L'economia espanyola segueix creixent, superant moltes economies desenvolupades, tot i que la inflació ha pujat a màxims dels últims dos anys, generant una certa preocupació per la pèrdua de poder adquisitiu."
+        },
+        {
+          "headline": "El Tresor Públic manté l'estratègia de finançament",
+          "detail": "El Tresor Públic ha reactivat subhastes i manté la seva estratègia de finançament per al 2026, destinant 50.000 milions d'euros a deute a mitjà i llarg termini."
+        },
+        {
+          "headline": "El turisme a Catalunya bat rècords",
+          "detail": "L'arribada de turistes estrangers a Catalunya va créixer un 3,5% durant la primera meitat de 2026, marcant un rècord. L'economia catalana, per la seva banda, va créixer un 3% durant el segon trimestre."
         }
       ]
     },
@@ -48,12 +60,16 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "Inflació a la zona euro s'alenteix",
-          "detail": "L'augment dels preus al consum a la zona euro es va alentir quatre dècimes al juny, fins al 2,8%, situant-se per sota de les expectatives dels analistes."
+          "headline": "Pressions inflacionistes sostenen la incertesa del BCE",
+          "detail": "El Banc Central Europeu continua vigilant les pressions inflacionistes que podrien portar a nous ajustos en els tipus d'interès, tot i mantenir-los estables en la seva última reunió."
         },
         {
-          "headline": "Mercats europeus amb un inici de mes positiu",
-          "detail": "Les places europees van registrar un inici de sessió positiu en l'última jornada de juliol, impulsades pels resultats empresarials."
+          "headline": "Aposta per la sobirania tecnològica",
+          "detail": "Les empreses europees estan mostrant un interès creixent per la sobirania tecnològica per reduir la seva dependència dels Estats Units i la Xina en àrees clau."
+        },
+        {
+          "headline": "Creixement rècord dels ETFs de renda fixa",
+          "detail": "Els fons cotitzats (ETFs) de renda fixa han assolit un rècord històric d'inversions, acumulant 23 bilions de dòlars a escala global al juny de 2026."
         }
       ]
     },
@@ -62,12 +78,16 @@
       "title": "Món",
       "items": [
         {
-          "headline": "Tensions geopolítiques afecten els preus de l'energia",
-          "detail": "Les renovades tensions a l'estret d'Ormuz han mantingut els preus del cru Brent prop dels 85-100 dòlars per barril, impulsant les expectatives d'inflació."
+          "headline": "Economia global resilient, però amb riscos geopolítics",
+          "detail": "La UNCTAD destaca que l'economia mundial ha mostrat resiliència, però les perspectives per al 2026 continuen ensombrades per tensions comercials, pressions fiscals i una incertesa persistent. El conflicte a l'Orient Mitjà segueix sent el principal factor de risc."
         },
         {
-          "headline": "Crisi diplomàtica entre Brasil i Argentina",
-          "detail": "Una crisi diplomàtica ha esclatat entre Brasil i Argentina a causa de les declaracions del president Javier Milei, posant en risc la seva associació històrica."
+          "headline": "Desacceleració del comerç i la inversió global",
+          "detail": "Es preveu que el creixement del comerç i la inversió a escala mundial es desacceleri el 2026, ja que els impulsors temporals desapareixen i persisteixen les barreres comercials i la incertesa política."
+        },
+        {
+          "headline": "Divergències en el creixement regional",
+          "detail": "El creixement econòmic mundial és desigual, amb les economies emergents superant les avançades, i Europa mostrant una activitat feble, mentre que les economies en desenvolupament continuen limitades per un deute elevat i xocs climàtics."
         }
       ]
     },
@@ -76,16 +96,20 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Borses europees a l'alça; Ibex 35 tanca en positiu",
-          "detail": "Les borses europees van continuar les pujades en una jornada marcada pels resultats empresarials, amb l'Ibex 35 tancant en positiu, impulsat per companyies com Naturgy i Iberdrola."
+          "headline": "La borsa global assoleix noves fites",
+          "detail": "La renda variable mundial, inclòs l'IBEX 35, s'encamina cap a noves cotes, impulsada pel creixement econòmic i la solidesa dels resultats empresarials, tot i que el sector tecnològic ha experimentat algunes vendes."
         },
         {
-          "headline": "Dòlar fort i rendiments a la baixa als EUA",
-          "detail": "El dòlar nord-americà es va enfortir, assolint màxims de 4 dècades davant el ien japonès i cotitzant al voltant d'1,14 EUR/USD. Els rendiments dels bons del Tresor dels EUA van disminuir després de dades d'ocupació més febles de l'esperat."
+          "headline": "Els ETFs de renda fixa superen els de renda variable",
+          "detail": "Al juny de 2026, els fons cotitzats (ETFs) de renda fixa van superar per primera vegada en patrimoni els de renda variable al mercat brasiler, reflectint una tendència global cap a aquest tipus d'actius."
         },
         {
-          "headline": "Matèries primeres recolzen dividends a Llatinoamèrica",
-          "detail": "Les previsions apunten a un creixement del 29% en els guanys per acció de l'índex MSCI Amèrica Llatina el 2026, la qual cosa proporciona una base sòlida per a l'augment continu dels dividends, sostingut per les matèries primeres."
+          "headline": "El Brent sota els 80 dòlars, però el dièsel puja",
+          "detail": "El preu del barril de Brent va caure per sota dels 80 dòlars. No obstant això, el cost d'omplir el dipòsit de dièsel a Espanya frega els 100 euros, amb un augment del 20% en un mes."
+        },
+        {
+          "headline": "El dòlar sota escrutini",
+          "detail": "L'EUR/USD va entrar a l'agost defensant el nivell de 1,15. A més, s'ha alertat sobre una possible pèrdua progressiva de confiança en el dòlar, la qual cosa podria generar inestabilitat."
         }
       ]
     },
@@ -94,12 +118,16 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Bitcoin es manté per sobre dels 64.000 USD",
-          "detail": "Bitcoin es va aferrar als 64.000 USD, superant les mitjanes mòbils de 30 i 50 dies, tot i que els baixistes posen a prova la convicció alcista en un context de dades macro mixtes."
+          "headline": "La 'Ley Clarity' en punt mort al Senat dels EUA",
+          "detail": "La 'Ley Clarity', un projecte de llei crucial per a la regulació de les criptomonedes als Estats Units, es troba en una fase crítica al Senat amb poques probabilitats d'una aprovació immediata abans del recés legislatiu."
         },
         {
-          "headline": "Ethereum tanca al voltant dels 1.943 USD",
-          "detail": "Ethereum va tancar la setmana al voltant dels 1.943 USD, amb una lleugera caiguda del 0,6%."
+          "headline": "Acumulació de 'ballenes' de Bitcoin en un mercat baixista",
+          "detail": "Les carteres de Bitcoin amb més de 1.000 BTC, conegudes com a 'ballenes', han augmentat les seves possessions en les últimes dues setmanes, fet que s'interpreta com una acumulació institucional a preus deprimits, malgrat la pressió baixista general del mercat cripto."
+        },
+        {
+          "headline": "La IA, una amenaça emergent per a empreses de Bitcoin",
+          "detail": "S'ha advertit que la intel·ligència artificial (IA) ja té la capacitat de deixar fora de servei empreses relacionades amb Bitcoin, plantejant nous reptes de seguretat en el sector."
         }
       ]
     },
@@ -108,19 +136,23 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "El cost de les vacances s'encareix dràsticament",
-          "detail": "Les vacances costen cada cop més a les famílies, amb una despesa mitjana familiar per anar a la platja que augmenta a 1.502 euros aquest estiu, a causa de l'increment dels preus dels hotels i la restauració."
+          "headline": "Rècord en la caiguda dels preus dels aliments a Hongria",
+          "detail": "Al juliol, els preus dels aliments a Hongria van caure un 4,4% interanual (sense incloure la restauració), marcant un rècord històric en la reducció de preus per a aquesta categoria de productes."
         },
         {
-          "headline": "Desconnexió entre macroeconomia i benestar percebut",
-          "detail": "Malgrat el fort creixement macroeconòmic d'Espanya, el 56,6% dels ciutadans perceben la situació econòmica com a dolenta o molt dolenta, evidenciant una desconnexió amb variables com el cost de l'habitatge i la inflació acumulada."
+          "headline": "Els municipis espanyols infrautilitzen el superàvit",
+          "detail": "Els ajuntaments espanyols amb prou feines van invertir el 8% del seu considerable superàvit l'any passat, a causa de les autoritzacions tardanes d'Hisenda i un marc fiscal rígid."
+        },
+        {
+          "headline": "La canya de cervesa, en risc",
+          "detail": "Coincidint amb el Dia Internacional de la Cervesa, es constata que la tradicional 'canya' es troba en un moment crític, ja que molts bars la rebutgen en favor de formats més grans com 'dobles' o 'jarres'."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació continua sent una preocupació clau a Espanya, contrastant amb una moderació a la zona euro, impulsada per la volatilitat dels preus energètics.",
-    "El creixement econòmic global es manté, però la seva distribució és desigual, amb la geopolítica i la IA configurant les perspectives futures.",
-    "Els mercats financers mostren cautela amb les decisions dels bancs centrals, mentre les tensions internacionals continuen influint en les matèries primeres i les divises."
+    "La inflació persisteix com a repte principal, especialment a la zona euro, mentre que alguns països experimenten desinflació notable.",
+    "Les llars espanyoles s'enfronten a una pèrdua de poder adquisitiu malgrat el creixement econòmic general del país, a causa de l'augment de les cotitzacions socials.",
+    "El mercat de renda fixa guanya terreny, amb un augment significatiu en els fons cotitzats (ETFs) de renda fixa, superant fins i tot la renda variable en alguns mercats."
   ]
 }
