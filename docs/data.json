@@ -1,27 +1,23 @@
 {
-  "date": "14 d’agost del 2026",
-  "generatedAt": "2026-08-14T08:41:53.885Z",
-  "intro": "La setmana ha estat marcada per la persistència de la inflació a Europa i Espanya, tensions geopolítiques que afecten els preus de l'energia, i un rendiment borsari notable malgrat la incertesa macroeconòmica.",
+  "date": "21 d’agost del 2026",
+  "generatedAt": "2026-08-21T08:03:03.323Z",
+  "intro": "La setmana ha estat marcada per tensions geopolítiques que han impulsat els preus del petroli, mentre que la confiança dels inversors a Europa ha millorat i la SEC ha proposat una nova regulació per als criptoactius.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació es manté elevada a Espanya i la zona euro",
-          "detail": "La inflació interanual d'Espanya al juliol es va revisar a l'alça fins al 3,6%, impulsada principalment pels preus dels carburants. A la zona euro, la inflació anual va ser del 2,8% al juny, amb projeccions que la situen al voltant del 3% per al 2026."
+          "headline": "La inflació espanyola de juliol s'accelera i podria superar el 4% a l'agost",
+          "detail": "L'IPC anual a Espanya va pujar al 3,6% al juliol, quatre dècimes més que al juny, i s'espera que superi el 4% a l'agost, impulsada principalment pels preus de l'energia. La inflació subjacent es va situar en el 3,0%."
         },
         {
-          "headline": "El BCE manté els tipus d'interès, però s'espera una pujada al setembre",
-          "detail": "El Banc Central Europeu va mantenir els tipus d'interès en la seva reunió del 23 de juliol de 2026, amb la taxa de facilitat de dipòsit al 2,25%. No obstant això, els mercats anticipen una nova pujada de tipus per part del BCE al setembre, a causa de les persistents pressions inflacionistes derivades del conflicte a l'Orient Mitjà."
+          "headline": "La inflació a la zona euro augmenta lleugerament",
+          "detail": "La inflació de la zona euro va augmentar al 2,9% al juliol, en línia amb les expectatives. Els inversors mostren una preocupació repuntant per la inflació, tot i que per sota dels nivells extrems registrats durant el conflicte a l'Iran."
         },
         {
-          "headline": "Creixement desigual del PIB a l'eurozona",
-          "detail": "El Producte Interior Brut (PIB) de la zona euro va créixer un 0,4% en el segon trimestre de 2026. Espanya va liderar aquest creixement amb un 0,7% en el mateix període, superant significativament la mitjana de l'eurozona i altres grans economies com Alemanya, França i Itàlia."
-        },
-        {
-          "headline": "Dades d'ocupació mixtes a l'espera de noves decisions de la Fed",
-          "detail": "Als Estats Units, la destrucció de 23.000 llocs de treball al juliol va ser rebuda amb eufòria a Wall Street, ja que redueix la probabilitat d'una pujada de tipus per part de la Reserva Federal. A la zona euro, l'ocupació va augmentar un 0,1% en el primer trimestre de 2026."
+          "headline": "El PIB dels EUA es desaccelera en el segon trimestre de 2026",
+          "detail": "El producte interior brut (PIB) dels Estats Units va créixer un 0,4% en el segon trimestre de 2026, amb una taxa anualitzada de l'1,5%, reflectint una desacceleració respecte al trimestre anterior."
         }
       ]
     },
@@ -30,16 +26,12 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "El govern espanyol augmenta la rebaixa del gasoil per la inflació",
-          "detail": "Davant el repunt de la inflació i l'encariment dels carburants, el govern espanyol elevarà la bonificació fiscal del gasoil a 20 cèntims per litre al setembre, superant el llindar del 15% establert per activar l'escut anticrisi."
+          "headline": "L'afiliació a la Seguretat Social ateny màxims històrics",
+          "detail": "La xifra d'afiliació a la Seguretat Social va arribar als 22.318.994 ocupats en la primera quinzena d'agost, el nivell més alt de la sèrie desestacionalitzada, amb un augment de prop de 670.000 afiliats en l'últim any."
         },
         {
-          "headline": "L'Euríbor trenca la tendència a l'alça",
-          "detail": "L'Euríbor va baixar al 2,943% el 13 d'agost, trencant una ratxa de quatre pujades consecutives."
-        },
-        {
-          "headline": "L'Ibex-35 manté la fortalesa i supera els 20.000 punts",
-          "detail": "L'Ibex-35 ha demostrat una notable fortalesa, superant els 20.000 punts i acumulant un guany del 16,7% aquest any. El sector bancari, en particular, continua sent un motor clau, amb els sis bancs de l'Ibex-35 registrant pujades superiors al 20% el 2026."
+          "headline": "Alta temporalitat en la contractació de perfils amb baixa formació",
+          "detail": "Gairebé una quarta part (23,4%) dels assalariats espanyols amb baix nivell formatiu accedeix a la feina amb un contracte temporal, gairebé el doble que en el cas dels titulats superiors."
         }
       ]
     },
@@ -48,12 +40,12 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "L'onada de calor extrema amenaça el creixement econòmic de la UE",
-          "detail": "Un informe del banc neerlandès Triodos estima que l'onada de calor extrema i la sequera que afecten gran part d'Europa podrien reduir el PIB de la Unió Europea en un 1% el 2026, equivalent a pèrdues d'uns 180.000 milions d'euros."
+          "headline": "Millora la confiança dels inversors a la zona euro",
+          "detail": "La confiança dels inversors a la zona euro va tornar a terreny positiu a l'agost, amb l'índex Sentix situant-se en 0,9 punts, el nivell més alt des de febrer, impulsada per la millora de la situació econòmica actual i la confiança en la recuperació."
         },
         {
-          "headline": "Augment dels preus de l'electricitat i el gas",
-          "detail": "L'agost s'ha convertit en el mes més car de la història pel preu de l'electricitat, amb una mitjana de 106 euros. En general, els preus del gas i l'electricitat han augmentat a Europa."
+          "headline": "El Bundesbank alerta sobre l'impacte de la sequera en l'economia alemanya",
+          "detail": "El banc central alemany ha advertit que el baix cabal dels rius a causa de la sequera d'aquest estiu podria frenar temporalment la recuperació de l'economia del país en el tercer trimestre, dificultant la producció industrial i les exportacions."
         }
       ]
     },
@@ -62,12 +54,12 @@
       "title": "Món",
       "items": [
         {
-          "headline": "Tensions geopolítiques a l'Orient Mitjà afecten els preus del petroli",
-          "detail": "El conflicte renovat entre l'Iran i els EUA i els dubtes sobre la reobertura de l'estret d'Ormuz continuen generant pressions sobre els preus del petroli cru i el gas natural. Les Nacions Unides han alertat que el Iemen es troba al caire d'una nova guerra a causa dels atacs dels rebels houthis."
+          "headline": "Tensions geopolítiques disparen el preu del petroli",
+          "detail": "Les creixents tensions entre els Estats Units i l'Iran, amb l'anunci d'una 'guerra econòmica' per part de Trump, han provocat que el preu del barril de Brent superi els 93,5 dòlars, marcant un màxim en gairebé un mes."
         },
         {
-          "headline": "Wall Street amb pujades impulsades per la caiguda dels preus de producció",
-          "detail": "Wall Street va registrar pujades, animat per la caiguda dels preus de producció. El Nasdaq també va assolir rècords, amb un guany acumulat del 14,8% aquest any."
+          "headline": "L'AIE empitjora les previsions del mercat del petroli",
+          "detail": "L'Agència Internacional de l'Energia ha revisat a la baixa les seves expectatives sobre la demanda i l'oferta global de petroli per a 2026, davant la persistència de la manca d'un acord per reobrir l'estret d'Ormuz i els elevats preus del combustible."
         }
       ]
     },
@@ -76,16 +68,12 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Borses europees i l'Ibex-35 en màxims",
-          "detail": "Les borses europees, incloent l'Ibex-35, es troben en màxims. L'Ibex-35 ha superat els 20.000 punts, amb un guany acumulat del 16,7% aquest any."
+          "headline": "Cautela als mercats europeus i retrocés lleuger als futurs dels EUA",
+          "detail": "Els mercats europeus han registrat lleugers canvis, mentre que els futurs dels Estats Units han retrocedit lleugerament en un context de baixa volatilitat."
         },
         {
-          "headline": "Renda fixa atractiva a Brasil i pujada de rendiments als EUA",
-          "detail": "Els inversors en renda fixa al Brasil estan obtenint retorns robustos, superant la borsa, gràcies als tipus d'interès elevats i una inflació moderada. Mentrestant, els rendiments dels bons del Tresor dels EUA van augmentar significativament, amb el rendiment del Tresor a 30 anys assolint nivells no vistos en gairebé dues dècades."
-        },
-        {
-          "headline": "L'Euro es manté a l'alça davant el dòlar",
-          "detail": "L'euro va mantenir una tendència a l'alça davant el dòlar, cotitzant al voltant d'1.1533. No obstant això, s'espera que l'agost sigui el mes més baixista per a la lliura esterlina davant el dòlar a causa de la estacionalitat."
+          "headline": "El preu de l'or augmenta enmig de la incertesa",
+          "detail": "El preu de l'or ha pujat un 0,4% durant la setmana, situant-se en 4.533,18 dòlars l'unça el 21 d'agost de 2026, mantenint la seva posició com a valor refugi davant les tensions geopolítiques i les expectatives d'inflació."
         }
       ]
     },
@@ -94,8 +82,12 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Guany moderat de les criptomonedes malgrat la incertesa",
-          "detail": "El Bitcoin i altres criptomonedes van registrar pujades moderades malgrat la incertesa a l'Orient Mitjà. Solana (SOL) és destacada pel seu potencial a causa de les baixes comissions de transacció. Els supervisors europeus han revocat llicències a més de mil empreses cripto."
+          "headline": "La SEC proposa nova regulació per facilitar la captació de capital amb criptoactius",
+          "detail": "La Comissió de Borsa i Valors dels EUA (SEC) ha proposat una nova regulació, 'Regulation Crypto Assets', per crear un marc clar per a certs contractes d'inversió amb criptomonedes, incloent exempcions d'emissió de fins a 75 milions de dòlars. La SEC va convocar una reunió pública per votar aquesta proposta el 14 d'agost de 2026."
+        },
+        {
+          "headline": "Bitcoin supera els 72.000 dòlars impulsat per estímuls als EUA",
+          "detail": "El preu de Bitcoin ha experimentat una forta pujada, superant els 72.000 dòlars el 20 d'agost i acumulant un augment del 13% en els últims 7 dies, impulsat per estímuls macroeconòmics i anuncis polítics des de Washington."
         }
       ]
     },
@@ -104,17 +96,15 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "L'eclipsi solar total genera gran interès públic",
-          "detail": "L'eclipsi solar total del 12 d'agost de 2026 va generar un gran interès, omplint esdeveniments públics per a la seva observació a llocs com el Port de Cabús a Andorra, tot i que els núvols van dificultar la visió directa."
+          "headline": "Experts del BCE alerten sobre una possible bombolla de la IA",
+          "detail": "Economistes del Banc Central Europeu han advertit que la 'bombolla' de la intel·ligència artificial podria estar a prop d'esclatar, amb riscos de caigudes de preus més fortes en absència de confiança dels inversors."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació continua sent una preocupació clau a Europa, amb Espanya mostrant una revisió a l'alça al juliol i la zona euro projectant nivells elevats per al 2026.",
-    "Els bancs centrals estan sota pressió per controlar la inflació, amb expectatives d'una pujada de tipus per part del BCE al setembre malgrat el manteniment actual de les taxes.",
-    "Les tensions geopolítiques a l'Orient Mitjà tenen un impacte directe en els preus de l'energia i la volatilitat dels mercats globals.",
-    "El creixement econòmic a l'eurozona és desigual, amb Espanya destacant positivament en el segon trimestre, mentre que les onades de calor amenacen el PIB europeu.",
-    "Els mercats borsaris, especialment l'Ibex-35 i el Nasdaq, han mostrat una notable fortalesa, però la renda fixa també ofereix retorns atractius en certs mercats."
+    "Les tensions geopolítiques a l'Orient Mitjà continuen sent un factor clau, amb un impacte directe en els preus del petroli i les previsions energètiques globals.",
+    "La regulació de criptoactius avança als EUA, buscant un equilibri entre innovació i protecció de l'inversor, generant un impuls alcista en el mercat de criptomonedes.",
+    "Tot i la millora de la confiança a Europa, persisteixen els riscos per la inflació i factors climàtics que podrien frenar el creixement, mentre que l'ocupació a Espanya ateny màxims històrics."
   ]
 }
