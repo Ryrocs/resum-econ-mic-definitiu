@@ -1,27 +1,27 @@
 {
-  "date": "28 d’agost del 2026",
-  "generatedAt": "2026-08-28T19:30:24.438Z",
-  "intro": "La setmana ha estat marcada per una notable acceleració de la inflació a Espanya, la cautela dels bancs centrals amb possibles pujades de tipus d'interès, i una persistent volatilitat en els mercats energètics i de divises a causa de les tensions geopolítiques.",
+  "date": "4 de setembre del 2026",
+  "generatedAt": "2026-09-04T12:11:20.864Z",
+  "intro": "La setmana ha estat marcada per la persistent inflació energètica i les expectatives d'un enduriment monetari per part dels bancs centrals, amb senyals mixtos en els mercats.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació a Espanya es dispara a l'agost al 4,3%, màxim de 3,5 anys",
-          "detail": "L'Índex de Preus al Consum (IPC) a Espanya va repuntar set dècimes a l'agost, assolint el 4,3% interanual, la taxa més alta des del febrer del 2023, impulsada principalment per l'encariment dels carburants i, en menor mesura, dels aliments. La inflació subjacent va moderar-se lleugerament fins al 2,9%."
+          "headline": "Inflació a l'Eurozona impulsada per l'energia",
+          "detail": "La inflació a la Eurozona es va elevar al 3,3% a l'agost, principalment a causa de l'encariment de l'energia. Els preus del petroli i del gas continuen exercint una pressió a l'alça sobre els indicadors inflacionaris globalment."
         },
         {
-          "headline": "El president de la Fed insinua futures pujades de tipus d'interès",
-          "detail": "Kevin Warsh, el nou president de la Reserva Federal (Fed), va intervenir a la reunió de Jackson Hole suggerint que el banc central 'té feina a fer' si la inflació no es redueix ràpidament, deixant la porta oberta a noves pujades de tipus per assolir l'objectiu del 2%."
+          "headline": "Previsions de pujada de tipus del BCE i fluctuacions de la Fed",
+          "detail": "El Banc Central Europeu (BCE) ha assenyalat una probable pujada de 25 punts bàsics en la seva reunió de setembre, situant el tipus de dipòsit al 2,50%, una decisió gairebé completament descomptada pels mercats. Les probabilitats d'una pujada de tipus per part de la Reserva Federal (Fed) al setembre van fluctuar, baixant al 50% després de dades d'ocupació febles als EUA, però prèviament havien augmentat per l'encariment del petroli i la rendibilitat dels bons."
         },
         {
-          "headline": "El BCE manté els tipus, però els mercats anticipen una pujada al setembre",
-          "detail": "El Banc Central Europeu (BCE) va mantenir els seus tipus d'interès inalterats a la reunió de juliol (taxa de dipòsit al 2,25%), tot i que l'acta de la reunió d'agost mostra expectatives de mercat d'una pujada al setembre i una addicional el febrer de 2027."
+          "headline": "Dades d'ocupació als EUA",
+          "detail": "Als Estats Units, els empleadors privats van afegir 38.000 llocs de treball a l'agost, una xifra inferior a les expectatives i que representa l'augment més feble des del gener. Aquestes dades han influenciat la postura de la Fed respecte a futures pujades de tipus."
         },
         {
-          "headline": "El PIB d'Espanya creix un 0,7% en el segon trimestre de 2026",
-          "detail": "L'economia espanyola va registrar un creixement del 0,7% intertrimestral en el segon trimestre del 2026, superant les previsions i mostrant una composició favorable amb avenços tant en el consum privat com en la inversió i les exportacions de serveis."
+          "headline": "Creixement del PIB resilient",
+          "detail": "El creixement del PIB d'Espanya en el segon trimestre va sorprendre a l'alça amb un 0,7% intertrimestral, mentre que l'economia de la Eurozona va expandir-se un 0,4% en el mateix període."
         }
       ]
     },
@@ -30,12 +30,20 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "L'IBEX 35 recupera els 20.000 punts al tancament setmanal",
-          "detail": "L'IBEX 35 va tancar la setmana a l'alça, recuperant els 20.000 punts aquest divendres, tot i haver registrat pèrdues setmanals del 0,97% en un context marcat per la rendibilitat dels bons i el conflicte a l'Orient Mitjà."
+          "headline": "Inflació a l'alça per carburants",
+          "detail": "La inflació general a Espanya va repuntar fins al 4,3% a l'agost, set dècimes més, impulsada principalment per l'encariment dels carburants. La inflació subjacent, però, va retrocedir una dècima, fins al 2,9%."
         },
         {
-          "headline": "Augment significatiu del dèficit comercial espanyol",
-          "detail": "El dèficit comercial d'Espanya va créixer amb força en la primera meitat de l'any, amb les importacions superant el creixement de les exportacions al juny."
+          "headline": "Augment de la rebaixa al gasoil",
+          "detail": "La rebaixa de l'impost sobre hidrocarburs per al gasoil s'incrementarà fins als 20 cèntims per litre a partir de l'1 de setembre, a causa de la forta pujada de preu d'aquest combustible al juliol. La gasolina mantindrà la rebaixa de 5 cèntims."
+        },
+        {
+          "headline": "L'Euríbor continua la seva tendència ascendent",
+          "detail": "L'Euríbor a dotze mesos ha començat setembre amb una tendència clarament ascendent, situant-se en el 3,109% el 3 de setembre, superant la mitjana mensual d'agost del 2,954%."
+        },
+        {
+          "headline": "Agost, el més car per al rebut de la llum",
+          "detail": "El rebut de la llum va registrar el seu agost més car en quatre anys, amb un augment del 20% en la tarifa regulada. Aquest increment s'atribueix a l'augment del consum per les onades de calor, l'encariment del gas i el final de les rebaixes fiscals."
         }
       ]
     },
@@ -44,12 +52,12 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "El PIB d'Alemanya sorprèn amb un millor comportament del previst",
-          "detail": "El Producte Interior Brut (PIB) d'Alemanya va mostrar una dada millor de l'esperada en el segon trimestre de 2026, recolzat per una demanda externa resilient i un augment de les exportacions."
+          "headline": "BCE prepara una nova pujada de tipus",
+          "detail": "El Banc Central Europeu (BCE) ha consolidat les expectatives d'una pujada de 25 punts bàsics en els tipus d'interès a la seva reunió de setembre, elevant el tipus de dipòsit al 2,50%. La persistència del conflicte a l'Orient Pròxim i l'estrès energètic són els factors clau darrere d'aquesta decisió."
         },
         {
-          "headline": "Inflació persistent a la zona euro pressiona el BCE",
-          "detail": "La inflació de la zona euro es va situar en el 2,9% al juliol, superior al 2,8% de juny, mantenint la pressió sobre el Banc Central Europeu per mantenir una postura monetària restrictiva."
+          "headline": "Gas a preus rècord",
+          "detail": "El preu del gas a Europa ha assolit un màxim històric, superant els 68 euros/MWh. Aquesta escalada contribueix a les pressions inflacionistes a la regió."
         }
       ]
     },
@@ -58,12 +66,12 @@
       "title": "Món",
       "items": [
         {
-          "headline": "Les tensions a l'Orient Mitjà continuen afectant els preus de l'energia",
-          "detail": "El conflicte a l'Orient Mitjà i les preocupacions al voltant de l'estret d'Ormuz continuen sent un teló de fons que genera volatilitat en els mercats energètics globals."
+          "headline": "Conflicte a l'Orient Mitjà i preus de l'energia",
+          "detail": "El prolongat conflicte a l'Iran continua impactant significativament els preus de l'energia globalment, amb l'estret d'Ormuz pràcticament tancat. El barril de cru Brent ha tornat a superar els 90 dòlars, acumulant un increment de gairebé el 7% en la setmana."
         },
         {
-          "headline": "Previsió de desacceleració del creixement mundial per al 2026",
-          "detail": "S'espera que el creixement econòmic mundial es desacceleri fins al 2,5% el 2026, des del 2,8% del 2025, reflectint una recuperació fràgil i pressions persistents sobre els costos."
+          "headline": "Resiliència de l'economia global",
+          "detail": "Tot i les pertorbacions en el comerç, els aliments i les finances, l'economia mundial manté una certa resiliència a principis de 2026."
         }
       ]
     },
@@ -72,20 +80,16 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Mercats borsaris amb volatilitat, resultats de Nvidia impulsen la tecnologia",
-          "detail": "Les borses asiàtiques van tancar mixtes, mentre que els bons rendiments i les tensions geopolítiques van influir. Els resultats de Nvidia van superar les previsions, impulsant el sector tecnològic."
+          "headline": "L'Ibex 35 perd els 20.000 punts",
+          "detail": "L'Ibex 35 va perdre la barrera dels 20.000 punts el 4 de setembre, en una jornada d'espera per a l'informe d'ocupació dels Estats Units."
         },
         {
-          "headline": "Els rendiments dels bons sobirans continuen sent un factor clau",
-          "detail": "Els rendiments dels bons del Tresor nord-americà a 10 anys es van mantenir al voltant del 4,7%, influint en els costos d'endeutament i les valoracions del mercat."
+          "headline": "Repunt de la rendibilitat dels bons",
+          "detail": "L'encariment de l'energia ha provocat un repunt en les rendibilitats dels bons, amb el tram llarg de la corba assolint nivells no vistos des d'abans de la Gran Crisi Financera de 2008."
         },
         {
-          "headline": "El dòlar s'enforteix en un entorn d'incertesa global",
-          "detail": "El dòlar va tancar la setmana a l'alça enfront d'algunes divises, com el peso colombià, beneficiant-se de l'estabilitat dels EUA i la incertesa geopolítica."
-        },
-        {
-          "headline": "El petroli mostra volatilitat mentre l'or puja",
-          "detail": "Els preus del petroli van cotitzar mixtos, amb el Brent oscil·lant entre els 90 i els 94 dòlars per barril, mentre que l'or va registrar un augment de l'1,79%, fins als 4.653 dòlars l'unça."
+          "headline": "Correcció en el preu de l'or",
+          "detail": "L'or va patir una forta correcció en la setmana, passant de 4.700 a 4.300 dòlars per unça."
         }
       ]
     },
@@ -94,16 +98,12 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Bitcoin registra un fort repunt fins als 81.000 USD",
-          "detail": "Bitcoin va experimentar un augment significatiu, superant els 81.000 dòlars i registrant el seu avenç setmanal més fort en dos anys i mig, impulsat per la injecció de liquiditat del Tresor dels EUA i la demanda d'ETF spot."
+          "headline": "Volatilitat amb 'rallies' i correccions",
+          "detail": "Bitcoin i Ethereum han mostrat una setmana volàtil, amb Bitcoin pujant a 80.861 dòlars i Ethereum a 2.501 dòlars el 4 de setembre, impulsats per senyals de pausa en les taxes i entrades a ETF. No obstant això, a principis de setmana van experimentar un gir baixista degut a l'escalada del petroli i la rendibilitat dels bons."
         },
         {
-          "headline": "Novetats regulatòries als EUA per a criptoactius i stablecoins",
-          "detail": "La SEC va proposar noves regles per a les ofertes de criptoactius, mentre que el Tresor dels EUA va avançar un marc per a la regulació de les stablecoins mitjançant la llei GENIUS."
-        },
-        {
-          "headline": "La memecoin TRUMP es dispara més d'un 19%",
-          "detail": "La memecoin TRUMP va registrar un augment de més del 19% en 24 hores, liderant el mercat d'altcoins en un moment de rotació de capital."
+          "headline": "Traders limiten expectatives per 2026",
+          "detail": "Malgrat els recents 'rallies', els 'traders' de mercats de predicció limiten les seves expectatives alcistes per a Bitcoin i Ethereum, donant poques probabilitats que assoleixin nous màxims històrics durant el 2026."
         }
       ]
     },
@@ -112,24 +112,21 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "Jackson Hole 2026: debut del president de la Fed, Kevin Warsh",
-          "detail": "La cèlebre cimera de banquers centrals a Jackson Hole ha tingut com a protagonista el nou president de la Fed, Kevin Warsh, la primera intervenció del qual s'ha centrat en el control de la inflació i la situació del deute nord-americà."
+          "headline": "Futur incert per a Seat davant Cupra",
+          "detail": "La marca Seat podria acabar sota l'ombra de Cupra dins del grup Volkswagen, que ha obtingut un ampli suport per al seu pla de reestructuració. Cupra ja va superar a Seat en termes de fabricació el 2025."
         },
         {
-          "headline": "El BCE explora el futur dels diners del banc central 'on-chain'",
-          "detail": "El Banc Central Europeu ha debatut a Jackson Hole sobre la importància dels diners del banc central en plataformes de registre distribuït (DLT) per al desenvolupament del finançament tokenitzat."
-        },
-        {
-          "headline": "Venezuela estudia abandonar l'OPEP en un gest cap als EUA",
-          "detail": "Venezuela està considerant la possibilitat de sortir de l'Organització de Països Exportadors de Petroli (OPEP), una mesura inèdita entre els seus fundadors, en el marc de negociacions amb els Estats Units."
+          "headline": "Pla d'estalvi per a joves a Alemanya",
+          "detail": "Alemanya ha presentat un pla per estalviar 10 euros al mes en un compte individual de previsió per a cada ciutadà des dels 6 fins als 18 anys."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació a Espanya s'ha accelerat notablement a l'agost, pressionant el poder adquisitiu de les llars i situant-se com un dels principals reptes econòmics.",
-    "Els bancs centrals, especialment la Fed, estan adoptant una postura ferma i 'hawkish' respecte a la inflació, suggerint possibles pujades de tipus futures per estabilitzar els preus.",
-    "La geopolítica a l'Orient Mitjà continua sent un factor determinant en la volatilitat dels preus de les matèries primeres, especialment el petroli, i genera incertesa en els mercats globals.",
-    "El mercat de les criptomonedes ha mostrat un fort repunt aquesta setmana, amb Bitcoin liderant les pujades, impulsat per factors de liquiditat i regulació als EUA."
+    "La inflació energètica global continua sent el principal motor de preocupació per als bancs centrals, especialment el BCE.",
+    "Els bancs centrals, incloent el BCE, mantenen una postura d'enduriment monetari per combatre la inflació, amb futures decisions condicionades per l'evolució dels preus de l'energia i les dades d'ocupació.",
+    "El mercat de criptomonedes mostra una alta volatilitat, amb moments de 'rallies' impulsats per factors macro i institucionals, però amb expectatives de creixement a llarg termini moderades pels 'traders'.",
+    "Espanya afronta un agost amb un augment significatiu de la inflació per carburants i un Euríbor en alça, afectant les hipoteques i el cost de la vida.",
+    "La indústria de l'automòbil està en plena reestructuració, amb la possible consolidació de marques com a resultat de les estratègies dels grans grups."
   ]
 }
