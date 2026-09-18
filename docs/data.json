@@ -1,31 +1,27 @@
 {
-  "date": "11 de setembre del 2026",
-  "generatedAt": "2026-09-11T12:16:22.946Z",
-  "intro": "La setmana ha estat marcada per una nova pujada de tipus d'interès per part del Banc Central Europeu davant una inflació persistentment alta, impulsada pels costos energètics, mentre que l'economia global i europea mostren certa resiliència tot i les tensions geopolítiques.",
+  "date": "18 de setembre del 2026",
+  "generatedAt": "2026-09-18T12:17:57.717Z",
+  "intro": "La setmana econòmica ha estat marcada per la persistència de la inflació a Europa, impulsant el BCE a una nova pujada de tipus, mentre Espanya mostra un creixement resilient i els mercats s'adapten a les tensions geopolítiques i l'auge de la IA.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "El BCE apuja els tipus d'interès per segona vegada aquest any",
-          "detail": "El Banc Central Europeu (BCE) ha incrementat els tipus d'interès en 25 punts bàsics, situant la taxa de dipòsit al 2,5%. Aquesta decisió, la segona de l'any, busca contenir una inflació que es preveu que es mantingui per sobre de l'objectiu del 2% fins al 2028."
+          "headline": "El BCE apuja els tipus d'interès al 2,5% per contenir la inflació",
+          "detail": "El Banc Central Europeu (BCE) ha incrementat els tipus d'interès en 0,25 punts percentuals fins al 2,5%, la seva segona pujada des de l'inici del conflicte a l'estret d'Ormuz, per frenar una inflació a l'eurozona que s'espera que es mantingui al voltant del 3% el 2026, per sobre del seu objectiu del 2%."
         },
         {
-          "headline": "La inflació a la zona euro escala al 3,3% a l'agost",
-          "detail": "La inflació anual de la zona euro va augmentar al 3,3% a l'agost, des del 2,9% del juliol, superant l'objectiu del BCE del 2%. L'energia va ser el component principal d'aquesta pujada, amb un augment interanual del 14,3%."
+          "headline": "La inflació subjacent a l'eurozona es manté elevada",
+          "detail": "La inflació subjacent, que exclou els preus volàtils de l'energia i els aliments, es preveu que se situï en un 2,5% de mitjana el 2026, indicant una pressió més persistent sobre els preus bàsics."
         },
         {
-          "headline": "PIB de la zona euro i revisions a l'alça del BCE",
-          "detail": "L'economia de la zona euro va créixer un 0,6% al segon trimestre, superant les expectatives. El BCE ha revisat a l'alça les seves projeccions de creixement per a la zona euro, fins al 0,9% el 2026 i l'1,4% el 2027, citant una major resistència de l'economia."
+          "headline": "Previsions de creixement del PIB de l'Eurozona revisades a la baixa",
+          "detail": "Les projeccions del BCE apunten a un creixement econòmic del 0,8% per a la zona euro el 2026, una lleugera revisió a la baixa respecte a previsions anteriors, malgrat la 'resistència més gran del que s'esperava' de l'economia europea."
         },
         {
-          "headline": "L'atur a l'OCDE disminueix al 4,9%",
-          "detail": "La taxa d'atur al conjunt de l'Organització per a la Cooperació i el Desenvolupament Econòmic (OCDE) va baixar al 4,9% al juliol, marcant el registre més reduït de l'any després de quatre mesos al 5%."
-        },
-        {
-          "headline": "El FMI manté previsions de creixement global, però alerta de riscos",
-          "detail": "El Fons Monetari Internacional (FMI) ha confirmat la seva previsió d'un creixement del 3% per a l'economia global el 2026, destacant la seva resistència malgrat la guerra a l'Orient Mitjà, tot i que adverteix que els riscos continuen sent elevats."
+          "headline": "La taxa d'atur a Espanya disminueix al segon trimestre del 2026",
+          "detail": "La taxa d'atur a Espanya va baixar fins al 9,87% en el segon trimestre del 2026, continuant amb una tendència positiva i amb previsions de tancar l'any al 9,7%."
         }
       ]
     },
@@ -34,24 +30,16 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "L'economia espanyola creix un 0,7% al segon trimestre",
-          "detail": "El Producte Interior Brut (PIB) d'Espanya va registrar un creixement del 0,7% intertrimestral en el segon trimestre de 2026, acumulant 24 trimestres de pujades. La taxa interanual va ser del 2,7%."
+          "headline": "Espanya eleva les previsions de creixement del PIB per al 2026",
+          "detail": "La Cambra de Comerç d'Espanya ha revisat a l'alça la seva previsió de creixement del PIB espanyol per al 2026 fins al 2,5%, atribuït al dinamisme del consum privat i les exportacions, especialment el turisme. El govern també ha elevat la previsió al 2,6%."
         },
         {
-          "headline": "Catalunya lidera la destrucció d'ocupació post-vacances a l'agost",
-          "detail": "Catalunya va perdre 59.529 afiliats a la Seguretat Social a l'agost, liderant la caiguda a Espanya i baixant temporalment dels 4 milions d'ocupats. L'atur registrat a Catalunya va augmentar un 4,6% el mateix mes."
+          "headline": "Forta creació d'ocupació amb gairebé mig milió de nous llocs",
+          "detail": "El mercat laboral espanyol ha mostrat un gran dinamisme durant la primera meitat de 2026, amb una previsió de creació de 480.000 nous llocs de feina i un augment de l'ocupació del 2,3% per a tot l'any."
         },
         {
-          "headline": "El Govern busca aprovar el nou finançament autonòmic",
-          "detail": "El Ministeri d'Hisenda ha convocat un Consell de Política Fiscal i Financera per intentar aprovar la nova llei de Finançament Autonòmic, considerada l'última oportunitat legislativa econòmica de la legislatura."
-        },
-        {
-          "headline": "Ajuts a agricultors catalans per fertilitzants",
-          "detail": "El Ministeri d'Agricultura, Pesca i Alimentació ha començat a abonar 27,3 milions d'euros en ajuts estatals per a la compra de fertilitzants a agricultors catalans."
-        },
-        {
-          "headline": "Brussel·les envia assistència a Espanya per la crisi de Ceuta",
-          "detail": "La Comissió Europea ha anunciat l'enviament de 114,7 milions d'euros en assistència d'emergència a Espanya per ajudar a gestionar la situació migratòria a Ceuta."
+          "headline": "La demanda nacional es manté com a motor principal del creixement",
+          "detail": "El consum de les llars continua sent el principal suport del creixement econòmic a Espanya, tot i la pèrdua acumulada de poder adquisitiu per la inflació i l'enduriment de les condicions de finançament."
         }
       ]
     },
@@ -60,26 +48,30 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "Divergència en les previsions de creixement entre Alemanya i França",
-          "detail": "Els principals instituts econòmics alemanys han revisat a l'alça les previsions de creixement per a Alemanya el 2026 (al voltant de l'1,3% del PIB), mentre que el govern francès i el Banc de França han fet revisions a la baixa per al seu país."
+          "headline": "L'economia europea mostra resiliència malgrat la incertesa",
+          "detail": "Malgrat els riscos geopolítics i la persistència de la inflació, l'economia de la zona euro ha mostrat una resistència més gran del que s'esperava, si bé les perspectives generals continuen sent incertes."
         },
         {
-          "headline": "Creixement del PIB al Regne Unit per sobre de les previsions",
-          "detail": "El PIB del Regne Unit va registrar un augment mensual del 0,4% a l'agost, superant les expectatives del mercat i amb un creixement interanual de l'1,6%, impulsat per la producció industrial i de serveis."
+          "headline": "Augment dels tipus d'interès per part del BCE com a resposta a la inflació persistent",
+          "detail": "La decisió del BCE d'apujar els tipus s'explica per un augment de la inflació a l'eurozona, que ha assolit el nivell més alt des de la tardor del 2023, especialment per l'impacte del conflicte a l'Orient Mitjà en els mercats energètics."
         }
       ]
     },
     {
       "emoji": "🌍",
-      "title": "Economia mundial",
+      "title": "Món",
       "items": [
         {
-          "headline": "Persistència dels alts preus energètics per conflictes a l'Orient Mitjà",
-          "detail": "Les tensions geopolítiques a l'Orient Mitjà continuen impulsant els preus del petroli i el gas, amb el barril de Brent superant els 100 dòlars i el gas natural TTF assolint els 80 euros."
+          "headline": "El FMI manté la previsió de creixement global en el 3% per al 2026",
+          "detail": "El Fons Monetari Internacional (FMI) ha mantingut la seva projecció de creixement global en el 3,0% per al 2026, tot i que adverteix d'un panorama desigual, amb l'impacte de la guerra sobre els importadors d'energia i l'impuls de la IA."
         },
         {
-          "headline": "Nous aranzels dels EUA a productes xinesos",
-          "detail": "Els Estats Units han començat a aplicar aranzels de fins al 100% a una àmplia gamma de drons importats i els seus components de la Xina, amb l'objectiu de reforçar la seguretat nacional i les cadenes de subministrament."
+          "headline": "Les tensions geopolítiques continuen afectant l'economia mundial",
+          "detail": "L'escalada del conflicte a l'Orient Mitjà i les dificultats de trànsit a l'estret d'Ormuz segueixen sent un factor clau d'incertesa, impulsant els preus de l'energia i afectant les perspectives de creixement i inflació."
+        },
+        {
+          "headline": "La intel·ligència artificial impulsa la demanda en països tecnològicament avançats",
+          "detail": "La demanda impulsada per la intel·ligència artificial és un factor positiu que beneficia els països integrats en la cadena de valor tecnològica mundial, contribuint a un creixement econòmic desigual."
         }
       ]
     },
@@ -88,24 +80,20 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Les borses europees ressenten la incertesa energètica",
-          "detail": "Els principals índexs borsaris europeus van tancar amb descensos significatius el 10 de setembre, llastrats pel conflicte a l'Orient Mitjà i el seu impacte sobre els preus del gas i el petroli. L'Ibex 35 va obrir l'11 de setembre amb una pujada del 0,51%, situant-se en els 19.761,2 punts."
+          "headline": "Les borses mostren fortalesa amb lideratge del sector tecnològic",
+          "detail": "Els mercats borsaris van mantenir un comportament favorable durant l'estiu, amb augments notables en l'S&P 500 i el Nasdaq 100, impulsats especialment pel sector tecnològic."
         },
         {
-          "headline": "Continua la pressió a l'alça en els rendiments de la renda fixa",
-          "detail": "Els rendiments dels bons han continuat pujant a nivell global, especialment en els trams llargs, a causa de l'expectativa de pujades de tipus dels bancs centrals i l'augment dels dèficits públics."
+          "headline": "Volatilitat persistent en la renda fixa a llarg termini",
+          "detail": "La renda fixa ha estat una font de volatilitat, amb els rendiments dels bons a llarg termini assolint màxims de més d'una dècada, en un context de preocupació per la sostenibilitat del deute públic i el finançament d'inversions en IA."
         },
         {
-          "headline": "L'euríbor a un any supera el 3%",
-          "detail": "L'euríbor a un any ha continuat la seva tendència alcista, superant el 3% els primers dies de setembre, fet que anticipa un encariment dels crèdits i de les quotes hipotecàries."
+          "headline": "Repunt significatiu dels preus del petroli i el gas",
+          "detail": "Els preus del petroli (Brent per sobre dels 90 dòlars per barril) i del gas europeu van experimentar un fort repunt a causa de l'escalada del conflicte geopolític a l'Orient Mitjà, reobrint dubtes sobre la desinflació."
         },
         {
-          "headline": "L'euro es manté estable davant el dòlar",
-          "detail": "L'euro cotitzava al voltant d'1,16 dòlars durant la setmana, amb lleugeres fluctuacions en un context de decisions de política monetària als EUA i Europa."
-        },
-        {
-          "headline": "Els fons d'inversió a Espanya superen els 482.000 milions d'euros",
-          "detail": "Els fons d'inversió a Espanya van assolir els 482.130 milions d'euros a l'agost, registrant un avanç del 7% el 2026, amb un saldo positiu en fons de renda fixa i mixtos."
+          "headline": "El preu de l'electricitat a Espanya amb tendència a la baixa per les renovables, però més volatilitat",
+          "detail": "El preu de l'electricitat a Espanya podria caure un 16% el 2026 gràcies a l'auge de les renovables, si bé s'espera una major volatilitat entre les hores punta i vall, exigint una gestió més intel·ligent del consum."
         }
       ]
     },
@@ -114,8 +102,20 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Bitcoin i Ethereum amb lleugeres variacions",
-          "detail": "El 7 de setembre de 2026, Bitcoin cotitzava a uns 79.096,53 USD amb una lleugera caiguda, mentre que Ethereum es situava en els 2.485,84 USD amb una mínima pujada. La capitalització total del mercat cripto era de 2,69 bilions de USD."
+          "headline": "Acceleració de l'adopció institucional de les criptomonedes",
+          "detail": "L'adopció institucional de les criptomonedes s'accelera, impulsant majors inversions de capital de risc i l'emergència de productes financers creuats i serveis de custòdia bancaris."
+        },
+        {
+          "headline": "Les 'stablecoins' es consoliden com el 'dòlar d'internet'",
+          "detail": "Les stablecoins estan a punt de convertir-se en el 'dòlar d'internet', gràcies a una regulació més clara i una major adopció empresarial per a pagaments, liquidacions transfrontereres i operacions de tresoreria."
+        },
+        {
+          "headline": "La tokenització d'actius del món real es generalitza",
+          "detail": "La tokenització d'actius del món real està passant a ser una tendència dominant, amb condicions propícies per al creixement continuat de la inversió en aquest àmbit."
+        },
+        {
+          "headline": "La IA i les criptomonedes redefineixen el comerç digital",
+          "detail": "La convergència de la intel·ligència artificial i les criptomonedes s'espera que redefineixi el comerç digital, impulsant noves formes d'interacció i eficiència."
         }
       ]
     },
@@ -124,15 +124,25 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "Controvèrsia d'OpenAI sobre un problema matemàtic del mil·lenni",
-          "detail": "OpenAI ha estat al centre d'una controvèrsia sobre si ha aconseguit resoldre un dels problemes matemàtics del mil·lenni. Aquesta discussió es produeix en les setmanes prèvies a la sortida a borsa d'OpenAI i Anthropic, i s'interpreta com una estratègia per demostrar la superioritat dels seus models d'IA."
+          "headline": "L'especialització de la IA i la robòtica com a infraestructura econòmica",
+          "detail": "El 2026 marca l'entrada de la intel·ligència artificial i l'automatització avançada en una fase d'especialització i integració com a part estructural de l'economia i la gestió urbana."
+        },
+        {
+          "headline": "Emergència de noves tecnologies de bateries més sostenibles",
+          "detail": "Davant l'escassetat de materials com el liti, el sector aposta per alternatives més barates i segures, com les bateries d'ions de sodi, que ajudaran a estendre les xarxes i els cotxes elèctrics assequibles."
+        },
+        {
+          "headline": "La IA conquereix l'espai per a centres de dades",
+          "detail": "L'espai es perfila com una nova frontera computacional, amb condicions tèrmiques i energètiques ideals per a centres de dades, i la intel·ligència artificial s'entrena en òrbita."
         }
       ]
     }
   ],
   "takeaways": [
-    "El BCE ha tornat a apujar els tipus d'interès per combatre una inflació persistent, especialment la generada pels alts preus de l'energia a causa del conflicte a l'Orient Mitjà.",
-    "L'economia espanyola mostra un creixement robust del PIB, però s'observa un descens estacional en l'ocupació a l'agost, amb Catalunya liderant la pèrdua d'afiliats.",
-    "Els mercats financers reaccionen a les tensions geopolítiques i les expectatives d'enduriment monetari, amb pressió a l'alça en els rendiments de la renda fixa i una certa volatilitat en les borses."
+    "La inflació persistent a l'eurozona ha provocat una nova pujada de tipus del BCE, amb pressions derivades del conflicte a l'Orient Mitjà.",
+    "Espanya mostra una notable resiliència econòmica amb un creixement del PIB revisat a l'alça i una forta creació d'ocupació.",
+    "Els mercats financers exhibeixen fortalesa en borsa, però la renda fixa pateix volatilitat per l'elevat deute públic i les inversions en IA.",
+    "L'adopció institucional i la tokenització d'actius són tendències clau en el sector cripto, amb les stablecoins guanyant protagonisme.",
+    "La intel·ligència artificial es consolida com una infraestructura crítica, influint des de l'economia global fins a les tendències tecnològiques del futur."
   ]
 }
