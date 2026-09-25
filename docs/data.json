@@ -1,27 +1,23 @@
 {
-  "date": "18 de setembre del 2026",
-  "generatedAt": "2026-09-18T12:17:57.717Z",
-  "intro": "La setmana econòmica ha estat marcada per la persistència de la inflació a Europa, impulsant el BCE a una nova pujada de tipus, mentre Espanya mostra un creixement resilient i els mercats s'adapten a les tensions geopolítiques i l'auge de la IA.",
+  "date": "25 de setembre del 2026",
+  "generatedAt": "2026-09-25T12:51:00.324Z",
+  "intro": "Aquesta setmana ha estat marcada per la persistència de les pressions inflacionistes, impulsades principalment pels conflictes geopolítics i els alts preus de l'energia, portant els bancs centrals a mantenir una política monetària restrictiva amb tipus d'interès elevats, mentre Espanya mostra una resiliència econòmica notable dins d'una Europa amb creixement més moderat.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "El BCE apuja els tipus d'interès al 2,5% per contenir la inflació",
-          "detail": "El Banc Central Europeu (BCE) ha incrementat els tipus d'interès en 0,25 punts percentuals fins al 2,5%, la seva segona pujada des de l'inici del conflicte a l'estret d'Ormuz, per frenar una inflació a l'eurozona que s'espera que es mantingui al voltant del 3% el 2026, per sobre del seu objectiu del 2%."
+          "headline": "Inflació persistent i tipus d'interès elevats a nivell global",
+          "detail": "L'OCDE alerta d'una inflació elevada i persistent, mentre que els bancs centrals de la Fed, el Banc del Japó i el BCE van apujar els tipus per contenir-la."
         },
         {
-          "headline": "La inflació subjacent a l'eurozona es manté elevada",
-          "detail": "La inflació subjacent, que exclou els preus volàtils de l'energia i els aliments, es preveu que se situï en un 2,5% de mitjana el 2026, indicant una pressió més persistent sobre els preus bàsics."
+          "headline": "Resiliència econòmica mundial tot i els xocs",
+          "detail": "L'OCDE destaca la capacitat de l'economia mundial per resistir els xocs, amb revisions a l'alça en previsions de creixement per a algunes economies com la zona euro."
         },
         {
-          "headline": "Previsions de creixement del PIB de l'Eurozona revisades a la baixa",
-          "detail": "Les projeccions del BCE apunten a un creixement econòmic del 0,8% per a la zona euro el 2026, una lleugera revisió a la baixa respecte a previsions anteriors, malgrat la 'resistència més gran del que s'esperava' de l'economia europea."
-        },
-        {
-          "headline": "La taxa d'atur a Espanya disminueix al segon trimestre del 2026",
-          "detail": "La taxa d'atur a Espanya va baixar fins al 9,87% en el segon trimestre del 2026, continuant amb una tendència positiva i amb previsions de tancar l'any al 9,7%."
+          "headline": "Mercat laboral dels EUA proper a la plena ocupació",
+          "detail": "La Reserva Federal va assenyalar que l'economia dels EUA es manté dinàmica amb un mercat laboral robust i proper a la plena ocupació, tot i la preocupació per la inflació."
         }
       ]
     },
@@ -30,16 +26,16 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "Espanya eleva les previsions de creixement del PIB per al 2026",
-          "detail": "La Cambra de Comerç d'Espanya ha revisat a l'alça la seva previsió de creixement del PIB espanyol per al 2026 fins al 2,5%, atribuït al dinamisme del consum privat i les exportacions, especialment el turisme. El govern també ha elevat la previsió al 2,6%."
+          "headline": "Repunt de la inflació a l'agost impulsat per l'energia",
+          "detail": "L'IPC espanyol va augmentar al 4,3% a l'agost de 2026, principalment a causa de l'encariment dels carburants."
         },
         {
-          "headline": "Forta creació d'ocupació amb gairebé mig milió de nous llocs",
-          "detail": "El mercat laboral espanyol ha mostrat un gran dinamisme durant la primera meitat de 2026, amb una previsió de creació de 480.000 nous llocs de feina i un augment de l'ocupació del 2,3% per a tot l'any."
+          "headline": "Previsió de PIB millorada per l'OCDE",
+          "detail": "L'OCDE ha elevat la seva estimació de creixement del PIB espanyol per al 2026 fins al 2,6%, quatre dècimes més que la previsió de juny, impulsada per una sòlida demanda interna."
         },
         {
-          "headline": "La demanda nacional es manté com a motor principal del creixement",
-          "detail": "El consum de les llars continua sent el principal suport del creixement econòmic a Espanya, tot i la pèrdua acumulada de poder adquisitiu per la inflació i l'enduriment de les condicions de finançament."
+          "headline": "Moderació en el creixement dels preus de l'habitatge",
+          "detail": "El valor de taxació de l'habitatge lliure va moderar el seu creixement en el segon trimestre de 2026, amb un augment intertrimestral de l'1,7%."
         }
       ]
     },
@@ -48,12 +44,16 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "L'economia europea mostra resiliència malgrat la incertesa",
-          "detail": "Malgrat els riscos geopolítics i la persistència de la inflació, l'economia de la zona euro ha mostrat una resistència més gran del que s'esperava, si bé les perspectives generals continuen sent incertes."
+          "headline": "El BCE manté el to restrictiu amb tipus més alts",
+          "detail": "El Consell de Govern del BCE va apujar els tipus d'interès oficials en 25 punts bàsics el 10 de setembre de 2026, situant la taxa de dipòsit al 2,50%, a causa de les persistents pressions inflacionistes."
         },
         {
-          "headline": "Augment dels tipus d'interès per part del BCE com a resposta a la inflació persistent",
-          "detail": "La decisió del BCE d'apujar els tipus s'explica per un augment de la inflació a l'eurozona, que ha assolit el nivell més alt des de la tardor del 2023, especialment per l'impacte del conflicte a l'Orient Mitjà en els mercats energètics."
+          "headline": "Inflació de la Eurozona amb revisions a l'alça per a 2027 i 2028",
+          "detail": "Les projeccions del BCE situen la inflació general mitjana en el 3,0% el 2026, amb revisions a l'alça per als anys següents (2,5% el 2027 i 2,1% el 2028), indicant que es mantindrà per sobre de l'objectiu a curt termini."
+        },
+        {
+          "headline": "Preocupació per la competitivitat europea",
+          "detail": "La dependència energètica i la dificultat per a les empreses d'atraure inversions continuen sent obstacles importants per a la competitivitat de la Unió Europea."
         }
       ]
     },
@@ -62,16 +62,12 @@
       "title": "Món",
       "items": [
         {
-          "headline": "El FMI manté la previsió de creixement global en el 3% per al 2026",
-          "detail": "El Fons Monetari Internacional (FMI) ha mantingut la seva projecció de creixement global en el 3,0% per al 2026, tot i que adverteix d'un panorama desigual, amb l'impacte de la guerra sobre els importadors d'energia i l'impuls de la IA."
+          "headline": "Conflicte a Orient Mitjà dispara els preus del petroli i gas",
+          "detail": "La guerra entre els Estats Units i l'Iran, i l'escalada de conflictes a Orient Mitjà, van provocar un augment de gairebé el 50% en els preus del petroli i el gas."
         },
         {
-          "headline": "Les tensions geopolítiques continuen afectant l'economia mundial",
-          "detail": "L'escalada del conflicte a l'Orient Mitjà i les dificultats de trànsit a l'estret d'Ormuz segueixen sent un factor clau d'incertesa, impulsant els preus de l'energia i afectant les perspectives de creixement i inflació."
-        },
-        {
-          "headline": "La intel·ligència artificial impulsa la demanda en països tecnològicament avançats",
-          "detail": "La demanda impulsada per la intel·ligència artificial és un factor positiu que beneficia els països integrats en la cadena de valor tecnològica mundial, contribuint a un creixement econòmic desigual."
+          "headline": "Relacions EUA-Corea del Sud tenses per Iran",
+          "detail": "Corea del Sud va rebutjar les pressions dels EUA per enviar actius militars a Orient Mitjà, fet que ha generat tensions en les fràgils relacions bilaterals entre Seül i Washington."
         }
       ]
     },
@@ -80,20 +76,16 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Les borses mostren fortalesa amb lideratge del sector tecnològic",
-          "detail": "Els mercats borsaris van mantenir un comportament favorable durant l'estiu, amb augments notables en l'S&P 500 i el Nasdaq 100, impulsats especialment pel sector tecnològic."
+          "headline": "Volatilitat en els preus de l'energia",
+          "detail": "El cru Brent es va mantenir pràcticament pla al voltant dels 105 dòlars per barril, mentre que el gas natural TTF va caure un 4,0% la setmana fins al 18 de setembre."
         },
         {
-          "headline": "Volatilitat persistent en la renda fixa a llarg termini",
-          "detail": "La renda fixa ha estat una font de volatilitat, amb els rendiments dels bons a llarg termini assolint màxims de més d'una dècada, en un context de preocupació per la sostenibilitat del deute públic i el finançament d'inversions en IA."
+          "headline": "Bancs centrals tensen el mercat de deute sobirà",
+          "detail": "L'orientació clarament restrictiva dels principals bancs centrals (Fed, BoJ i BCE) va condicionar el mercat de deute sobirà, provocant un aplanament de les corbes, especialment als EUA."
         },
         {
-          "headline": "Repunt significatiu dels preus del petroli i el gas",
-          "detail": "Els preus del petroli (Brent per sobre dels 90 dòlars per barril) i del gas europeu van experimentar un fort repunt a causa de l'escalada del conflicte geopolític a l'Orient Mitjà, reobrint dubtes sobre la desinflació."
-        },
-        {
-          "headline": "El preu de l'electricitat a Espanya amb tendència a la baixa per les renovables, però més volatilitat",
-          "detail": "El preu de l'electricitat a Espanya podria caure un 16% el 2026 gràcies a l'auge de les renovables, si bé s'espera una major volatilitat entre les hores punta i vall, exigint una gestió més intel·ligent del consum."
+          "headline": "Nova competència en renda fixa per part de tecnològiques",
+          "detail": "Els bons, particularment els americans, s'enfronten a la competència emergent de les grans tecnològiques que emeten deute per finançar el seu creixement en intel·ligència artificial."
         }
       ]
     },
@@ -102,20 +94,8 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Acceleració de l'adopció institucional de les criptomonedes",
-          "detail": "L'adopció institucional de les criptomonedes s'accelera, impulsant majors inversions de capital de risc i l'emergència de productes financers creuats i serveis de custòdia bancaris."
-        },
-        {
-          "headline": "Les 'stablecoins' es consoliden com el 'dòlar d'internet'",
-          "detail": "Les stablecoins estan a punt de convertir-se en el 'dòlar d'internet', gràcies a una regulació més clara i una major adopció empresarial per a pagaments, liquidacions transfrontereres i operacions de tresoreria."
-        },
-        {
-          "headline": "La tokenització d'actius del món real es generalitza",
-          "detail": "La tokenització d'actius del món real està passant a ser una tendència dominant, amb condicions propícies per al creixement continuat de la inversió en aquest àmbit."
-        },
-        {
-          "headline": "La IA i les criptomonedes redefineixen el comerç digital",
-          "detail": "La convergència de la intel·ligència artificial i les criptomonedes s'espera que redefineixi el comerç digital, impulsant noves formes d'interacció i eficiència."
+          "headline": "Mercat cripto sense notícies destacades aquesta setmana",
+          "detail": "No s'han identificat notícies específiques o esdeveniments significatius en el mercat de les criptomonedes durant els últims 7 dies a partir de les fonts disponibles."
         }
       ]
     },
@@ -124,25 +104,15 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "L'especialització de la IA i la robòtica com a infraestructura econòmica",
-          "detail": "El 2026 marca l'entrada de la intel·ligència artificial i l'automatització avançada en una fase d'especialització i integració com a part estructural de l'economia i la gestió urbana."
-        },
-        {
-          "headline": "Emergència de noves tecnologies de bateries més sostenibles",
-          "detail": "Davant l'escassetat de materials com el liti, el sector aposta per alternatives més barates i segures, com les bateries d'ions de sodi, que ajudaran a estendre les xarxes i els cotxes elèctrics assequibles."
-        },
-        {
-          "headline": "La IA conquereix l'espai per a centres de dades",
-          "detail": "L'espai es perfila com una nova frontera computacional, amb condicions tèrmiques i energètiques ideals per a centres de dades, i la intel·ligència artificial s'entrena en òrbita."
+          "headline": "La dependència energètica frena la competitivitat europea",
+          "detail": "Malgrat tenir una de les taxes d'estalvi més altes, Europa no aconsegueix canalitzar eficaçment les inversions i pateix la seva gran dependència de l'energia importada, un factor clau en la seva competitivitat global."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació persistent a l'eurozona ha provocat una nova pujada de tipus del BCE, amb pressions derivades del conflicte a l'Orient Mitjà.",
-    "Espanya mostra una notable resiliència econòmica amb un creixement del PIB revisat a l'alça i una forta creació d'ocupació.",
-    "Els mercats financers exhibeixen fortalesa en borsa, però la renda fixa pateix volatilitat per l'elevat deute públic i les inversions en IA.",
-    "L'adopció institucional i la tokenització d'actius són tendències clau en el sector cripto, amb les stablecoins guanyant protagonisme.",
-    "La intel·ligència artificial es consolida com una infraestructura crítica, influint des de l'economia global fins a les tendències tecnològiques del futur."
+    "La inflació persisteix globalment, impulsada pels costos energètics i els conflictes geopolítics a Orient Mitjà.",
+    "Els principals bancs centrals mantenen una política monetària restrictiva amb tipus d'interès elevats per contenir la inflació.",
+    "Espanya mostra una resiliència econòmica superior a la mitjana europea en creixement del PIB, tot i que la inflació continua sent un repte important."
   ]
 }
