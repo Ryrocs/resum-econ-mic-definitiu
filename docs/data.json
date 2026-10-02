@@ -1,23 +1,27 @@
 {
-  "date": "25 de setembre del 2026",
-  "generatedAt": "2026-09-25T12:51:00.324Z",
-  "intro": "Aquesta setmana ha estat marcada per la persistència de les pressions inflacionistes, impulsades principalment pels conflictes geopolítics i els alts preus de l'energia, portant els bancs centrals a mantenir una política monetària restrictiva amb tipus d'interès elevats, mentre Espanya mostra una resiliència econòmica notable dins d'una Europa amb creixement més moderat.",
+  "date": "2 d’octubre del 2026",
+  "generatedAt": "2026-10-02T13:58:33.893Z",
+  "intro": "La inflació creixent, impulsada pels preus de l'energia, continua sent el focus principal de preocupació per a l'Eurozona i Espanya, mentre els bancs centrals mantenen una postura restrictiva i els mercats s'adapten a un entorn d'incertesa.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "Inflació persistent i tipus d'interès elevats a nivell global",
-          "detail": "L'OCDE alerta d'una inflació elevada i persistent, mentre que els bancs centrals de la Fed, el Banc del Japó i el BCE van apujar els tipus per contenir-la."
+          "headline": "La inflació de la zona euro s'accelera fins al 3,8% al setembre",
+          "detail": "La taxa d'inflació interanual de la zona euro es va enfilar fins al 3,8% al setembre, des del 3,2% de l'agost, superant les previsions i impulsada principalment per l'augment del preu de l'energia (18,8%). La inflació subjacent també va repuntar fins al 2,5%."
         },
         {
-          "headline": "Resiliència econòmica mundial tot i els xocs",
-          "detail": "L'OCDE destaca la capacitat de l'economia mundial per resistir els xocs, amb revisions a l'alça en previsions de creixement per a algunes economies com la zona euro."
+          "headline": "El BCE manté el to 'hawkish' i no descarta noves pujades de tipus",
+          "detail": "Després de la pujada de 25 punts bàsics el 10 de setembre (tipus de dipòsit al 2,50%), el Banc Central Europeu reitera un to dur a causa de la inflació persistent i el conflicte a Orient Pròxim, suggerint la possibilitat de més increments."
         },
         {
-          "headline": "Mercat laboral dels EUA proper a la plena ocupació",
-          "detail": "La Reserva Federal va assenyalar que l'economia dels EUA es manté dinàmica amb un mercat laboral robust i proper a la plena ocupació, tot i la preocupació per la inflació."
+          "headline": "Previsions de PIB de l'Eurozona revisades lleugerament a l'alça per 2026 i 2027",
+          "detail": "Les projeccions del BCE per al PIB de l'Eurozona indiquen un creixement del 0,9% el 2026 i del 1,4% el 2027, amb revisions a l'alça que reflecteixen una major resiliència de l'economia."
+        },
+        {
+          "headline": "La taxa d'atur de l'eurozona es manté estable",
+          "detail": "La taxa d'atur a l'eurozona es va mantenir al 6,4% a l'agost, mostrant una certa estabilitat en el mercat laboral."
         }
       ]
     },
@@ -26,16 +30,20 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "Repunt de la inflació a l'agost impulsat per l'energia",
-          "detail": "L'IPC espanyol va augmentar al 4,3% a l'agost de 2026, principalment a causa de l'encariment dels carburants."
+          "headline": "Espanya registra una de les inflacions més altes de la zona euro",
+          "detail": "La taxa d'inflació harmonitzada a Espanya es va situar al 5% al setembre, segons Eurostat, sent la més elevada entre les grans economies de l'euro, per sobre de la mitjana de la zona euro."
         },
         {
-          "headline": "Previsió de PIB millorada per l'OCDE",
-          "detail": "L'OCDE ha elevat la seva estimació de creixement del PIB espanyol per al 2026 fins al 2,6%, quatre dècimes més que la previsió de juny, impulsada per una sòlida demanda interna."
+          "headline": "L'economia espanyola manté el ritme de creixement al segon trimestre",
+          "detail": "El PIB d'Espanya va créixer un 0,7% en el segon trimestre respecte a l'anterior i un 2,6% interanual, amb l'OCDE i Funcas millorant les previsions de creixement per al 2026 fins al voltant del 2,5%."
         },
         {
-          "headline": "Moderació en el creixement dels preus de l'habitatge",
-          "detail": "El valor de taxació de l'habitatge lliure va moderar el seu creixement en el segon trimestre de 2026, amb un augment intertrimestral de l'1,7%."
+          "headline": "Inversió en hidrogen verd a Huelva",
+          "detail": "Es va iniciar a Huelva la construcció del projecte Onuba, amb una inversió de més de 1.000 milions d'euros, buscant aprofitar el sol i el vent per produir hidrogen verd i impulsar l'activitat econòmica."
+        },
+        {
+          "headline": "El govern preveu aprovar un nou escut anticrisi",
+          "detail": "Amb l'agreujament del conflicte a Orient Pròxim i l'escalada de preus, el Consell de Ministres té previst aprovar un nou escut anticrisi per mitigar la pèrdua de poder adquisitiu."
         }
       ]
     },
@@ -44,16 +52,12 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "El BCE manté el to restrictiu amb tipus més alts",
-          "detail": "El Consell de Govern del BCE va apujar els tipus d'interès oficials en 25 punts bàsics el 10 de setembre de 2026, situant la taxa de dipòsit al 2,50%, a causa de les persistents pressions inflacionistes."
+          "headline": "La pressió inflacionista es manté alta a l'Eurozona",
+          "detail": "L'augment inesperat de la inflació al setembre (3,8%) i de la inflació subjacent (2,5%) manté la pressió sobre el BCE per a futures decisions de política monetària."
         },
         {
-          "headline": "Inflació de la Eurozona amb revisions a l'alça per a 2027 i 2028",
-          "detail": "Les projeccions del BCE situen la inflació general mitjana en el 3,0% el 2026, amb revisions a l'alça per als anys següents (2,5% el 2027 i 2,1% el 2028), indicant que es mantindrà per sobre de l'objectiu a curt termini."
-        },
-        {
-          "headline": "Preocupació per la competitivitat europea",
-          "detail": "La dependència energètica i la dificultat per a les empreses d'atraure inversions continuen sent obstacles importants per a la competitivitat de la Unió Europea."
+          "headline": "El PMI manufacturer de l'eurozona millora",
+          "detail": "El PMI manufacturer de la zona euro va pujar fins a 52,9 al setembre des de 52,7 a l'agost, indicant una lleugera millora en el sector."
         }
       ]
     },
@@ -62,12 +66,12 @@
       "title": "Món",
       "items": [
         {
-          "headline": "Conflicte a Orient Mitjà dispara els preus del petroli i gas",
-          "detail": "La guerra entre els Estats Units i l'Iran, i l'escalada de conflictes a Orient Mitjà, van provocar un augment de gairebé el 50% en els preus del petroli i el gas."
+          "headline": "L'economia mundial afronta una situació fràgil per múltiples incerteses",
+          "detail": "Les perspectives econòmiques mundials estan marcades per l'elevada incertesa macroeconòmica, els canvis en les polítiques comercials, els desafiaments fiscals i les tensions geopolítiques, com el conflicte a Orient Pròxim."
         },
         {
-          "headline": "Relacions EUA-Corea del Sud tenses per Iran",
-          "detail": "Corea del Sud va rebutjar les pressions dels EUA per enviar actius militars a Orient Mitjà, fet que ha generat tensions en les fràgils relacions bilaterals entre Seül i Washington."
+          "headline": "Endeutament global impacta els mercats de crèdit",
+          "detail": "L'elevat endeutament a nivell mundial està afectant el mercat de crèdit i de capitals, amb una caiguda del 15% en les emissions al mercat de capitals."
         }
       ]
     },
@@ -76,16 +80,20 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Volatilitat en els preus de l'energia",
-          "detail": "El cru Brent es va mantenir pràcticament pla al voltant dels 105 dòlars per barril, mentre que el gas natural TTF va caure un 4,0% la setmana fins al 18 de setembre."
+          "headline": "Les borses europees mostren moviments mixtos amb pressió del deute",
+          "detail": "Després d'un inici de setmana amb pujades, impulsades per dades macroeconòmiques positives i la banca a Espanya, l'Ibex-35 i altres borses europees han experimentat caigudes llastades per l'augment de la inflació i els nous màxims del deute."
         },
         {
-          "headline": "Bancs centrals tensen el mercat de deute sobirà",
-          "detail": "L'orientació clarament restrictiva dels principals bancs centrals (Fed, BoJ i BCE) va condicionar el mercat de deute sobirà, provocant un aplanament de les corbes, especialment als EUA."
+          "headline": "La renda fixa reflecteix incertesa i pressions",
+          "detail": "El rendiment del bo espanyol a deu anys ha mostrat fluctuacions, amb una certa estabilització inicial seguida d'un retrocés, mentre que els nous màxims del deute continuen sent un factor de preocupació per als mercats."
         },
         {
-          "headline": "Nova competència en renda fixa per part de tecnològiques",
-          "detail": "Els bons, particularment els americans, s'enfronten a la competència emergent de les grans tecnològiques que emeten deute per finançar el seu creixement en intel·ligència artificial."
+          "headline": "L'euro retrocedeix lleugerament davant el dòlar",
+          "detail": "En el mercat de divises, l'euro ha cedit posicions davant el dòlar, amb un tipus de canvi al voltant d'1,1336 dòlars, en un entorn d'expectatives de polítiques monetàries més restrictives als EUA."
+        },
+        {
+          "headline": "El petroli continua sent un factor clau en la inflació",
+          "detail": "Els preus del petroli continuen influint significativament en la inflació global, sent el principal motor de l'encariment de l'energia a la zona euro."
         }
       ]
     },
@@ -94,8 +102,20 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Mercat cripto sense notícies destacades aquesta setmana",
-          "detail": "No s'han identificat notícies específiques o esdeveniments significatius en el mercat de les criptomonedes durant els últims 7 dies a partir de les fonts disponibles."
+          "headline": "Bitcoin tanca setembre amb guanys significatius",
+          "detail": "Bitcoin (BTC) va tancar el mes de setembre amb un augment del 6,33%, trencant la tendència històrica de pèrdues per a aquest mes i mostrant una debilitació de la compra a l'inici d'octubre."
+        },
+        {
+          "headline": "Entrades massives en ETF spot de Bitcoin",
+          "detail": "Els ETF spot de Bitcoin als Estats Units van registrar entrades netes d'uns 2.400 milions de dòlars en la setmana que va finalitzar el 25 de setembre, marcant la major entrada del 2026."
+        },
+        {
+          "headline": "Previsions d'un nou cicle alcista en el mercat cripto",
+          "detail": "Experts del sector, com Tom Lee de BitMine Immersion Technologies, consideren que el mercat de criptomonedes està entrant en el cicle alcista més gran de la història."
+        },
+        {
+          "headline": "La SEC admet que les regulacions no segueixen el ritme de Bitcoin",
+          "detail": "Paul Atkins, president de la Comissió de Borsa i Valors (SEC), va reconèixer que les normes federals de valors no s'han adaptat al ràpid creixement de Bitcoin des del seu llançament el 2008."
         }
       ]
     },
@@ -104,15 +124,19 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "La dependència energètica frena la competitivitat europea",
-          "detail": "Malgrat tenir una de les taxes d'estalvi més altes, Europa no aconsegueix canalitzar eficaçment les inversions i pateix la seva gran dependència de l'energia importada, un factor clau en la seva competitivitat global."
+          "headline": "El Manchester City afronta una data límit per apel·lar irregularitats",
+          "detail": "El club de futbol Manchester City té fins al divendres 2 d'octubre per presentar les seves apel·lacions davant les acusacions d'irregularitats financeres per part de la Premier League."
+        },
+        {
+          "headline": "El debat sobre la sostenibilitat turística s'intensifica a Europa",
+          "detail": "Destinacions com Barcelona, París i Amsterdam s'enfronten al problema de la massificació turística, portant a la creació de llistes com la 'Not Hot List' per promoure llocs menys coneguts i evitar aglomeracions."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació persisteix globalment, impulsada pels costos energètics i els conflictes geopolítics a Orient Mitjà.",
-    "Els principals bancs centrals mantenen una política monetària restrictiva amb tipus d'interès elevats per contenir la inflació.",
-    "Espanya mostra una resiliència econòmica superior a la mitjana europea en creixement del PIB, tot i que la inflació continua sent un repte important."
+    "La inflació a l'Eurozona i Espanya continua sent la principal preocupació econòmica, impulsada pels preus de l'energia.",
+    "Els bancs centrals mantenen una postura de vigilància davant la inflació persistent, sense descartar més pujades de tipus d'interès.",
+    "El mercat de criptomonedes mostra una resiliència i un optimisme notables, amb un interès creixent per part dels inversors institucionals malgrat el retard regulatori."
   ]
 }
