@@ -1,23 +1,23 @@
 {
-  "date": "9 d’octubre del 2026",
-  "generatedAt": "2026-10-09T14:27:21.919Z",
-  "intro": "La setmana econòmica ha estat marcada per l'increment de la inflació tant a la zona euro com a Espanya, la resiliència del creixement espanyol malgrat l'augment dels preus, la debilitat del mercat laboral als EUA i la volatilitat en els mercats energètics i de criptomonedes.",
+  "date": "16 d’octubre del 2026",
+  "generatedAt": "2026-10-16T12:35:42.495Z",
+  "intro": "L'economia global mostra signes de resiliència impulsada per la inversió en IA, tot i que la persistència de la inflació i els conflictes geopolítics mantenen la incertesa als mercats.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació de la zona euro assoleix el 3,8% al setembre",
-          "detail": "La inflació anual a la zona euro va pujar al 3,8% al setembre de 2026, un augment de sis dècimes respecte a l'agost i el nivell més alt en tres anys, impulsada principalment pels preus de l'energia."
+          "headline": "L'FMI eleva la previsió de creixement global per al 2026",
+          "detail": "El Fons Monetari Internacional ha augmentat la seva projecció de creixement mundial per al 2026 al 3,1%, atribuint-ho en part a la inversió en intel·ligència artificial, malgrat els riscos derivats dels conflictes geopolítics i els alts preus de l'energia."
         },
         {
-          "headline": "El BCE podria pausar la pujada de tipus a l'octubre però amb una nova alça al desembre",
-          "detail": "Després de la pujada de setembre que va situar la taxa de dipòsit al 2,50%, s'espera que el Banc Central Europeu mantingui els tipus d'interès sense canvis a l'octubre, amb una majoria d'economistes anticipant una nova pujada de 25 punts bàsics al desembre."
+          "headline": "La inflació de l'Eurozona es confirma alta al setembre",
+          "detail": "Eurostat ha confirmat que la taxa d'inflació interanual de la zona euro es va situar en el 3,8% al setembre de 2026, un augment respecte al 3,2% d'agost, superant l'objectiu del BCE del 2%."
         },
         {
-          "headline": "El mercat laboral dels EUA es debilita amb només 29.000 nous llocs de feina al setembre",
-          "detail": "L'economia dels Estats Units va afegir una xifra molt inferior a l'esperada de 29.000 llocs de treball al setembre de 2026, la més baixa per a aquest mes en 16 anys, i la taxa d'atur va pujar lleugerament al 4,2%."
+          "headline": "El BCE apuja els tipus d'interès i no descarta noves pujades",
+          "detail": "El Banc Central Europeu ha tornat a apujar els tipus d'interès, situant la taxa de dipòsit en el 2,50% des del 16 de setembre, i s'espera una possible nova pujada al desembre a causa de la inflació persistent."
         }
       ]
     },
@@ -26,16 +26,20 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "La inflació a Espanya s'enfila al 4,9% al setembre",
-          "detail": "L'Índex de Preus al Consum (IPC) a Espanya es va disparar al 4,9% interanual al setembre de 2026, sis dècimes més que a l'agost, a causa de l'encariment dels carburants i els paquets turístics."
+          "headline": "Espanya liderarà el creixement del PIB entre grans economies europees",
+          "detail": "L'FMI ha elevat la seva previsió de creixement del PIB per a Espanya el 2026 fins al 2,5%, consolidant-la com la gran economia avançada amb major creixement a Europa per tercer any consecutiu."
         },
         {
-          "headline": "El Banc d'Espanya millora les previsions de creixement del PIB per a 2026 i 2027",
-          "detail": "L'organisme regulador ha revisat a l'alça el creixement del PIB espanyol fins al 2,6% per a 2026 i el 2,2% per a 2027, gràcies al vigor del consum de les llars, la creació d'ocupació i el dinamisme del sector exterior."
+          "headline": "Inflació espanyola projectada per sobre de la mitjana de l'Eurozona",
+          "detail": "Les previsions de l'FMI per a Espanya el 2026 apunten a una inflació del 3,7%, un factor que podria erosionar la competitivitat i el poder adquisitiu."
         },
         {
-          "headline": "Persisteix l'alerta per la inflació elevada a Espanya",
-          "detail": "El Banc d'Espanya adverteix que la inflació mitjana rondarà el 3,9% el 2026 i el 3,7% el 2027, molt per sobre de l'objectiu del BCE, impulsada per la crisi energètica i l'alça dels serveis."
+          "headline": "El mercat laboral espanyol mostra creixement amb reptes",
+          "detail": "Malgrat un creixement continu de l'ocupació, el mercat laboral espanyol afronta el 2026 amb reptes com l'atur estructural, el desajust de competències i la temporalitat, impulsant increments salarials en sectors clau."
+        },
+        {
+          "headline": "El deute públic espanyol es manté per sobre del 100% del PIB",
+          "detail": "La ràtio de deute públic brut d'Espanya va ser del 101,6% del PIB al final del primer trimestre de 2026, una de les més altes de la zona euro segons les dades d'Eurostat."
         }
       ]
     },
@@ -44,26 +48,30 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "La desconnexió de les borses europees respecte a Wall Street es fa evident",
-          "detail": "Després d'un sòlid inici d'any, les borses europees tornen a despenjar-se respecte a Wall Street, en un context d'augment del preu del petroli i pressions sobre la inflació a la regió."
+          "headline": "La inflació de l'Eurozona s'accelera impulsada per l'energia",
+          "detail": "La taxa d'inflació anual de l'Eurozona es va situar en el 3,8% al setembre de 2026, amb un augment notable dels preus de l'energia que continua generant pressions alcistes."
         },
         {
-          "headline": "Augmenten les projeccions de creixement del PIB per a la zona euro",
-          "detail": "Les noves projeccions del Banc Central Europeu (BCE) preveuen un creixement del PIB del 0,9% per a 2026 i de l'1,4% per a 2027, el que suposa una revisió a l'alça principalment per la resiliència inesperada de l'economia."
+          "headline": "El BCE reforça la seva postura restrictiva davant la inflació",
+          "detail": "La decisió del BCE d'apujar els tipus d'interès el 15 d'octubre reflecteix la seva determinació per contenir la inflació, amb expectatives de mantenir una política monetària prudent i amb possibles noves pujades."
+        },
+        {
+          "headline": "El deute públic de l'Eurozona augmenta al 88,9% del PIB",
+          "detail": "La ràtio de deute públic brut a la zona euro va augmentar fins al 88,9% del PIB al final del primer trimestre de 2026, mentre que el dèficit es va situar en el 3,1%."
         }
       ]
     },
     {
       "emoji": "🌍",
-      "title": "Economia Mundial",
+      "title": "Món",
       "items": [
         {
-          "headline": "L'FMI adverteix d'una triple amenaça per a l'economia global",
-          "detail": "El Fons Monetari Internacional ha alertat sobre l'impacte dels alts preus de l'energia, el deute públic en màxims històrics i els efectes desiguals de la intel·ligència artificial com a principals reptes per a l'economia mundial."
+          "headline": "L'economia mundial mostra resiliència però amb perspectives fràgils",
+          "detail": "L'OCDE i l'FMI coincideixen que l'economia global resisteix millor del previst gràcies a la IA i els suports públics, però adverteixen d'un entorn de persistència d'incertesa per tensions geopolítiques."
         },
         {
-          "headline": "El FMI projecta un creixement global del 3,3% el 2026",
-          "detail": "En la prèvia de la publicació del seu informe World Economic Outlook, l'FMI manté les projeccions de creixement global en un 3,3% per a 2026 i un 3,2% per a 2027, amb la inversió tecnològica i el suport fiscal i monetari compensant els canvis en la política comercial."
+          "headline": "Conflictes geopolítics continuen impulsant els preus de l'energia",
+          "detail": "La guerra a l'Orient Mitjà segueix sent un factor clau en l'encariment dels preus del petroli i el gas, afectant les cadenes de subministrament globals i la inflació."
         }
       ]
     },
@@ -72,16 +80,16 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Volatilitat en el preu del petroli per les tensions a l'Orient Mitjà",
-          "detail": "Els preus del petroli Brent van registrar una forta pujada fins als 103,78 dòlars per barril per les tensions a l'estret d'Ormuz, tot i que van corregir posteriorment per declaracions del president Trump descartant un atac imminent contra l'Iran."
+          "headline": "Volatilitat en el preu del petroli per tensions globals",
+          "detail": "El preu del petroli WTI se situa avui en 96,043 dòlars per barril, amb expectatives de moderació el 2026, però amb la incertesa per la reobertura de l'estret d'Ormuz i els conflictes."
         },
         {
-          "headline": "El rendiment del bo del Tresor dels EUA a 10 anys aconsegueix el seu nivell més alt des de 2002",
-          "detail": "La venda massiva de bons continua impulsant a l'alça els rendiments, amb el bo del Tresor a 10 anys dels Estats Units arribant al 5,31%, el seu nivell més alt en 24 anys."
+          "headline": "L'FMI adverteix de possibles correccions en borsa",
+          "detail": "En un context d'elevades valoracions i optimisme vinculat a la IA, l'FMI ha fet referència a la possibilitat de 'correccions' borsàries, especialment si les expectatives d'intel·ligència artificial no es materialitzen."
         },
         {
-          "headline": "Les borses europees cedeixen mentre Wall Street busca màxims",
-          "detail": "Les places europees han experimentat caigudes, amb l'IBEX 35 perdent els 19.000 punts, mentre que a principis de setmana Wall Street va arribar a màxims històrics, accentuant la divergència entre ambdós mercats."
+          "headline": "Bitcoin podria superar l'or i la plata el 2026",
+          "detail": "Després d'un 2025 amb pujades importants en or i plata, les previsions de principis de 2026 apunten que Bitcoin podria tenir un rendiment superior a aquests metalls preciosos."
         }
       ]
     },
@@ -90,8 +98,12 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Bitcoin cau per sota dels 85.000 dòlars i experimenta la segona major presa de guanys de l'any",
-          "detail": "El preu de Bitcoin va caure per sota dels 85.000 dòlars aquesta setmana, amb una baixada del 2,85% el 7 d'octubre. A més, s'ha registrat la segona major presa de guanys de 2026, amb sortides dels ETF de Bitcoin i Ether acostant-se als 1.000 milions de dòlars a l'octubre."
+          "headline": "Avanços en la regulació global de criptomonedes",
+          "detail": "Els marcs reguladors a nivell mundial continuen evolucionant per donar suport a les prioritats estratègiques nacionals d'innovació i competitivitat, amb la Llei GENIUS dels EUA per a stablecoins com a referent."
+        },
+        {
+          "headline": "Augment de l'adopció institucional d'actius digitals",
+          "detail": "S'observa un augment significatiu de l'interès i l'adopció d'actius digitals per part d'institucions financeres a nivell global, amb una major integració en els serveis financers convencionals."
         }
       ]
     },
@@ -100,20 +112,19 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "El BCE impulsa un projecte pilot per a l'euro digital",
-          "detail": "El Banc Central Europeu ha obert una crida a manifestacions d'interès per a actors del comerç electrònic i mòbil de la zona euro, convidant-los a participar en el projecte pilot de l'euro digital, amb data límit el 27 d'octubre de 2026."
+          "headline": "Suïssa, Suècia i EUA lideren l'Índex Mundial d'Innovació 2026",
+          "detail": "La 19a edició de l'Índex Mundial d'Innovació, publicada el 9 d'octubre de 2026, destaca Suïssa, Suècia i els Estats Units com les economies més innovadores, posant l'accent en les startups de ciència profunda."
         },
         {
-          "headline": "L'FMI destaca l'impacte desigual de la IA",
-          "detail": "La directora gerent del Fons Monetari Internacional, Kristalina Georgieva, ha subratllat que la intel·ligència artificial ja és un factor clau de l'economia, però el seu impacte és molt desigual entre països, beneficiant especialment les economies integrades en les cadenes de producció tecnològica."
+          "headline": "Catalunya augmenta un 30% els ajuts a la innovació empresarial",
+          "detail": "El Govern ha aprovat l'Estratègia d'innovació empresarial de Catalunya 2026-2030, amb un paquet d'ajuts de 78 milions d'euros per a les empreses aquest 2026."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació continua sent una preocupació central a Europa i Espanya, impulsada pels preus de l'energia.",
-    "El creixement econòmic d'Espanya es mostra resilient, amb millors previsions malgrat les pressions inflacionistes.",
-    "El mercat laboral dels EUA mostra signes de desacceleració, la qual cosa podria influir en futures decisions de política monetària de la Fed.",
-    "La intel·ligència artificial i els alts preus de l'energia són factors clau que modelen l'economia global, segons l'FMI."
+    "La resiliència econòmica global es manté, impulsada per la inversió en intel·ligència artificial, però amb una desacceleració del creixement prevista per al 2026 en comparació amb el 2025.",
+    "La inflació persistent, especialment a la zona euro i Espanya, i els tipus d'interès a l'alça del BCE, són els principals desafiaments, agreujats pels alts preus de l'energia derivats dels conflictes.",
+    "Els avenços en la regulació de criptomonedes i la inversió en innovació global són tendències clau, mentre els mercats romanen atents als riscos geopolítics i possibles correccions."
   ]
 }
