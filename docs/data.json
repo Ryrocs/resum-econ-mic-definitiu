@@ -1,27 +1,31 @@
 {
-  "date": "23 d’octubre del 2026",
-  "generatedAt": "2026-10-23T12:42:44.584Z",
-  "intro": "La setmana econòmica ha estat marcada per una resiliència global que, no obstant això, es mostra fràgil davant l'augment de la inflació, els preus de l'energia i les persistents tensions geopolítiques, impulsant la cautela en les polítiques dels bancs centrals i generant un rendiment desigual als mercats.",
+  "date": "30 d’octubre del 2026",
+  "generatedAt": "2026-10-30T14:22:48.559Z",
+  "intro": "La setmana ha estat marcada per la persistència de la inflació a Europa i Espanya, una desacceleració del creixement del PIB en diverses economies clau, i un notable impacte en el mercat de les criptomonedes amb una bretxa de seguretat important.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació global s'accelera i pressions energètiques a l'Eurozona",
-          "detail": "La inflació global projectada per al 2026 s'eleva al 4,7%, principalment per l'encariment de l'energia i els aliments. A l'Eurozona, la inflació va ser del 3,8% al setembre, superant l'objectiu del 2%."
+          "headline": "La inflació de la Eurozona i Espanya es manté elevada",
+          "detail": "Les previsions d'inflació de l'Eurozona per al 2026 s'han revisat a l'alça fins al 3,0%, i es preveu que l'objectiu del 2% no s'assoleixi fins al 2028. A Espanya, la inflació anual es va mantenir en el 4,9% a l'octubre, amb una inflació subjacent del 3,1%."
         },
         {
-          "headline": "El BCE manté els tipus d'interès però s'espera una pujada al desembre",
-          "detail": "S'espera que el Banc Central Europeu (BCE) mantingui els tipus d'interès estables a l'octubre (tipus de dipòsit al 2,50%), però hi ha una alta probabilitat d'un nou augment de 25 punts bàsics al desembre, fins al 2,75%, a causa de les pressions inflacionistes persistents i els costos energètics."
+          "headline": "Desacceleració del PIB a la Eurozona i Espanya, creixement sorprenent a Alemanya",
+          "detail": "El PIB de l'Eurozona va créixer un 0,4% en el tercer trimestre, desaccelerant-se respecte al 0,6% anterior. L'economia espanyola va créixer un 0,6% trimestral, una dècima menys que l'anterior, mentre que Alemanya va sorprendre amb un creixement del 0,2% del seu PIB en el mateix període."
         },
         {
-          "headline": "Desacceleració del PIB global tot i la resiliència",
-          "detail": "El Fons Monetari Internacional (FMI) projecta una desacceleració del creixement mundial fins al 3,1% el 2026, amb una recuperació esperada al 3,4% el 2027. L'economia xinesa es reactiva, amb un creixement del PIB de l'1,2% intertrimestral al tercer trimestre del 2026, impulsada per la producció industrial i les exportacions tecnològiques."
+          "headline": "El BCE podria realitzar una última pujada de tipus",
+          "detail": "S'espera que el Banc Central Europeu pugi el seu tipus d'interès per tercera i última vegada en el quart trimestre del 2026, abans de desfer les pujades a la segona meitat del 2027. La inflació ha superat el creixement salarial a causa del xoc dels preus de l'energia."
         },
         {
-          "headline": "Mercat laboral sòlid a Espanya",
-          "detail": "L'ocupació a Espanya continua creixent amb força, en part gràcies a processos de regularització, mantenint la taxa d'atur en un dinàmic 6,4% a l'agost per setè mes consecutiu."
+          "headline": "L'ocupació global mostra signes positius tot i l'augment de l'atur juvenil",
+          "detail": "La perspectiva d'ocupació neta global per al quart trimestre del 2026 és del 29%, augmentant 2 punts respecte al trimestre anterior i 6 punts interanuals. No obstant això, la taxa d'atur juvenil va augmentar al 12,4% el 2025, afectant 67 milions de joves."
+        },
+        {
+          "headline": "L'economia dels EUA creix impulsada per la IA",
+          "detail": "L'economia dels Estats Units va créixer un 0,8% en el tercer trimestre, o un 3,4% anualitzat, impulsada principalment per la inversió de capital relacionada amb el boom de la intel·ligència artificial, el consum de les llars i la despesa pública."
         }
       ]
     },
@@ -30,16 +34,16 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "Creixement econòmic sostingut però amb inflació a l'alça",
-          "detail": "L'economia espanyola mantindrà un creixement sòlid, projectat en un 2,6% el 2026 i un 2,1% el 2027, gràcies a l'ocupació, el consum i els serveis. No obstant això, la inflació al setembre es va situar en el 4,9% (general) i el 3,1% (subjacent), amb els carburants com a principal motor d'aquesta pujada."
+          "headline": "El contracte programa Generalitat-Renfe s'ha formalitzat amb 1.400 milions d'euros",
+          "detail": "La Generalitat i Renfe han formalitzat un contracte programa de 1.407,6 milions d'euros fins al 2028, que inclou compensacions per impuntualitat i és un pas previ al traspàs de Rodalies a Catalunya previst per al 2029."
         },
         {
-          "headline": "Revisions a l'alça de les previsions d'inflació pel Banc d'Espanya",
-          "detail": "El Banc d'Espanya ha revisat a l'alça les seves previsions d'inflació fins al 3,9% per al 2026 i el 3,7% per al 2027, a causa de l'impacte dels preus de l'energia i la retirada de mesures de suport fiscal."
+          "headline": "El PIB per càpita de Madrid supera el de Catalunya per factors demogràfics",
+          "detail": "La Cambra de Comerç atribueix la diferència del PIB per càpita entre Madrid i Catalunya a qüestions demogràfiques, amb 220.000 treballadors que viuen fora de Madrid contribuint a la seva economia."
         },
         {
-          "headline": "Estabilitat en el deute privat",
-          "detail": "El deute empresarial en percentatge del PIB va augmentar lleugerament, mentre que el de les llars va disminuir al segon trimestre del 2026, mantenint-se ambdues ràtios molt per sota de la mitjana de la zona euro."
+          "headline": "Els lloguers a Catalunya dupliquen l'augment salarial des del 2015",
+          "detail": "Un informe de la UGT revela que els preus dels lloguers a Catalunya han pujat el doble que els salaris des de l'any 2015, posant en relleu la pressió sobre les llars."
         }
       ]
     },
@@ -48,12 +52,16 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "Senyals de desacceleració econòmica a l'Eurozona",
-          "detail": "L'economia de l'Eurozona comença el quart trimestre amb signes de desacceleració, amb una deterioració de la confiança dels consumidors a l'octubre a causa de l'augment dels costos energètics i la incertesa política."
+          "headline": "Les previsions d'inflació per a la Eurozona augmenten a causa de l'energia",
+          "detail": "L'Enquesta de Pronosticadors Professionals del BCE ha revisat significativament a l'alça les projeccions d'inflació de la Eurozona per al 2026 (3,0%) i el 2027 (2,6%), principalment a causa de l'augment dels preus de l'energia."
         },
         {
-          "headline": "Inflació persistent en la zona euro",
-          "detail": "La inflació a la zona euro va augmentar al setembre fins al 3,8%, el seu nivell més alt en tres anys, impulsada principalment per un nou repunt dels preus de l'energia."
+          "headline": "L'economia francesa es contrau inesperadament al Q3",
+          "detail": "L'economia francesa va registrar una contracció inesperada del 0,1% en el tercer trimestre, mentre que l'economia alemanya va aconseguir un creixement sorprenent del 0,2%."
+        },
+        {
+          "headline": "La inflació a Itàlia es dispara, augmentant les alarmes a la Eurozona",
+          "detail": "La inflació a Itàlia es va disparar al 5,4% a l'octubre, impulsada per l'encariment de l'energia, fet que ha generat preocupació a la Eurozona sobre la persistència de les pressions inflacionistes."
         }
       ]
     },
@@ -62,12 +70,16 @@
       "title": "Món",
       "items": [
         {
-          "headline": "FMI alerta sobre la fragilitat de la resiliència econòmica",
-          "detail": "L'FMI adverteix que, tot i la resiliència mostrada, l'economia mundial podria 'posar aviat a prova els límits de la resiliència' davant l'escalada de conflictes, les tensions comercials i les vulnerabilitats fiscals."
+          "headline": "El FMI projecta un creixement global moderat amb inflació persistent",
+          "detail": "El Fons Monetari Internacional projecta un creixement global del 3,1% el 2026 i del 3,4% el 2027, amb una inflació global del 4,7% el 2026. L'Outlook del FMI assenyala que el creixement ha resistit, però la inflació i la reducció dels marges exigeixen polítiques immediates."
         },
         {
-          "headline": "L'IA i la inversió en tecnologia com a motors de creixement",
-          "detail": "La inversió en Intel·ligència Artificial (IA) i les millores de productivitat associades, juntament amb la força exportadora de la Xina en sectors tecnològics, són considerats motors positius que podrien consolidar el creixement global."
+          "headline": "El dèficit fiscal dels EUA augmenta un 12%",
+          "detail": "El dèficit fiscal dels Estats Units va augmentar un 12% durant l'exercici fiscal conclòs al setembre del 2026, arribant als 1,992 bilions de dòlars, impulsat pel reemborsament d'aranzels i l'augment dels interessos sobre el deute."
+        },
+        {
+          "headline": "El conflicte a l'Orient Mitjà continua generant pressions inflacionistes",
+          "detail": "El conflicte a l'Orient Mitjà segueix generant pressions inflacionistes i es preveu que els seus efectes addicionals sobre els preus de l'energia es materialitzin principalment el 2027."
         }
       ]
     },
@@ -76,16 +88,16 @@
       "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Augment de l'aversió al risc als mercats",
-          "detail": "Els riscos fiscals, les tensions geopolítiques i les incerteses vinculades a la IA estan augmentant l'aversió al risc en els mercats financers."
+          "headline": "Volatilitat als mercats amb la mirada posada en els bancs centrals i els resultats",
+          "detail": "Els mercats financers internacionals han afrontat una setmana d'alta volatilitat, amb l'S&P 500 i el Nasdaq registrant pèrdues consecutives. La preocupació se centra en els resultats trimestrals de grans tecnològiques i les decisions dels bancs centrals."
         },
         {
-          "headline": "Rendiments dels bons disparen els costos de finançament",
-          "detail": "Els rendiments dels bons a la zona euro han augmentat, elevant els costos de finançament. A més, els rendiments del bo del govern de referència dels EUA van superar el 5%, el nivell més alt des del 2007, indicant una disminució de la confiança dels inversors en el deute governamental."
+          "headline": "L'Ibex 35 tanca en negatiu amb Repsol a l'alça",
+          "detail": "L'Ibex 35 va iniciar la darrera sessió de la setmana amb un descens del 0,7%. Repsol va destacar amb una pujada significativa de les seves accions després que l'Audiència Nacional suspengués el pagament de 120 milions per l'impost a les energètiques."
         },
         {
-          "headline": "Preus de l'energia sota pressió geopolítica",
-          "detail": "Els preus de l'energia continuen sent un factor clau en la inflació, sostinguts per les tensions geopolítiques."
+          "headline": "Els rendiments dels bons europeus i nord-americans, sota pressió",
+          "detail": "Els rendiments dels bons a llarg termini del deute governamental a Europa han augmentat dràsticament, generant condicions financeres més restrictives. La reacció del Tresor nord-americà a 10 anys és clau per als costos de finançament global."
         }
       ]
     },
@@ -94,16 +106,16 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Pressió de venda sobre Bitcoin per xoc inflacionari",
-          "detail": "Bitcoin va caure per sota dels 80.000 dòlars arran d'una pressió de venda acumulada i un nou xoc inflacionari. La resistència immediata se situa al voltant dels 82.500-83.000 dòlars."
+          "headline": "Binance confirma la bretxa de seguretat més gran registrada, amb un impacte de 6.300 milions de dòlars",
+          "detail": "Binance ha confirmat una important bretxa de seguretat amb un impacte estimat de 6.300 milions de dòlars, descrita pels analistes com el robatori cripto més gran registrat."
         },
         {
-          "headline": "Ethereum amb senyals tècniques de cautela",
-          "detail": "Ethereum (ETH) va cotitzar a 2.411,41 dòlars el 23 d'octubre, amb un descens diari de l'1,22%, i les seves senyals tècniques suggereixen cautela, tot i que el suport de tendència a llarg termini roman actiu."
+          "headline": "Bitcoin retrocedeix tot i les projeccions a llarg termini",
+          "detail": "El Bitcoin ha retrocedit amb un volum elevat i senyals tècniques febles, cotitzant al voltant dels 78.902 dòlars el 29 d'octubre, després de fluctuar al voltant dels 80.000 dòlars. Malgrat això, Bitwise projecta que el BTC podria assolir 1,6 milions de dòlars el 2036."
         },
         {
-          "headline": "Sortides importants de fons dels ETF de criptomonedes",
-          "detail": "Els ETF de criptomonedes dels EUA van registrar sortides netes combinades de 164,8 milions de dòlars el 16 d'octubre, liderades per BlackRock, estenent una setmana difícil per als vehicles d'inversió en actius digitals."
+          "headline": "Sortides significatives d'ETF de Bitcoin i Ethereum al comptat",
+          "detail": "Els ETF de Bitcoin al comptat van registrar sortides netes de 635 milions de dòlars en una sola sessió, amb BlackRock representant 254 milions de dòlars. Els ETF d'Ethereum també van experimentar sortides netes de 111 milions de dòlars."
         }
       ]
     },
@@ -112,19 +124,15 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "Incendi històric al Marché des Enfants Rouges de París",
-          "detail": "El mercat cobert més antic de París, el Marché des Enfants Rouges, fundat el 1615, va ser destruït per un incendi durant la setmana."
-        },
-        {
-          "headline": "La IA i la despesa en defensa com a motors de productivitat",
-          "detail": "La inversió en Intel·ligència Artificial i l'increment de la despesa en defensa es perfilen com a elements que podrien afavorir la productivitat i la inversió a Espanya."
+          "headline": "Les accions d'Alphabet cauen pel menor rendiment publicitari de la cerca amb IA",
+          "detail": "Les accions d'Alphabet van caure gairebé un 12% en el que podria ser la seva pitjor caiguda després de resultats de la història. La causa és que la cerca amb Intel·ligència Artificial de Google atrau més usuaris però genera menys ingressos per publicitat."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació i els tipus d'interès segueixen sent factors clau, amb el BCE orientant-se cap a una possible pujada al desembre malgrat mantenir la calma a l'octubre.",
-    "L'economia mundial mostra una resiliència fràgil, amb l'FMI alertant sobre els riscos geopolítics i fiscals que podrien soscavar el creixement projectat.",
-    "El mercat de criptomonedes ha experimentat una setmana de pressió de venda i sortides d'ETF, amb Bitcoin i Ethereum a la baixa, indicant cautela entre els inversors."
+    "La inflació continua sent un repte persistent a la Eurozona i Espanya, amb expectatives que es mantingui per sobre de l'objectiu del BCE fins al 2028.",
+    "El creixement econòmic mostra signes de moderació a Europa i Espanya, tot i que Alemanya sorprèn amb un creixement positiu.",
+    "El mercat de criptomonedes ha patit un dels majors robatoris registrats, mentre el Bitcoin lluita per mantenir el seu valor i els ETF experimenten sortides de capital."
   ]
 }
