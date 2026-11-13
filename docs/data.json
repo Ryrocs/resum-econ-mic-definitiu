@@ -1,27 +1,27 @@
 {
-  "date": "6 de novembre del 2026",
-  "generatedAt": "2026-11-06T15:13:52.460Z",
-  "intro": "La setmana econòmica ha estat marcada per la resiliència global davant les tensions geopolítiques, impulsada notablement per la inversió en intel·ligència artificial, tot i que persisteix la preocupació per la inflació elevada i la divergència en el creixement entre regions.",
+  "date": "13 de novembre del 2026",
+  "generatedAt": "2026-11-13T15:31:43.084Z",
+  "intro": "La setmana econòmica ha estat marcada per un panorama mixt, amb dades de creixement positives a Europa i revisions a l'alça del PIB mundial, però amb la inflació persistent i la volatilitat als mercats borsaris generant cautela.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "Previsions d'inflació global a l'alça per al 2026",
-          "detail": "L'FMI projecta que la inflació global s'elevarà fins al 4,7% el 2026 abans de moderar-se el 2027, impulsada pels conflictes en curs i l'auge de la intel·ligència artificial."
+          "headline": "La inflació a Espanya es manté al 4,9% a l'octubre, la més alta en anys",
+          "detail": "L'IPC a Espanya es va situar en el 4,9% a l'octubre de 2026, la mateixa xifra que al setembre i la taxa més elevada des de febrer de 2023. La inflació subjacent es va mantenir en el 3,1%. L'encariment de l'electricitat, el gas, la fruita i les hortalisses va contrarestar la contenció dels combustibles."
         },
         {
-          "headline": "El BCE manté els tipus d'interès, però la inflació a la Eurozona preocupa",
-          "detail": "El 29 d'octubre de 2026, el Consell de Govern del BCE va decidir mantenir sense canvis els tipus d'interès oficials, tot i que va assenyalar un continu augment dels preus de l'energia que planteja riscos a l'alça per a la inflació i a la baixa per al creixement. Es preveu que la inflació general a la Eurozona se situï en una mitjana del 3,0% el 2026, amb un pic del 3,6% en el quart trimestre."
+          "headline": "El BCE manté els tipus d'interès, però no descarta pujades futures",
+          "detail": "El Banc Central Europeu (BCE) va decidir mantenir els tipus d'interès en la seva reunió del 29 d'octubre de 2026, amb la facilitat de dipòsit al 2,50%. No obstant això, amb la inflació encara elevada, s'especula amb una possible nova pujada en la reunió de desembre."
         },
         {
-          "headline": "Creixement del PIB global resistent però desigual",
-          "detail": "El Fons Monetari Internacional preveu un creixement global del 3,1% el 2026, mentre que el Banc Mundial projecta una desacceleració fins al 2,5%. El dinamisme es concentra en economies com els EUA i parts d'Àsia, amb Europa mostrant un creixement més feble."
+          "headline": "El PIB de la Zona Euro modera el seu creixement al 0,4% al tercer trimestre",
+          "detail": "El Producte Interior Brut (PIB) de la zona euro va registrar una expansió trimestral del 0,4% en el tercer trimestre de 2026, segons la segona lectura d'Eurostat. Aquesta dada suposa una desacceleració respecte al 0,6% del segon trimestre, amb un creixement anual de l'1,3%."
         },
         {
-          "headline": "PIB dels EUA revisat a l'alça i creixement de la Xina",
-          "detail": "El PIB dels Estats Units va créixer un 3,40% interanual en el tercer trimestre de 2026 i el del segon trimestre es va revisar a l'alça fins al 2,2%, impulsat per la inversió i la despesa del consumidor, amb la IA com a factor clau. Per la seva banda, la Xina va registrar un creixement del PIB del 4,5% interanual en el tercer trimestre de 2026, superant algunes previsions."
+          "headline": "L'ocupació a Espanya registra el millor octubre de la sèrie, malgrat el repunt de l'atur",
+          "detail": "La Seguretat Social va sumar 186.612 ocupats a l'octubre, assolint una mitjana de 22,62 milions d'afiliats, el millor registre històric per a aquest mes. Paral·lelament, l'atur va repuntar en 43.128 persones, fins als 2,42 milions de desocupats."
         }
       ]
     },
@@ -30,16 +30,8 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "L'FMI eleva la previsió de creixement d'Espanya per al 2026",
-          "detail": "El Fons Monetari Internacional ha millorat la seva previsió de creixement per a l'economia espanyola fins al 2,5% per al 2026, més del doble de l'1,1% projectat per a la zona euro. El govern espanyol també ha elevat la seva previsió fins al 2,6%."
-        },
-        {
-          "headline": "Inflació espanyola per sobre de la mitjana europea",
-          "detail": "L'FMI augura una inflació del 3,7% per a Espanya el 2026, superior a la mitjana de la zona euro del 3,1%. La Cambra de Comerç d'Espanya preveu un 3,2% de mitjana per al mateix període."
-        },
-        {
-          "headline": "Mercat laboral amb bon ritme de creació d'ocupació, però amb reptes",
-          "detail": "S'espera que l'ocupació augmenti un 2,3% el 2026, amb la taxa d'atur reduint-se fins al 10% de mitjana anual. Tot i la creació neta d'ocupació, l'inici del 2026 va mostrar una moderació en el ritme i persisteixen preocupacions sobre la precarietat i la durada dels contractes."
+          "headline": "Espanya lidera el creixement del PIB entre les grans economies de la UE",
+          "detail": "En el tercer trimestre de 2026, Espanya va registrar una expansió econòmica del 0,6%, destacant-se com el major creixement entre les principals economies de la Unió Europea, per davant d'Alemanya (0,2%) o França (-0,1%)."
         }
       ]
     },
@@ -48,44 +40,44 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "Creixement moderat per a la Eurozona amb riscos geopolítics",
-          "detail": "L'economia de la Eurozona es preveu que creixi al voltant de l'1,1% el 2026, impulsada per la demanda interna i la inversió, però llastrada pels alts preus de l'energia i la feble confiança dels consumidors. Les tensions comercials globals i la incertesa geopolítica continuen sent riscos clau."
-        },
-        {
-          "headline": "El BCE s'enfronta a pressions inflacionistes persistents",
-          "detail": "Les decisions recents del BCE reflecteixen la preocupació per una inflació que es mantindrà per sobre de l'objectiu durant un període prolongat, principalment a causa de l'impacte dels conflictes a l'Orient Mitjà en els preus de l'energia."
+          "headline": "El Regne Unit creix un 0,7% al tercer trimestre impulsat per la IA",
+          "detail": "L'economia del Regne Unit va créixer un 0,7% en el tercer trimestre de 2026, amb la demanda d'intel·ligència artificial (IA) com a motor destacat d'aquesta expansió."
         }
       ]
     },
     {
       "emoji": "🌍",
-      "title": "Món",
+      "title": "Economia Mundial",
       "items": [
         {
-          "headline": "Conflictes geopolítics continuen sent un factor clau de risc",
-          "detail": "L'escalada dels conflictes, especialment a l'Orient Mitjà, continua generant pressions inflacionistes i interrupcions en les rutes comercials i marítimes, afectant els preus de l'energia i les matèries primeres."
+          "headline": "L'OPEP eleva la previsió de creixement del PIB mundial per a 2026",
+          "detail": "L'Organització de Països Exportadors de Petroli (OPEP) va revisar a l'alça la seva projecció de creixement del PIB mundial per a 2026, del 3,0% al 3,1%. Les previsions per als EUA i la zona euro també van ser incrementades."
         },
         {
-          "headline": "La Xina consolida el seu creixement amb un impuls tecnològic",
-          "detail": "L'economia xinesa va accelerar el seu creixement al 4,5% en el tercer trimestre de 2026, recolzada per la robustesa del sector manufacturer d'alta tecnologia i les exportacions, en línia amb l'objectiu anual de Beijing."
-        },
-        {
-          "headline": "La intel·ligència artificial com a motor de creixement global",
-          "detail": "La inversió en IA continua sent un element positiu que amorteix l'impacte dels conflictes i dinamitza la inversió no residencial i la productivitat, especialment en economies avançades."
+          "headline": "Volatilitat als EUA després de les eleccions de mig mandat i la inflació",
+          "detail": "Les eleccions de mig mandat als EUA, amb la victòria demòcrata en ambdues cambres, van generar incertesa. El PIB dels EUA va créixer un 0,8% al Q3, però la inflació PCE va augmentar un 3,6% interanual al setembre."
         }
       ]
     },
     {
       "emoji": "💹",
-      "title": "Mercats i inversions",
+      "title": "Mercats i Inversions",
       "items": [
         {
-          "headline": "Previsions volàtils per al preu del petroli",
-          "detail": "UBS preveu que el preu del barril de Brent finalitzi el 2026 en 110 dòlars, però amb riscos elevats a causa de l'evolució del conflicte a l'Orient Mitjà i la recuperació dels fluxos de producció. Altres previsions per al 2026 oscil·len entre els 59 i els 85 dòlars, tot i que possibles interrupcions podrien generar pujades significatives."
+          "headline": "Caigudes en borses tecnològiques per incertesa sobre la IA i la renúncia del CEO de Nvidia",
+          "detail": "Els principals índexs borsaris dels Estats Units, especialment el Nasdaq, van registrar caigudes significatives arrossegats per l'enfonsament d'accions de fabricants de semiconductors i empreses vinculades a la IA. La renúncia del CEO de Nvidia, Jensen Huang, va contribuir a la incertesa del sector."
         },
         {
-          "headline": "Optimisme cautelós en els mercats de renda variable europeus",
-          "detail": "L'outlook per a la Eurozona el 2026 és d'un optimisme cautelós en els mercats de renda variable, amb guanys modestos impulsats per la despesa estratègica i valoracions atractives, però amb la cautela aconsellada per un euro fort i la incertesa política."
+          "headline": "El saldo de renda fixa a la B3 (Brasil) supera els 10 bilions de R$",
+          "detail": "L'estoc de renda fixa registrat a la B3 va superar per primera vegada els 10 bilions de reals brasilers en el tercer trimestre de 2026, impulsat per un escenari de tipus d'interès elevats. Els títols de menor termini van oferir els millors retorns a l'octubre."
+        },
+        {
+          "headline": "La lliura esterlina es reforça davant l'euro, i el ien sota pressió",
+          "detail": "La lliura esterlina ha assolit el seu nivell més alt respecte a l'euro en gairebé 18 mesos a principis de novembre. Per la seva banda, el dòlar/ien (USD/JPY) es troba a prop del nivell de 160, augmentant el risc d'una possible intervenció per part de Tòquio."
+        },
+        {
+          "headline": "El preu del petroli Brent recula per sota dels 95 dòlars el barril",
+          "detail": "El preu del petroli Brent va fluctuar al voltant dels 92-94 dòlars el barril a mitjans de novembre, amb una tendència a la baixa durant la setmana, influït per la contenció de les tensions geopolítiques i l'oferta. Es va registrar una caiguda del 17% en una setmana a principis de novembre."
         }
       ]
     },
@@ -94,16 +86,12 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "La tokenització d'actius del món real (RWA) es consolida",
-          "detail": "La tokenització d'actius del món real (RWAs) és una de les tendències més destacades en blockchain per al 2026, amb les principals institucions financeres promovent aquesta pràctica per millorar la liquiditat i simplificar les inversions."
+          "headline": "Hackers de Corea del Nord roben milions en criptomonedes",
+          "detail": "L'FBI ha assenyalat que hackers patrocinats per Corea del Nord han robat més de 400 milions de dòlars en criptomonedes durant els últims 18 mesos, utilitzant fraus basats en vídeos de càmeres web gravats en secret."
         },
         {
-          "headline": "Integració creixent d'IA i Blockchain",
-          "detail": "La combinació de la intel·ligència artificial i la blockchain ha augmentat, buscant dades segures i transparents per a eines d'IA, i automatització impulsada per IA en xarxes blockchain."
-        },
-        {
-          "headline": "Avanç en la regulació i adopció institucional",
-          "detail": "La claredat regulatòria als EUA i la UE és un gran accelerador per a l'adopció empresarial de blockchain, amb una expansió de l'adopció institucional i l'evolució de les stablecoins com a infraestructura financera."
+          "headline": "Bitcoin registra volatilitat a la setmana",
+          "detail": "Bitcoin va cotitzar al voltant dels 77.725 dòlars a principis de novembre, però va experimentar una caiguda de gairebé el 3% el 12 de novembre, situant-se al voltant dels 71.770 dòlars, enmig d'una dinàmica negativa."
         }
       ]
     },
@@ -112,15 +100,15 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "La Intel·ligència Artificial, factor determinant en la diferenciació econòmica",
-          "detail": "Mentre l'economia global s'enfronta a desafiaments, la inversió en intel·ligència artificial s'ha convertit en un motor clau per a la productivitat i el creixement, creant una notable divergència entre les economies que inverteixen en tecnologia i les que no."
+          "headline": "La demanda d'IA, motor de creixement al Regne Unit i incertesa a la borsa",
+          "detail": "Mentre la demanda d'intel·ligència artificial (IA) va impulsar el creixement del PIB del Regne Unit al tercer trimestre, la renúncia del CEO de Nvidia, un actor clau en el sector, va generar preocupació i volatilitat als mercats tecnològics."
         }
       ]
     }
   ],
   "takeaways": [
-    "La resiliència econòmica global es manté, però la inflació continua sent una preocupació clau a causa dels conflictes i l'energia.",
-    "Espanya destaca dins de la Eurozona amb previsions de creixement significativament superiors a la mitjana, malgrat una inflació persistentment alta.",
-    "La intel·ligència artificial i la blockchain no només són tendències tecnològiques, sinó que es consoliden com a motors de creixement i transformació en diversos sectors econòmics i financers."
+    "La inflació persistent continua sent un repte per als bancs centrals, tot i que el BCE va mantenir els tipus.",
+    "L'economia europea mostra una resiliència desigual, amb Espanya i el Regne Unit creixent, però amb Alemanya i França amb resultats més febles.",
+    "La volatilitat als mercats, especialment en el sector tecnològic, es veu influenciada per esdeveniments corporatius i polítics, com les eleccions als EUA i la renúncia del CEO de Nvidia."
   ]
 }
