@@ -1,27 +1,31 @@
 {
-  "date": "13 de novembre del 2026",
-  "generatedAt": "2026-11-13T15:31:43.084Z",
-  "intro": "La setmana econòmica ha estat marcada per un panorama mixt, amb dades de creixement positives a Europa i revisions a l'alça del PIB mundial, però amb la inflació persistent i la volatilitat als mercats borsaris generant cautela.",
+  "date": "20 de novembre del 2026",
+  "generatedAt": "2026-11-20T16:16:27.330Z",
+  "intro": "La setmana econòmica ha estat marcada per una combinació de resiliència en el creixement, però amb persistents pressions inflacionistes i l'anticipació d'apujades de tipus d'interès per part dels bancs centrals, mentre els mercats mostraven cautela i sorgien noves preocupacions sobre la ciberseguretat en infraestructures crítiques.",
   "sections": [
     {
       "emoji": "📊",
       "title": "Macroeconomia",
       "items": [
         {
-          "headline": "La inflació a Espanya es manté al 4,9% a l'octubre, la més alta en anys",
-          "detail": "L'IPC a Espanya es va situar en el 4,9% a l'octubre de 2026, la mateixa xifra que al setembre i la taxa més elevada des de febrer de 2023. La inflació subjacent es va mantenir en el 3,1%. L'encariment de l'electricitat, el gas, la fruita i les hortalisses va contrarestar la contenció dels combustibles."
+          "headline": "La inflació a l'eurozona continua a l'alça",
+          "detail": "La inflació preliminar de l'IPC harmonitzat (HICP) per a l'eurozona va pujar al 4,0% interanual a l'octubre, des del 3,8% anterior, impulsada principalment per l'augment dels preus de l'energia. La Comissió Europea preveu una inflació anual del 3,2% per a l'eurozona el 2026 i del 3,1% el 2027."
         },
         {
-          "headline": "El BCE manté els tipus d'interès, però no descarta pujades futures",
-          "detail": "El Banc Central Europeu (BCE) va decidir mantenir els tipus d'interès en la seva reunió del 29 d'octubre de 2026, amb la facilitat de dipòsit al 2,50%. No obstant això, amb la inflació encara elevada, s'especula amb una possible nova pujada en la reunió de desembre."
+          "headline": "Inflació espanyola estable, però amb previsions a l'alça",
+          "detail": "La taxa d'inflació interanual a Espanya es va mantenir en el 4,9% a l'octubre, el mateix nivell que al setembre, amb la inflació subjacent sense canvis en el 3,1%. Funcas preveu una inflació del 4,6% per a novembre i desembre, amb una mitjana anual del 3,7%."
         },
         {
-          "headline": "El PIB de la Zona Euro modera el seu creixement al 0,4% al tercer trimestre",
-          "detail": "El Producte Interior Brut (PIB) de la zona euro va registrar una expansió trimestral del 0,4% en el tercer trimestre de 2026, segons la segona lectura d'Eurostat. Aquesta dada suposa una desacceleració respecte al 0,6% del segon trimestre, amb un creixement anual de l'1,3%."
+          "headline": "El BCE s'encamina cap a una apujada de tipus",
+          "detail": "La pròxima decisió de política monetària del Banc Central Europeu (BCE) és el 17 de desembre de 2026, i els mercats monetaris i els economistes anticipen una apujada de 25 punts bàsics, que elevaria el tipus de la facilitat de dipòsit del 2,50% al 2,75%. A més, el 25 de novembre es debatrà un possible augment del requisit de reserves mínimes dels bancs de l'1% al 2%."
         },
         {
-          "headline": "L'ocupació a Espanya registra el millor octubre de la sèrie, malgrat el repunt de l'atur",
-          "detail": "La Seguretat Social va sumar 186.612 ocupats a l'octubre, assolint una mitjana de 22,62 milions d'afiliats, el millor registre històric per a aquest mes. Paral·lelament, l'atur va repuntar en 43.128 persones, fins als 2,42 milions de desocupats."
+          "headline": "Espanya lidera el creixement de l'eurozona",
+          "detail": "La Comissió Europea ha millorat les previsions de creixement d'Espanya fins al 2,6% del PIB per al 2026 i el 2,1% per al 2027, posicionant-la com la gran economia de la UE que més creix. El PIB de la zona euro va créixer un 0,4% intertrimestral en el tercer trimestre de 2026."
+        },
+        {
+          "headline": "Mercat laboral espanyol amb rècord d'ocupats",
+          "detail": "Espanya continua sent un dels mercats laborals més dinàmics d'Europa, amb més de 22,7 milions de persones ocupades, un màxim històric i 25 trimestres consecutius de creació d'ocupació. No obstant això, el país encara registra una de les taxes d'atur més elevades de la UE (10,2%), tot i no ser ja la més alta."
         }
       ]
     },
@@ -30,8 +34,20 @@
       "title": "Espanya",
       "items": [
         {
-          "headline": "Espanya lidera el creixement del PIB entre les grans economies de la UE",
-          "detail": "En el tercer trimestre de 2026, Espanya va registrar una expansió econòmica del 0,6%, destacant-se com el major creixement entre les principals economies de la Unió Europea, per davant d'Alemanya (0,2%) o França (-0,1%)."
+          "headline": "Previsions econòmiques a l'alça malgrat riscos",
+          "detail": "Brussel·les ha millorat les previsions de creixement per a Espanya, però alerta que la falta d'habitatge i els preus elevats podrien limitar la mobilitat laboral i l'arribada de nous treballadors, afectant negativament el mercat laboral."
+        },
+        {
+          "headline": "Caiguda del consum per vaga",
+          "detail": "El consum a Espanya va caure un 4% durant la setmana de la vaga de l'11 de novembre, segons un informe del BBVA."
+        },
+        {
+          "headline": "Mesures de suport a les famílies monoparentals",
+          "detail": "El 10 de novembre es va aprovar un Reial Decret-llei amb mesures urgents per al reconeixement i protecció de les famílies monoparentals, subratllant la menor inversió d'Espanya en suport familiar respecte a la mitjana europea."
+        },
+        {
+          "headline": "El deute públic espanyol sota el 100%",
+          "detail": "La Comissió Europea preveu que el deute públic espanyol es redueixi fins al 99,2% del PIB el 2026, baixant del llindar del 100% per primera vegada des del 2019."
         }
       ]
     },
@@ -40,44 +56,56 @@
       "title": "Europa",
       "items": [
         {
-          "headline": "El Regne Unit creix un 0,7% al tercer trimestre impulsat per la IA",
-          "detail": "L'economia del Regne Unit va créixer un 0,7% en el tercer trimestre de 2026, amb la demanda d'intel·ligència artificial (IA) com a motor destacat d'aquesta expansió."
+          "headline": "Preocupació per la inflació energètica",
+          "detail": "L'augment dels preus de l'energia ha estat el principal motor de la pujada de la inflació a l'eurozona, amb un increment del 21% a l'octubre respecte al 19% del setembre."
+        },
+        {
+          "headline": "El BCE reforça l'euro i la resiliència bancària",
+          "detail": "El BCE treballa per fer les seves línies de swap en euros més accessibles per a les banques centrals estrangeres, buscant donar més abast internacional a l'euro. A més, ha mantingut estables els requisits de capital per al 2027 i se centra en la resiliència financera i operativa dels bancs."
+        },
+        {
+          "headline": "Fusió bancària important a Europa",
+          "detail": "Alemanya i Unicredit han arribat a un acord per desencallar la primera gran fusió al sector financer europeu, amb el vistiplau de la Comissió Europea."
+        },
+        {
+          "headline": "Regne Unit busca suavitzar el Brexit",
+          "detail": "El Regne Unit planteja buscar nous acords amb la Unió Europea per suavitzar el Brexit, en un intent de recuperar part del pes econòmic i geopolític perdut."
         }
       ]
     },
     {
       "emoji": "🌍",
-      "title": "Economia Mundial",
+      "title": "Món",
       "items": [
         {
-          "headline": "L'OPEP eleva la previsió de creixement del PIB mundial per a 2026",
-          "detail": "L'Organització de Països Exportadors de Petroli (OPEP) va revisar a l'alça la seva projecció de creixement del PIB mundial per a 2026, del 3,0% al 3,1%. Les previsions per als EUA i la zona euro també van ser incrementades."
+          "headline": "Dubtes sobre el 'boom' de la IA impacten els mercats",
+          "detail": "L'auge de la intel·ligència artificial (IA) genera dubtes en els mercats, amb l'Ibex 35 i altres borses europees registrant descensos. El BCE també ha alertat sobre els riscos 'sistèmics' per a l'estabilitat financera a causa d'una sobrevaloració de la IA."
         },
         {
-          "headline": "Volatilitat als EUA després de les eleccions de mig mandat i la inflació",
-          "detail": "Les eleccions de mig mandat als EUA, amb la victòria demòcrata en ambdues cambres, van generar incertesa. El PIB dels EUA va créixer un 0,8% al Q3, però la inflació PCE va augmentar un 3,6% interanual al setembre."
+          "headline": "Fort creixement de les exportacions xineses",
+          "detail": "Les exportacions de la Xina van mantenir un ritme de creixement interanual molt dinàmic a l'octubre, especialment impulsades per la venda de productes d'alta tecnologia."
+        },
+        {
+          "headline": "Preocupació pel deute sobirà global",
+          "detail": "Les creixents preocupacions sobre la sostenibilitat del deute sobirà en les principals economies avançades estan impulsant a l'alça els rendiments a llarg termini."
         }
       ]
     },
     {
       "emoji": "💹",
-      "title": "Mercats i Inversions",
+      "title": "Mercats i inversions",
       "items": [
         {
-          "headline": "Caigudes en borses tecnològiques per incertesa sobre la IA i la renúncia del CEO de Nvidia",
-          "detail": "Els principals índexs borsaris dels Estats Units, especialment el Nasdaq, van registrar caigudes significatives arrossegats per l'enfonsament d'accions de fabricants de semiconductors i empreses vinculades a la IA. La renúncia del CEO de Nvidia, Jensen Huang, va contribuir a la incertesa del sector."
+          "headline": "Caigudes generalitzades a les borses europees",
+          "detail": "L'Ibex 35 va perdre embranzida i va registrar una caiguda de gairebé el 0,9% el 20 de novembre, amb altres parquets europeus com Frankfurt, Milà, París i Londres també obrint en negatiu. La sortida a borsa d'Anthropic va tenir una demanda inicialment forta, però les seves accions van caure posteriorment."
         },
         {
-          "headline": "El saldo de renda fixa a la B3 (Brasil) supera els 10 bilions de R$",
-          "detail": "L'estoc de renda fixa registrat a la B3 va superar per primera vegada els 10 bilions de reals brasilers en el tercer trimestre de 2026, impulsat per un escenari de tipus d'interès elevats. Els títols de menor termini van oferir els millors retorns a l'octubre."
+          "headline": "El dòlar s'enforteix",
+          "detail": "L'euro es va situar al voltant d'1,0978 dòlars el 20 de novembre. El dòlar nord-americà ha assolit el seu valor més alt del 2026 enfront d'algunes divises."
         },
         {
-          "headline": "La lliura esterlina es reforça davant l'euro, i el ien sota pressió",
-          "detail": "La lliura esterlina ha assolit el seu nivell més alt respecte a l'euro en gairebé 18 mesos a principis de novembre. Per la seva banda, el dòlar/ien (USD/JPY) es troba a prop del nivell de 160, augmentant el risc d'una possible intervenció per part de Tòquio."
-        },
-        {
-          "headline": "El preu del petroli Brent recula per sota dels 95 dòlars el barril",
-          "detail": "El preu del petroli Brent va fluctuar al voltant dels 92-94 dòlars el barril a mitjans de novembre, amb una tendència a la baixa durant la setmana, influït per la contenció de les tensions geopolítiques i l'oferta. Es va registrar una caiguda del 17% en una setmana a principis de novembre."
+          "headline": "Estabilitat del petroli i caiguda de l'or",
+          "detail": "El barril de Brent es va situar en els 91,8 dòlars, mentre que el West Texas Intermediate (WTI) es va mantenir pràcticament pla. El gram d'or, en canvi, va registrar una caiguda."
         }
       ]
     },
@@ -86,12 +114,8 @@
       "title": "Cripto",
       "items": [
         {
-          "headline": "Hackers de Corea del Nord roben milions en criptomonedes",
-          "detail": "L'FBI ha assenyalat que hackers patrocinats per Corea del Nord han robat més de 400 milions de dòlars en criptomonedes durant els últims 18 mesos, utilitzant fraus basats en vídeos de càmeres web gravats en secret."
-        },
-        {
-          "headline": "Bitcoin registra volatilitat a la setmana",
-          "detail": "Bitcoin va cotitzar al voltant dels 77.725 dòlars a principis de novembre, però va experimentar una caiguda de gairebé el 3% el 12 de novembre, situant-se al voltant dels 71.770 dòlars, enmig d'una dinàmica negativa."
+          "headline": "Sense notícies destacades en l'última setmana",
+          "detail": "No s'han trobat notícies rellevants o moviments significatius en el mercat de criptomonedes durant els últims set dies."
         }
       ]
     },
@@ -100,15 +124,15 @@
       "title": "Curiositats",
       "items": [
         {
-          "headline": "La demanda d'IA, motor de creixement al Regne Unit i incertesa a la borsa",
-          "detail": "Mentre la demanda d'intel·ligència artificial (IA) va impulsar el creixement del PIB del Regne Unit al tercer trimestre, la renúncia del CEO de Nvidia, un actor clau en el sector, va generar preocupació i volatilitat als mercats tecnològics."
+          "headline": "Ciberatacs a infraestructures crítiques com neveres de supermercats",
+          "detail": "Uns ciberatacs recents han pres el control remot de sistemes de refrigeració en centenars de supermercats europeus i fins i tot han afectat les càmeres de plasma d'un banc de sang a França, posant de manifest la fragilitat de la societat cada vegada més connectada i els riscos de sabotatge no sofisticat."
         }
       ]
     }
   ],
   "takeaways": [
-    "La inflació persistent continua sent un repte per als bancs centrals, tot i que el BCE va mantenir els tipus.",
-    "L'economia europea mostra una resiliència desigual, amb Espanya i el Regne Unit creixent, però amb Alemanya i França amb resultats més febles.",
-    "La volatilitat als mercats, especialment en el sector tecnològic, es veu influenciada per esdeveniments corporatius i polítics, com les eleccions als EUA i la renúncia del CEO de Nvidia."
+    "La inflació persisteix a Europa, amb el BCE preparat per apujar tipus al desembre.",
+    "Espanya destaca pel seu dinamisme econòmic, liderant el creixement de l'eurozona i la creació d'ocupació, però amb reptes en inflació i accés a l'habitatge.",
+    "Els mercats financers mostren cautela, amb descensos en les borses europees influïts pels dubtes sobre la intel·ligència artificial i les preocupacions sobre el deute sobirà."
   ]
 }
